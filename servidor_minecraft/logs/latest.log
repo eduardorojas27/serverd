@@ -1865,3 +1865,10 @@ java.lang.NullPointerException: null
 [19Jan2025 20:32:40.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]
 [19Jan2025 20:49:53.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
 [19Jan2025 20:49:57.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]
+[19Jan2025 20:56:51.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
+[19Jan2025 20:57:42.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]
+[19Jan2025 20:57:52.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
+[19Jan2025 20:58:07.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Gamerule doDaylightCycle is now set to: false]
+[19Jan2025 20:58:10.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]
+[19Jan2025 20:58:20.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
+[19Jan2025 20:58:28.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fr4nnki> day 35

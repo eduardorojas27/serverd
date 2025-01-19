@@ -11,7 +11,7 @@
 # Time Shall Not Pass Modules Config
 [TimeShallNotPassModules]
 	# Controls if Time Shall Not Pass will disable the daylight cycle when there are no non-excluded players connected. Default: [true]
-	daylightCycleModule = true
+	daylightCycleModule = false
 	# Controls if Time Shall Not Pass will disable random ticks when there are no non-excluded players connected. Default: [false]
 	randomTicksModule = false
 	# Controls if Time Shall Not Pass will disable tile entity ticks when there are no non-excluded players connected. Default: [false]

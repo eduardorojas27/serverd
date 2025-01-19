@@ -11438,3 +11438,22 @@ java.lang.NullPointerException: null
 [19Jan2025 20:49:57.511] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
 [19Jan2025 20:49:57.512] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
 [19Jan2025 20:49:57.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]
+[19Jan2025 20:53:45.611] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Jan2025 20:53:45.627] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Jan2025 20:56:51.120] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:56:51.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
+[19Jan2025 20:56:51.121] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:57:42.267] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:57:42.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]
+[19Jan2025 20:57:42.268] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:57:52.324] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:57:52.324] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:57:52.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
+[19Jan2025 20:58:07.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Gamerule doDaylightCycle is now set to: false]
+[19Jan2025 20:58:10.186] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:58:10.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]
+[19Jan2025 20:58:10.186] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:58:20.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
+[19Jan2025 20:58:28.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fr4nnki> day 35
+[19Jan2025 20:58:45.616] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Jan2025 20:58:45.629] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
