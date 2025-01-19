@@ -11428,3 +11428,13 @@ java.lang.NullPointerException: null
 [19Jan2025 20:33:45.742] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [19Jan2025 20:38:45.641] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Jan2025 20:38:45.659] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Jan2025 20:43:45.632] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Jan2025 20:43:45.656] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Jan2025 20:48:45.640] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Jan2025 20:48:45.667] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Jan2025 20:49:53.185] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:49:53.185] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:49:53.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
+[19Jan2025 20:49:57.511] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:49:57.512] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[19Jan2025 20:49:57.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]

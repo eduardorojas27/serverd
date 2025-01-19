@@ -1863,3 +1863,5 @@ java.lang.NullPointerException: null
 [19Jan2025 20:28:47.345] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/3521, l='ServerLevel[world]', x=-2859.76, y=65.00, z=-2440.99]
 [19Jan2025 20:28:50.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
 [19Jan2025 20:32:40.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]
+[19Jan2025 20:49:53.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
+[19Jan2025 20:49:57.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]
