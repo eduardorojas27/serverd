@@ -1913,3 +1913,10 @@ java.lang.NullPointerException: null
 [19Jan2025 21:14:22.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
 [19Jan2025 21:14:22.417] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [19Jan2025 21:14:22.417] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 21:39:52.925] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@41bfbecd
+[19Jan2025 21:40:29.961] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: You logged in from another location
+[19Jan2025 21:40:29.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[19Jan2025 21:40:29.977] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:46409] logged in with entity id 17427 at (-2904.9185936729746, 64.0, -2295.586399055548)
+[19Jan2025 21:40:29.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[19Jan2025 21:40:30.061] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 21:40:30.061] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
