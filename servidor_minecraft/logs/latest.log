@@ -1872,3 +1872,11 @@ java.lang.NullPointerException: null
 [19Jan2025 20:58:10.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been enabled. Check the server console/log for more information.]
 [19Jan2025 20:58:20.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: The Time Shall Not Pass Daylight Cycle Module has been disabled. Check the server console/log for more information.]
 [19Jan2025 20:58:28.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fr4nnki> day 35
+[19Jan2025 21:06:51.864] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[19Jan2025 21:06:51.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[19Jan2025 21:07:01.094] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@45f829c6
+[19Jan2025 21:07:01.104] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:39863] logged in with entity id 11256 at (-2944.398652703456, 64.0, -2263.703756175967)
+[19Jan2025 21:07:01.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[19Jan2025 21:07:01.201] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 21:07:01.202] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 21:10:49.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
