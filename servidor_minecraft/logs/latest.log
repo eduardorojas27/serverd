@@ -1880,3 +1880,36 @@ java.lang.NullPointerException: null
 [19Jan2025 21:07:01.201] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [19Jan2025 21:07:01.202] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [19Jan2025 21:10:49.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[19Jan2025 21:11:51.410] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_crimson
+[19Jan2025 21:11:51.440] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/base_plate
+[19Jan2025 21:11:51.443] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/targets_1
+[19Jan2025 21:11:51.444] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/logs
+[19Jan2025 21:11:51.445] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent2
+[19Jan2025 21:11:51.445] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/cage1
+[19Jan2025 21:11:51.446] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent1
+[19Jan2025 21:13:02.065] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[19Jan2025 21:13:02.067] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[19Jan2025 21:13:02.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[19Jan2025 21:13:02.114] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[19Jan2025 21:13:24.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] hola
+[19Jan2025 21:13:32.084] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@297a7c78
+[19Jan2025 21:13:32.092] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:50373] logged in with entity id 12681 at (-2903.5476395127275, 64.00133597911214, -2305.192962146558)
+[19Jan2025 21:13:32.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[19Jan2025 21:13:32.207] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 21:13:32.207] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 21:13:45.012] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[19Jan2025 21:13:45.065] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[19Jan2025 21:13:45.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[19Jan2025 21:13:56.078] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@22cab91c
+[19Jan2025 21:13:56.085] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:45721] logged in with entity id 12734 at (-2903.5476395127275, 64.00133597911214, -2305.192962146558)
+[19Jan2025 21:13:56.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[19Jan2025 21:13:56.192] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 21:13:56.192] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 21:14:07.668] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[19Jan2025 21:14:07.711] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[19Jan2025 21:14:07.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[19Jan2025 21:14:22.281] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@79cbd0a7
+[19Jan2025 21:14:22.290] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:59397] logged in with entity id 12798 at (-2903.5476395127275, 64.00133597911214, -2305.192962146558)
+[19Jan2025 21:14:22.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[19Jan2025 21:14:22.417] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 21:14:22.417] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
