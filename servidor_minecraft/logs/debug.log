@@ -12334,3 +12334,7 @@ java.lang.NullPointerException: null
 [19Jan2025 21:14:22.422] [Server thread/DEBUG] [Max Health Fix/]: Corrected health of fr4nnki from 1040.0 to 1872.0.
 [19Jan2025 21:18:45.614] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Jan2025 21:18:45.626] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Jan2025 21:23:45.608] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Jan2025 21:23:45.619] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Jan2025 21:28:45.608] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Jan2025 21:28:45.621] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
