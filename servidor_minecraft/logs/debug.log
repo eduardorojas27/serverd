@@ -12806,3 +12806,7 @@ java.lang.NullPointerException: null
 [19Jan2025 22:19:30.751] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [19Jan2025 22:19:30.752] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [19Jan2025 22:19:30.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[19Jan2025 22:23:45.601] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Jan2025 22:23:45.614] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Jan2025 22:28:45.589] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Jan2025 22:28:45.602] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

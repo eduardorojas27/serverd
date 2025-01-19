@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-04 18:13:39 +0000"
@@ -1061,9 +1067,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-01-13 21:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
     },
     "done": true
   },
@@ -1148,6 +1166,12 @@
   "mcwbridges:recipes/dark_oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-12 18:21:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
     },
     "done": true
   },
@@ -2776,6 +2800,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/crimson_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -3709,6 +3739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_monster_room": "2025-01-17 21:07:15 +0000",
@@ -3725,6 +3761,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-05 18:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
     },
     "done": true
   },
@@ -4255,6 +4297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-19 22:20:09 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -4510,6 +4558,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-04 03:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
     },
     "done": true
   },
@@ -5588,6 +5642,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/crimson_planks": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/big_white_glazed_jar": {
     "criteria": {
       "has_item": "2025-01-04 18:11:52 +0000"
@@ -5699,6 +5759,12 @@
   "smallships:recipes/bop_hellbark_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
     },
     "done": true
   },
@@ -5837,6 +5903,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
     },
     "done": true
   },
@@ -6725,6 +6797,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-04 18:12:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_crimson_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:20:09 +0000"
     },
     "done": true
   },
