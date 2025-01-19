@@ -1922,3 +1922,27 @@ java.lang.NullPointerException: null
 [19Jan2025 21:40:30.061] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [19Jan2025 21:44:05.813] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
 [19Jan2025 21:46:34.269] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2903, y=63, z=-2309} BlockPos{x=-2903, y=62, z=-2309}
+[19Jan2025 22:13:42.236] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 22:13:42.237] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 22:13:42.673] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_1
+[19Jan2025 22:13:42.676] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_2
+[19Jan2025 22:13:42.677] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_3
+[19Jan2025 22:13:42.821] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_1
+[19Jan2025 22:13:42.823] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_3
+[19Jan2025 22:13:42.825] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_2
+[19Jan2025 22:13:44.450] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_wasteland
+[19Jan2025 22:14:19.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Nightmare Fuel]
+[19Jan2025 22:14:30.633] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY was kicked for floating too long!
+[19Jan2025 22:14:30.682] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Flying is not enabled on this server
+[19Jan2025 22:14:30.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[19Jan2025 22:14:37.828] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6fc25e0
+[19Jan2025 22:14:37.841] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:58073] logged in with entity id 23940 at (-347.94957550462635, 64.20000004768372, -244.7055708174364)
+[19Jan2025 22:14:37.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[19Jan2025 22:14:37.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -------------------- Server Notice --------------------
+[19Jan2025 22:14:37.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: If playing on LAN or Essential servers, you may experience constant kicks on Owlkin and Void Wyvern. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.
+[19Jan2025 22:14:37.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
+[19Jan2025 22:14:37.966] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 22:14:37.966] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 22:19:30.751] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 22:19:30.752] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 22:19:30.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
