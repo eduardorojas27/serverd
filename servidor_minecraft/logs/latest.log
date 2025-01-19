@@ -1920,3 +1920,5 @@ java.lang.NullPointerException: null
 [19Jan2025 21:40:29.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
 [19Jan2025 21:40:30.061] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1b5a3652 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [19Jan2025 21:40:30.061] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5ca3a18e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Jan2025 21:44:05.813] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[19Jan2025 21:46:34.269] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2903, y=63, z=-2309} BlockPos{x=-2903, y=62, z=-2309}
