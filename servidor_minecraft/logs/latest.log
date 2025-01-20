@@ -1880,3 +1880,44 @@ java.lang.NullPointerException: null
 [20Jan2025 22:24:33.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
 [20Jan2025 22:24:33.765] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [20Jan2025 22:24:33.766] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Jan2025 22:47:49.922] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[20Jan2025 22:47:49.923] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[20Jan2025 22:47:49.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[20Jan2025 22:47:49.994] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[20Jan2025 22:48:02.994] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@450b8e3a
+[20Jan2025 22:48:03.002] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:55947] logged in with entity id 4909 at (-2904.5505805222833, 72.41999998688698, -2297.660236937987)
+[20Jan2025 22:48:03.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[20Jan2025 22:48:03.106] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Jan2025 22:48:03.107] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Jan2025 22:48:14.888] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[20Jan2025 22:48:14.925] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[20Jan2025 22:48:14.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[20Jan2025 22:48:23.492] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@438c6f7f
+[20Jan2025 22:48:23.498] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:55663] logged in with entity id 4997 at (-2904.5505805222833, 72.41999998688698, -2297.660236937987)
+[20Jan2025 22:48:23.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[20Jan2025 22:48:23.597] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Jan2025 22:48:23.597] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Jan2025 22:48:33.072] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[20Jan2025 22:48:33.121] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[20Jan2025 22:48:33.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[20Jan2025 22:48:57.534] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7aa0a4f6
+[20Jan2025 22:48:57.540] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:44035] logged in with entity id 5306 at (-2904.5505805222833, 72.41999998688698, -2297.660236937987)
+[20Jan2025 22:48:57.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[20Jan2025 22:48:57.631] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Jan2025 22:48:57.632] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Jan2025 22:49:14.424] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[20Jan2025 22:49:14.473] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[20Jan2025 22:49:14.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[20Jan2025 22:50:01.793] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2c2bf681
+[20Jan2025 22:50:01.800] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:44217] logged in with entity id 5673 at (-2904.5505805222833, 72.41999998688698, -2297.660236937987)
+[20Jan2025 22:50:01.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[20Jan2025 22:50:01.898] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Jan2025 22:50:01.898] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Jan2025 22:50:15.120] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[20Jan2025 22:50:15.175] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[20Jan2025 22:50:15.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[20Jan2025 22:50:23.689] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@70c42b8
+[20Jan2025 22:50:23.697] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:57495] logged in with entity id 5758 at (-2904.5505805222833, 72.41999998688698, -2297.660236937987)
+[20Jan2025 22:50:23.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[20Jan2025 22:50:23.799] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Jan2025 22:50:23.799] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
