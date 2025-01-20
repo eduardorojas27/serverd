@@ -1926,3 +1926,10 @@ java.lang.NullPointerException: null
 [20Jan2025 23:19:05.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
 [20Jan2025 23:19:12.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
 [20Jan2025 23:24:03.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has completed the challenge [Turtle-ology Majors Be Like]
+[20Jan2025 23:30:46.944] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2920, y=85, z=-2770} BlockPos{x=-2919, y=86, z=-2772}
+[20Jan2025 23:33:25.199] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[20Jan2025 23:33:25.200] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_medium
+[20Jan2025 23:33:25.201] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[20Jan2025 23:34:38.321] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[20Jan2025 23:34:38.328] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[20Jan2025 23:37:53.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
