@@ -1933,3 +1933,10 @@ java.lang.NullPointerException: null
 [20Jan2025 23:34:38.321] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
 [20Jan2025 23:34:38.328] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
 [20Jan2025 23:37:53.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[20Jan2025 23:45:30.843] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_crimson
+[20Jan2025 23:45:30.897] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/base_plate
+[20Jan2025 23:45:30.900] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/targets_1
+[20Jan2025 23:45:30.901] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/logs
+[20Jan2025 23:45:30.902] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent2
+[20Jan2025 23:45:30.902] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/cage1
+[20Jan2025 23:45:30.903] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent1
