@@ -12526,3 +12526,8 @@ java.lang.NullPointerException: null
 [20Jan2025 22:50:23.805] [Server thread/DEBUG] [Max Health Fix/]: Corrected health of fr4nnki from 1040.0 to 1872.0.
 [20Jan2025 22:53:08.015] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [20Jan2025 22:53:08.032] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Jan2025 22:58:08.091] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Jan2025 22:58:08.105] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Jan2025 22:58:41.702] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Charred Bone Block'/8327, l='ServerLevel[world]', x=-2888.88, y=77.12, z=-2288.85]
+[20Jan2025 23:03:07.972] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Jan2025 23:03:07.984] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
