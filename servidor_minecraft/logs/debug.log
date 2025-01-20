@@ -11432,3 +11432,12 @@ java.lang.NullPointerException: null
 [20Jan2025 22:24:48.943] [Server thread/DEBUG] [mixin/]: Mixing common.entity.MixinPiglinTasks from byg.mixins.json into net.minecraft.entity.monster.piglin.PiglinTasks
 [20Jan2025 22:24:48.943] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$static$0(Lit/unimi/dsi/fastutil/objects/Reference2ReferenceOpenHashMap;)V to mddcdeb0$lambda$static$0$0 in byg.mixins.json:common.entity.MixinPiglinTasks
 [20Jan2025 22:25:39.078] [Server thread/DEBUG] [mixin/]: Mixing compat.sophisticatedbackpacks.InventorySorterMixin from biggerstacks.mixins.json into net.p3pp3rf1y.sophisticatedbackpacks.util.InventorySorter
+[20Jan2025 22:28:07.996] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Jan2025 22:28:08.010] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Jan2025 22:28:33.403] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.FlyNodeMixin from improvedmobs.mixins.json into net.minecraft.pathfinding.FlyingNodeProcessor
+[20Jan2025 22:28:33.403] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$breakableNodes$2(Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/pathfinding/PathPoint; to mddcdeb0$lambda$breakableNodes$2$0 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[20Jan2025 22:28:33.403] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$breakableNodes$1(Lnet/minecraft/util/math/AxisAlignedBB;)Ljava/lang/Boolean; to mddcdeb0$lambda$breakableNodes$1$1 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[20Jan2025 22:28:33.403] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$null$0(Lnet/minecraft/util/math/AxisAlignedBB;Lnet/minecraft/util/math/AxisAlignedBB;)Ljava/lang/Boolean; to mddcdeb0$lambda$null$0$2 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[20Jan2025 22:28:33.404] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.performance.FlyNodeEvaluatorMixin from improvedmobs.mixins.json into net.minecraft.pathfinding.FlyingNodeProcessor
+[20Jan2025 22:33:08.036] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Jan2025 22:33:08.056] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
