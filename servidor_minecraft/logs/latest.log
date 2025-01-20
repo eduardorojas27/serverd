@@ -1922,3 +1922,4 @@ java.lang.NullPointerException: null
 [20Jan2025 22:50:23.799] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [20Jan2025 22:50:23.799] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [20Jan2025 22:58:41.702] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Charred Bone Block'/8327, l='ServerLevel[world]', x=-2888.88, y=77.12, z=-2288.85]
+[20Jan2025 23:10:44.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
