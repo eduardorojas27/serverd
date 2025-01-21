@@ -2086,6 +2086,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-21 02:27:16 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/birch_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2800,6 +2806,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/kettle": {
+    "criteria": {
+      "has_brick": "2025-01-21 02:27:16 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2881,6 +2893,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/jungle_post": {
     "criteria": {
       "has_item": "2025-01-03 04:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-21 02:27:16 +0000"
     },
     "done": true
   },
@@ -5185,6 +5203,12 @@
   "betterendforge:recipes/betterendforge/thallasium_nugget_from_blasting": {
     "criteria": {
       "has_thallasium_helmet": "2025-01-09 22:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-21 02:27:16 +0000"
     },
     "done": true
   },

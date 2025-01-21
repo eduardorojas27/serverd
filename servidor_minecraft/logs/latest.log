@@ -22,3 +22,11 @@
 [21Jan2025 02:15:43.747] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [21Jan2025 02:15:43.753] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [21Jan2025 02:16:37.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[21Jan2025 02:28:20.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[21Jan2025 02:28:28.975] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Timed out
+[21Jan2025 02:28:28.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[21Jan2025 02:31:25.396] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@32bc7f91
+[21Jan2025 02:31:25.404] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:38861] logged in with entity id 53871 at (-2903.007207103964, 68.0, -2308.444752677071)
+[21Jan2025 02:31:25.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[21Jan2025 02:31:25.504] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[21Jan2025 02:31:25.505] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
