@@ -2296,6 +2296,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-21 02:59:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-01-03 04:36:29 +0000"
@@ -6612,6 +6618,12 @@
   "mcwroofs:recipes/crimson": {
     "criteria": {
       "has_planks": "2025-01-19 22:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-21 02:59:03 +0000"
     },
     "done": true
   },
