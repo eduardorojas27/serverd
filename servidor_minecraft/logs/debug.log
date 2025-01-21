@@ -12571,3 +12571,20 @@ java.lang.NullPointerException: null
 [20Jan2025 23:53:07.921] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [20Jan2025 23:58:07.919] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [20Jan2025 23:58:07.932] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Jan2025 23:59:37.524] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Rema - Level: 9'/274, l='ServerLevel[world]', x=-2940.49, y=64.00, z=-2285.52] died, message: 'Rema - Level: 9 was shot by ☣ Special Sunken Skeleton - Level: 64'
+[20Jan2025 23:59:49.378] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cordie - Level: 9'/273, l='ServerLevel[world]', x=-2942.36, y=64.00, z=-2285.51] died, message: 'Cordie - Level: 9 was shot by ☣ Special Sunken Skeleton - Level: 64'
+[20Jan2025 23:59:53.323] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Harrison - Level: 9'/309, l='ServerLevel[world]', x=-2944.30, y=64.00, z=-2285.30] died, message: 'Harrison - Level: 9 was shot by ☣ Special Sunken Skeleton - Level: 64'
+[20Jan2025 23:59:58.721] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Dorethea - Level: 9'/311, l='ServerLevel[world]', x=-2948.49, y=64.00, z=-2285.49] died, message: 'Dorethea - Level: 9 was shot by ☣ Special Sunken Skeleton - Level: 64'
+[21Jan2025 00:00:09.919] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Lorretta - Level: 9'/312, l='ServerLevel[world]', x=-2950.47, y=64.00, z=-2285.51] died, message: 'Lorretta - Level: 9 was shot by ☣ Special Sunken Skeleton - Level: 64'
+[21Jan2025 00:00:24.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -3106.5, 73.5, -3262.5]
+[21Jan2025 00:00:33.035] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Lucia - Level: 9'/313, l='ServerLevel[world]', x=-2952.47, y=64.00, z=-2285.51] died, message: 'Lucia - Level: 9 was shot by ☣ Special Sunken Skeleton - Level: 64'
+[21Jan2025 00:00:47.130] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Lakia - Level: 5'/310, l='ServerLevel[world]', x=-2946.62, y=64.00, z=-2285.30] died, message: 'Lakia - Level: 5 was shot by ☣ Special Sunken Skeleton - Level: 64'
+[21Jan2025 00:00:49.934] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Barney - Level: 9'/314, l='ServerLevel[world]', x=-2954.47, y=64.00, z=-2285.51] died, message: 'Barney - Level: 9 was shot by ☣ Special Sunken Skeleton - Level: 64'
+[21Jan2025 00:00:56.029] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Ella - Level: 9'/315, l='ServerLevel[world]', x=-2956.47, y=64.00, z=-2285.51] died, message: 'Ella - Level: 9 was shot by ☣ Special Sunken Skeleton - Level: 64'
+[21Jan2025 00:03:08.054] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Jan2025 00:03:08.066] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Jan2025 00:03:34.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[21Jan2025 00:06:32.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[21Jan2025 00:06:36.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[21Jan2025 00:08:07.910] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Jan2025 00:08:07.921] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
