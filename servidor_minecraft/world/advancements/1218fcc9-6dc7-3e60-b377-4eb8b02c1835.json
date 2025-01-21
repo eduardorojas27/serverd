@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/tall_jungle_door": {
+    "criteria": {
+      "has_items": "2025-01-21 01:19:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2025-01-13 20:06:38 +0000"
@@ -938,6 +944,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-09 21:16:45 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_crimson_door": {
+    "criteria": {
+      "has_items": "2025-01-21 01:19:58 +0000"
     },
     "done": true
   },
@@ -4492,6 +4504,12 @@
   "mcwroofs:recipes/red_sandstone": {
     "criteria": {
       "has_planks": "2025-01-18 22:58:55 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_spruce_door": {
+    "criteria": {
+      "has_items": "2025-01-21 01:20:36 +0000"
     },
     "done": true
   },
