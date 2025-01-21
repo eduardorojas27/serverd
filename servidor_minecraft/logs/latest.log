@@ -16,3 +16,9 @@
 [21Jan2025 01:55:48.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
 [21Jan2025 02:00:35.001] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
 [21Jan2025 02:01:52.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2950.5, 64.5, -2279.5]
+[21Jan2025 02:15:43.597] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5011c30a
+[21Jan2025 02:15:43.605] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:48157] logged in with entity id 48709 at (-2958.699999988079, 13.0, -2366.699999988079)
+[21Jan2025 02:15:43.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[21Jan2025 02:15:43.747] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[21Jan2025 02:15:43.753] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[21Jan2025 02:16:37.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
