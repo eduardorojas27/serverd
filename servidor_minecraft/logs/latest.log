@@ -32,3 +32,29 @@
 [21Jan2025 02:31:25.505] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [21Jan2025 02:43:01.677] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
 [21Jan2025 02:59:03.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Spooky Scary Skeleton]
+[21Jan2025 03:06:14.536] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[21Jan2025 03:07:18.419] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[21Jan2025 03:07:18.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[21Jan2025 03:11:04.920] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@3e6610ca[id=<null>,name=fr4nnki,properties={},legacy=false] (/127.209.87.79:54181): Took too long to log in
+[21Jan2025 03:11:04.979] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@3e6610ca[id=<null>,name=fr4nnki,properties={},legacy=false] (/127.209.87.79:54181) lost connection: Took too long to log in
+[21Jan2025 03:14:32.174] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[21Jan2025 03:14:32.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[21Jan2025 03:14:32.174] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
+[21Jan2025 03:15:35.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[21Jan2025 03:15:35.409] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[21Jan2025 03:15:35.410] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: Server is closing. No Time Shall Not Pass modules have been toggled off
+[21Jan2025 03:15:35.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jan2025 03:15:35.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jan2025 03:15:35.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jan2025 03:15:35.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jan2025 03:15:35.546] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jan2025 03:15:35.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jan2025 03:15:35.548] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jan2025 03:15:35.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jan2025 03:15:35.549] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jan2025 03:15:35.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[21Jan2025 03:15:35.549] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[21Jan2025 03:15:35.593] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jan2025 03:15:35.602] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jan2025 03:15:35.603] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jan2025 03:15:35.603] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
