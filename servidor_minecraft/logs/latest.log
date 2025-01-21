@@ -30,3 +30,4 @@
 [21Jan2025 02:31:25.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
 [21Jan2025 02:31:25.504] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@82c383 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [21Jan2025 02:31:25.505] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7d8faf07 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[21Jan2025 02:43:01.677] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
