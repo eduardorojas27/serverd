@@ -1885,3 +1885,16 @@ java.lang.NullPointerException: null
 [22Jan2025 21:05:33.919] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/10087, l='ServerLevel[world]', x=-3003.96, y=63.00, z=-2357.15]
 [22Jan2025 21:06:10.212] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/10323, l='ServerLevel[world]', x=-3018.61, y=69.37, z=-2394.55]
 [22Jan2025 21:06:10.212] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/10323, l='ServerLevel[world]', x=-3018.61, y=69.37, z=-2394.55]
+[22Jan2025 21:06:51.900] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[22Jan2025 21:06:51.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[22Jan2025 21:06:59.229] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/10769, l='ServerLevel[world]', x=-3049.98, y=64.23, z=-2507.61]
+[22Jan2025 21:07:15.448] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/10897, l='ServerLevel[world]', x=-3048.90, y=64.00, z=-2504.54]
+[22Jan2025 21:08:30.937] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[22Jan2025 21:08:30.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[22Jan2025 21:08:30.938] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
+[22Jan2025 21:15:13.194] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6c4224c7
+[22Jan2025 21:15:13.201] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:39007] logged in with entity id 11744 at (-3099.2236936103136, 71.0, -2532.223965363564)
+[22Jan2025 21:15:13.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[22Jan2025 21:15:13.238] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: A non-excluded player has come online. No Time Shall Not Pass modules have been toggled off
+[22Jan2025 21:15:13.284] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@497c39a9 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[22Jan2025 21:15:13.286] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5621a0a5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
