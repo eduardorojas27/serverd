@@ -1870,3 +1870,13 @@ java.lang.NullPointerException: null
 [22Jan2025 20:34:56.671] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5621a0a5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [22Jan2025 20:36:30.323] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
 [22Jan2025 20:39:04.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[22Jan2025 20:48:53.669] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[22Jan2025 20:50:10.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Gamerule doDaylightCycle is now set to: true]
+[22Jan2025 20:53:30.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zZzK1TTY> skilpoints
+[22Jan2025 20:56:22.194] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[22Jan2025 20:56:22.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[22Jan2025 20:56:30.026] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@699fdc97
+[22Jan2025 20:56:30.034] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:59167] logged in with entity id 7812 at (-2904.966429818847, 64.0, -2290.945683090988)
+[22Jan2025 20:56:30.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[22Jan2025 20:56:30.131] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@497c39a9 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[22Jan2025 20:56:30.133] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5621a0a5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
