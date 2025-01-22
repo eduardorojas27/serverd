@@ -1868,3 +1868,5 @@ java.lang.NullPointerException: null
 [22Jan2025 20:34:56.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
 [22Jan2025 20:34:56.671] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@497c39a9 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [22Jan2025 20:34:56.671] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5621a0a5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[22Jan2025 20:36:30.323] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[22Jan2025 20:39:04.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]

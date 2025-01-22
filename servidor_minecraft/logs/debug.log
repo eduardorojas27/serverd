@@ -11423,3 +11423,15 @@ java.lang.NullPointerException: null
 [22Jan2025 20:34:56.671] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@497c39a9 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [22Jan2025 20:34:56.671] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5621a0a5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [22Jan2025 20:34:56.742] [Server thread/DEBUG] [Max Health Fix/]: Corrected health of fr4nnki from 1040.0 to 1872.0.
+[22Jan2025 20:36:30.323] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[22Jan2025 20:36:31.740] [Server thread/DEBUG] [mixin/]: Mixing goal.SleepAtHomeTaskMixin from performant.mixins.json into net.minecraft.entity.ai.brain.task.SleepAtHomeTask
+[22Jan2025 20:36:43.229] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jan2025 20:36:43.247] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Jan2025 20:38:14.773] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.FlyNodeMixin from improvedmobs.mixins.json into net.minecraft.pathfinding.FlyingNodeProcessor
+[22Jan2025 20:38:14.773] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$breakableNodes$2(Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/pathfinding/PathPoint; to mdb940bc$lambda$breakableNodes$2$0 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[22Jan2025 20:38:14.773] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$breakableNodes$1(Lnet/minecraft/util/math/AxisAlignedBB;)Ljava/lang/Boolean; to mdb940bc$lambda$breakableNodes$1$1 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[22Jan2025 20:38:14.774] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$null$0(Lnet/minecraft/util/math/AxisAlignedBB;Lnet/minecraft/util/math/AxisAlignedBB;)Ljava/lang/Boolean; to mdb940bc$lambda$null$0$2 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[22Jan2025 20:38:14.774] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.performance.FlyNodeEvaluatorMixin from improvedmobs.mixins.json into net.minecraft.pathfinding.FlyingNodeProcessor
+[22Jan2025 20:39:04.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[22Jan2025 20:41:43.263] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jan2025 20:41:43.281] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
