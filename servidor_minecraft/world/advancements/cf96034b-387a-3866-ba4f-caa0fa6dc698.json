@@ -4422,7 +4422,8 @@
       "minecraft:stray": "2025-01-09 03:13:46 +0000",
       "minecraft:enderman": "2025-01-18 23:18:16 +0000",
       "minecraft:vex": "2025-01-12 18:39:25 +0000",
-      "minecraft:zombie": "2025-01-04 04:02:33 +0000"
+      "minecraft:zombie": "2025-01-04 04:02:33 +0000",
+      "minecraft:drowned": "2025-01-22 22:04:39 +0000"
     },
     "done": false
   },
@@ -4813,6 +4814,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_smooth_red_sandstone": "2025-01-18 22:52:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-01-22 22:01:04 +0000"
     },
     "done": true
   },
