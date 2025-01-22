@@ -971,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-01-22 21:40:25 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
     "criteria": {
       "has_stick": "2025-01-02 21:22:26 +0000"
@@ -1106,6 +1112,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-11 23:41:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-01-22 21:41:30 +0000"
     },
     "done": true
   },
@@ -1854,6 +1866,7 @@
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_nether": "2025-01-18 20:34:44 +0000",
+      "in_pyramid_badlands": "2025-01-22 21:40:14 +0000",
       "in_pyramid_flower_forest": "2025-01-08 20:32:07 +0000"
     },
     "done": false
@@ -5711,6 +5724,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_cyan_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-22 21:40:25 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 21:32:05 +0000"
@@ -5936,6 +5955,12 @@
   "betterendforge:recipes/betterendforge/andesite_lantern": {
     "criteria": {
       "has_andesite_slab": "2025-01-18 22:29:10 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/cyan_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-22 21:40:25 +0000"
     },
     "done": true
   },
