@@ -11656,3 +11656,14 @@ java.lang.NullPointerException: null
 [22Jan2025 20:56:30.131] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@497c39a9 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [22Jan2025 20:56:30.133] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5621a0a5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [22Jan2025 20:56:30.145] [Server thread/DEBUG] [Max Health Fix/]: Corrected health of fr4nnki from 1102.0 to 1872.0.
+[22Jan2025 20:56:43.192] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jan2025 20:56:43.207] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Jan2025 21:01:43.192] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jan2025 21:01:43.205] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Jan2025 21:05:31.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[22Jan2025 21:05:33.919] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/10087, l='ServerLevel[world]', x=-3003.96, y=63.00, z=-2357.15]
+[22Jan2025 21:05:33.919] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/10087, l='ServerLevel[world]', x=-3003.96, y=63.00, z=-2357.15]
+[22Jan2025 21:06:10.212] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/10323, l='ServerLevel[world]', x=-3018.61, y=69.37, z=-2394.55]
+[22Jan2025 21:06:10.212] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/10323, l='ServerLevel[world]', x=-3018.61, y=69.37, z=-2394.55]
+[22Jan2025 21:06:43.350] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jan2025 21:06:43.362] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
