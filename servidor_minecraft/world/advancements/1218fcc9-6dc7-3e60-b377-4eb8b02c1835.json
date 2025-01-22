@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-22 22:39:37 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/dark_oak_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2255,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-22 22:39:37 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_cherry_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2858,6 +2870,12 @@
   "betterendforge:recipes/betterendforge/terminite_nugget_from_blasting": {
     "criteria": {
       "has_terminite_boots": "2025-01-12 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-22 22:39:37 +0000"
     },
     "done": true
   },
@@ -3866,6 +3884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-22 22:39:37 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-01-22 22:23:58 +0000",
@@ -4003,6 +4027,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_feeding_upgrade": {
     "criteria": {
       "has_feeding_upgrade": "2025-01-18 22:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-22 22:39:37 +0000"
     },
     "done": true
   },
@@ -5847,6 +5877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-22 22:39:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-05 17:04:05 +0000"
@@ -6291,6 +6327,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-22 22:39:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-02 20:58:25 +0000"
@@ -6528,6 +6570,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-22 22:39:37 +0000"
     },
     "done": true
   },
@@ -7135,6 +7183,12 @@
   "smallships:recipes/lotr_cypress_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-22 22:39:37 +0000"
     },
     "done": true
   },
