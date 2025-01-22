@@ -11891,3 +11891,49 @@ java.lang.NullPointerException: null
 [22Jan2025 21:15:13.539] [Server thread/DEBUG] [Max Health Fix/]: Corrected health of zZzK1TTY from 892.0 to 1427.2.
 [22Jan2025 21:16:43.289] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [22Jan2025 21:16:43.312] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Jan2025 21:17:37.708] [Worker-Main-32/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[22Jan2025 21:17:37.712] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-212,-177]
+[22Jan2025 21:17:37.714] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (-3392 | 49 | -2824)
+[22Jan2025 21:17:37.742] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (-3392 | 49 | -2824)
+[22Jan2025 21:17:37.742] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-212,-177]
+[22Jan2025 21:17:37.746] [Worker-Main-32/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_2
+[22Jan2025 21:17:37.750] [Worker-Main-32/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_3
+[22Jan2025 21:17:37.752] [Worker-Main-32/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_1
+[22Jan2025 21:17:37.943] [Worker-Main-76/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-212,-176]
+[22Jan2025 21:17:37.944] [Worker-Main-76/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (-3392 | 49 | -2824)
+[22Jan2025 21:17:37.947] [Worker-Main-76/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (-3392 | 49 | -2824)
+[22Jan2025 21:17:37.948] [Worker-Main-76/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-212,-176]
+[22Jan2025 21:17:43.211] [Worker-Main-77/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[22Jan2025 21:17:43.213] [Worker-Main-77/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[22Jan2025 21:17:43.250] [Worker-Main-77/DEBUG] [bettercaves/]: CAVE INFORMATION
+[22Jan2025 21:17:43.250] [Worker-Main-77/DEBUG] [bettercaves/]: --> MAX POSSIBLE THRESHOLD: 1.0
+[22Jan2025 21:17:43.250] [Worker-Main-77/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 15
+[22Jan2025 21:17:43.250] [Worker-Main-77/DEBUG] [bettercaves/]: --> TOTAL RANGE LENGTH: 2.0
+[22Jan2025 21:17:43.250] [Worker-Main-77/DEBUG] [bettercaves/]: --> CARVER
+[22Jan2025 21:17:43.251] [Worker-Main-77/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[22Jan2025 21:17:43.251] [Worker-Main-77/DEBUG] [bettercaves/]: --> CARVER
+[22Jan2025 21:17:43.252] [Worker-Main-77/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[22Jan2025 21:17:43.255] [Worker-Main-77/DEBUG] [bettercaves/]: CAVERN INFORMATION
+[22Jan2025 21:17:43.255] [Worker-Main-77/DEBUG] [bettercaves/]: --> SPAWN CHANCE SET TO: 0.25
+[22Jan2025 21:17:43.255] [Worker-Main-77/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 20
+[22Jan2025 21:17:43.255] [Worker-Main-77/DEBUG] [bettercaves/]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[22Jan2025 21:17:43.256] [Worker-Main-77/DEBUG] [bettercaves/]: --> CARVER
+[22Jan2025 21:17:43.256] [Worker-Main-77/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[22Jan2025 21:17:43.256] [Worker-Main-77/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[22Jan2025 21:17:43.256] [Worker-Main-77/DEBUG] [bettercaves/]: --> CARVER
+[22Jan2025 21:17:43.256] [Worker-Main-77/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[22Jan2025 21:17:43.256] [Worker-Main-77/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[22Jan2025 21:17:43.257] [Worker-Main-77/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[22Jan2025 21:17:43.258] [Worker-Main-77/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[22Jan2025 21:17:43.259] [Worker-Main-77/DEBUG] [bettercaves/]: BETTER CAVES WORLD CARVER INITIALIZED WITH SEED -4054188033401887316 IN minecraft:overworld
+[22Jan2025 21:20:54.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has completed the challenge [Cover me with... scutes?]
+[22Jan2025 21:21:43.302] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jan2025 21:21:43.318] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Jan2025 21:22:31.123] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[22Jan2025 21:22:31.131] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[22Jan2025 21:24:59.390] [Worker-Main-76/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[22Jan2025 21:24:59.391] [Worker-Main-76/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[22Jan2025 21:25:03.118] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/18407, l='ServerLevel[world]', x=-3094.46, y=69.91, z=-3627.05]
+[22Jan2025 21:25:09.832] [Worker-Main-32/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[22Jan2025 21:26:43.300] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jan2025 21:26:43.312] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

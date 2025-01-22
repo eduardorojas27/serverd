@@ -1463,6 +1463,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile_chestplate": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-01-22 21:20:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_maple_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"

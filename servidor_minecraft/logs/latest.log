@@ -1898,3 +1898,17 @@ java.lang.NullPointerException: null
 [22Jan2025 21:15:13.238] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: A non-excluded player has come online. No Time Shall Not Pass modules have been toggled off
 [22Jan2025 21:15:13.284] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@497c39a9 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [22Jan2025 21:15:13.286] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5621a0a5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[22Jan2025 21:17:37.746] [Worker-Main-32/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_2
+[22Jan2025 21:17:37.750] [Worker-Main-32/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_3
+[22Jan2025 21:17:37.752] [Worker-Main-32/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_1
+[22Jan2025 21:17:43.211] [Worker-Main-77/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[22Jan2025 21:17:43.213] [Worker-Main-77/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[22Jan2025 21:17:43.257] [Worker-Main-77/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[22Jan2025 21:17:43.258] [Worker-Main-77/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[22Jan2025 21:20:54.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has completed the challenge [Cover me with... scutes?]
+[22Jan2025 21:22:31.123] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[22Jan2025 21:22:31.131] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[22Jan2025 21:24:59.390] [Worker-Main-76/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[22Jan2025 21:24:59.391] [Worker-Main-76/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[22Jan2025 21:25:03.118] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/18407, l='ServerLevel[world]', x=-3094.46, y=69.91, z=-3627.05]
+[22Jan2025 21:25:09.832] [Worker-Main-32/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
