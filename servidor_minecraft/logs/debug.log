@@ -11891,3 +11891,16 @@ java.lang.NullPointerException: null
 [23Jan2025 21:22:24.832] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [23Jan2025 21:22:24.845] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [23Jan2025 21:22:46.672] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 21:24:18.119] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 21:24:19.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -370.5, 60.5, -289.5]
+[23Jan2025 21:24:26.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -367.5, 60.5, -289.5]
+[23Jan2025 21:24:28.977] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@61036195 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 21:24:28.977] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1fb3ed9d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 21:24:32.446] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@61036195 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 21:24:32.446] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1fb3ed9d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 21:27:24.611] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 21:27:24.622] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 21:28:07.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their End Crystal Boots at Guardian +0...
+[23Jan2025 21:28:12.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +1
+[23Jan2025 21:32:24.567] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 21:32:24.581] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
