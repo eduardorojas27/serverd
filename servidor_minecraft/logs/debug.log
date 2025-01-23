@@ -11966,3 +11966,12 @@ java.lang.NullPointerException: null
 [23Jan2025 21:43:50.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +3
 [23Jan2025 21:43:52.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +4
 [23Jan2025 21:43:53.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +5
+[23Jan2025 21:44:04.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +6
+[23Jan2025 21:44:06.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +7
+[23Jan2025 21:44:14.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +8
+[23Jan2025 21:44:16.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +9
+[23Jan2025 21:44:17.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +10
+[23Jan2025 21:47:24.552] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 21:47:24.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 21:52:24.573] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 21:52:24.587] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
