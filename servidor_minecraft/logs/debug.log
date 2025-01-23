@@ -11412,3 +11412,75 @@ java.lang.NullPointerException: null
 [23Jan2025 22:13:51.582] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [23Jan2025 22:13:57.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
 [23Jan2025 22:16:31.174] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[23Jan2025 22:18:51.387] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 22:18:51.404] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 22:21:56.651] [Worker-Main-3/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[23Jan2025 22:21:56.652] [Worker-Main-3/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[23Jan2025 22:21:56.690] [Worker-Main-3/DEBUG] [bettercaves/]: CAVE INFORMATION
+[23Jan2025 22:21:56.690] [Worker-Main-3/DEBUG] [bettercaves/]: --> MAX POSSIBLE THRESHOLD: 1.0
+[23Jan2025 22:21:56.690] [Worker-Main-3/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 15
+[23Jan2025 22:21:56.690] [Worker-Main-3/DEBUG] [bettercaves/]: --> TOTAL RANGE LENGTH: 2.0
+[23Jan2025 22:21:56.691] [Worker-Main-3/DEBUG] [bettercaves/]: --> CARVER
+[23Jan2025 22:21:56.692] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[23Jan2025 22:21:56.692] [Worker-Main-3/DEBUG] [bettercaves/]: --> CARVER
+[23Jan2025 22:21:56.692] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[23Jan2025 22:21:56.695] [Worker-Main-3/DEBUG] [bettercaves/]: CAVERN INFORMATION
+[23Jan2025 22:21:56.695] [Worker-Main-3/DEBUG] [bettercaves/]: --> SPAWN CHANCE SET TO: 0.25
+[23Jan2025 22:21:56.695] [Worker-Main-3/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 20
+[23Jan2025 22:21:56.696] [Worker-Main-3/DEBUG] [bettercaves/]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[23Jan2025 22:21:56.696] [Worker-Main-3/DEBUG] [bettercaves/]: --> CARVER
+[23Jan2025 22:21:56.696] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[23Jan2025 22:21:56.696] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[23Jan2025 22:21:56.696] [Worker-Main-3/DEBUG] [bettercaves/]: --> CARVER
+[23Jan2025 22:21:56.696] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[23Jan2025 22:21:56.696] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[23Jan2025 22:21:56.698] [Worker-Main-3/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[23Jan2025 22:21:56.699] [Worker-Main-3/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[23Jan2025 22:21:56.701] [Worker-Main-3/DEBUG] [bettercaves/]: BETTER CAVES WORLD CARVER INITIALIZED WITH SEED -4054188033401887316 IN minecraft:overworld
+[23Jan2025 22:21:56.774] [Worker-Main-2/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[23Jan2025 22:21:56.804] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_2
+[23Jan2025 22:21:56.807] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_3
+[23Jan2025 22:21:56.812] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_1
+[23Jan2025 22:22:12.518] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 22:23:16.492] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/town_centers/meeting_point_3
+[23Jan2025 22:23:16.497] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/straight_08
+[23Jan2025 22:23:16.499] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/turn_01
+[23Jan2025 22:23:16.500] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/straight_03
+[23Jan2025 22:23:16.501] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/villagers/unemployed
+[23Jan2025 22:23:16.502] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/corner_03
+[23Jan2025 22:23:16.503] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/decor/lamp_post_02
+[23Jan2025 22:23:16.504] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/houses/fletcher_house_1
+[23Jan2025 22:23:16.505] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/corner_01
+[23Jan2025 22:23:16.507] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/houses/small_house_3
+[23Jan2025 22:23:16.507] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/decor/lamp_post_03
+[23Jan2025 22:23:16.508] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/straight_04
+[23Jan2025 22:23:16.510] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/houses/small_house_2
+[23Jan2025 22:23:16.511] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/straight_06
+[23Jan2025 22:23:16.512] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/terminators/terminator_02
+[23Jan2025 22:23:16.513] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/decor/lamp_post_01
+[23Jan2025 22:23:16.514] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/crossroad_04
+[23Jan2025 22:23:16.515] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/houses/small_house_5
+[23Jan2025 22:23:16.517] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/houses/farm_1
+[23Jan2025 22:23:16.518] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/straight_02
+[23Jan2025 22:23:16.520] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/houses/armorer_house_2
+[23Jan2025 22:23:16.522] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/crossroad_01
+[23Jan2025 22:23:16.523] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/houses/butcher_shop_1
+[23Jan2025 22:23:16.525] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/houses/library_1
+[23Jan2025 22:23:16.527] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/houses/medium_house_2
+[23Jan2025 22:23:16.528] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/streets/straight_01
+[23Jan2025 22:23:16.530] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/houses/small_house_6
+[23Jan2025 22:23:16.531] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/swamp/terminators/terminator_01
+[23Jan2025 22:23:51.546] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 22:23:51.560] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 22:25:01.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 22:26:07.882] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3281, y=14, z=-2875} BlockPos{x=-3283, y=15, z=-2874}
+[23Jan2025 22:26:07.975] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3281, y=14, z=-2875} BlockPos{x=-3283, y=15, z=-2874}
+[23Jan2025 22:26:08.032] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3281, y=14, z=-2875} BlockPos{x=-3283, y=15, z=-2874}
+[23Jan2025 22:26:08.077] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3281, y=14, z=-2875} BlockPos{x=-3283, y=15, z=-2874}
+[23Jan2025 22:26:08.135] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3281, y=14, z=-2875} BlockPos{x=-3283, y=15, z=-2874}
+[23Jan2025 22:26:17.669] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/11321, l='ServerLevel[world]', x=-3274.41, y=14.56, z=-2876.17]
+[23Jan2025 22:26:17.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/11321, l='ServerLevel[world]', x=-3274.41, y=14.56, z=-2876.17]
+[23Jan2025 22:26:24.911] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/11394, l='ServerLevel[world]', x=-3278.70, y=14.00, z=-2880.70]
+[23Jan2025 22:26:24.912] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/11394, l='ServerLevel[world]', x=-3278.70, y=14.00, z=-2880.70]
+[23Jan2025 22:27:22.014] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 22:27:36.923] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
