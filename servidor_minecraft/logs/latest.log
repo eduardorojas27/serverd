@@ -1980,3 +1980,13 @@ java.lang.NullPointerException: null
 [23Jan2025 20:41:20.141] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@61036195 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [23Jan2025 20:41:20.141] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1fb3ed9d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [23Jan2025 20:42:26.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fr4nnki> xaero-waypoint:A:A:-801:~:-297:14:false:0:Internal-the-nether-waypoints
+[23Jan2025 20:44:00.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fr4nnki> xaero-waypoint:A:A:167:~:-305:6:false:0:Internal-the-nether-waypoints
+[23Jan2025 20:45:25.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 20:47:12.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 20:52:11.968] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_basalt
+[23Jan2025 20:52:12.084] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_5
+[23Jan2025 20:52:12.086] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_4
+[23Jan2025 20:52:12.092] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/base_plate
+[23Jan2025 20:52:12.096] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/fossil
+[23Jan2025 20:52:12.097] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/tent1
+[23Jan2025 20:52:12.097] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/cage2
