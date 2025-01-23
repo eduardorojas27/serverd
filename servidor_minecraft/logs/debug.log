@@ -11862,3 +11862,13 @@ java.lang.NullPointerException: null
 [23Jan2025 20:57:33.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Hidden in the Depths]
 [23Jan2025 21:02:24.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [23Jan2025 21:02:24.623] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 21:04:35.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 21:07:24.562] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 21:07:24.579] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 21:08:36.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 21:10:48.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fr4nnki> xaero-waypoint:A:A:-9:32:-811:0:false:0:Internal-the-nether-waypoints
+[23Jan2025 21:11:30.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 21:12:00.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 21:12:24.598] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 21:12:24.611] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 21:12:30.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
