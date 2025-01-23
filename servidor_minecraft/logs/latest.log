@@ -1859,3 +1859,12 @@ java.lang.NullPointerException: null
 [23Jan2025 22:01:33.536] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
 [23Jan2025 22:03:21.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Set own game mode to Creative Mode]
 [23Jan2025 22:04:37.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Set own game mode to Survival Mode]
+[23Jan2025 22:09:46.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2950.5, 64.5, -2279.5]
+[23Jan2025 22:10:26.137] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[23Jan2025 22:10:26.139] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_medium
+[23Jan2025 22:10:26.141] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[23Jan2025 22:10:39.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[23Jan2025 22:11:27.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 22:12:12.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[23Jan2025 22:13:57.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 22:16:31.174] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!

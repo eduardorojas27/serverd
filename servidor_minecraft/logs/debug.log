@@ -11393,3 +11393,22 @@ java.lang.NullPointerException: null
 [23Jan2025 22:03:51.585] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [23Jan2025 22:04:37.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Set own game mode to Survival Mode]
 [23Jan2025 22:05:47.177] [Server thread/DEBUG] [mixin/]: Mixing compat.sophisticatedbackpacks.InventorySorterMixin from biggerstacks.mixins.json into net.p3pp3rf1y.sophisticatedbackpacks.util.InventorySorter
+[23Jan2025 22:08:51.458] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 22:08:51.474] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 22:09:03.069] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.FlyNodeMixin from improvedmobs.mixins.json into net.minecraft.pathfinding.FlyingNodeProcessor
+[23Jan2025 22:09:03.070] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$breakableNodes$2(Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/pathfinding/PathPoint; to md46e064$lambda$breakableNodes$2$0 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[23Jan2025 22:09:03.070] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$breakableNodes$1(Lnet/minecraft/util/math/AxisAlignedBB;)Ljava/lang/Boolean; to md46e064$lambda$breakableNodes$1$1 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[23Jan2025 22:09:03.070] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$null$0(Lnet/minecraft/util/math/AxisAlignedBB;Lnet/minecraft/util/math/AxisAlignedBB;)Ljava/lang/Boolean; to md46e064$lambda$null$0$2 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[23Jan2025 22:09:03.070] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.performance.FlyNodeEvaluatorMixin from improvedmobs.mixins.json into net.minecraft.pathfinding.FlyingNodeProcessor
+[23Jan2025 22:09:46.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2950.5, 64.5, -2279.5]
+[23Jan2025 22:10:26.137] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[23Jan2025 22:10:26.139] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_medium
+[23Jan2025 22:10:26.141] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[23Jan2025 22:10:32.441] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.inventory.InventoryHelper
+[23Jan2025 22:10:39.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[23Jan2025 22:11:27.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 22:12:12.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[23Jan2025 22:13:51.567] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 22:13:51.582] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 22:13:57.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 22:16:31.174] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
