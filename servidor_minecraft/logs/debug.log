@@ -11849,3 +11849,16 @@ java.lang.NullPointerException: null
 [23Jan2025 20:52:12.097] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/cage2
 [23Jan2025 20:52:24.607] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [23Jan2025 20:52:24.621] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 20:53:15.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[23Jan2025 20:53:53.666] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id infernalexp:voline
+[23Jan2025 20:53:53.669] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity twist:buckus but it was marked as removed already
+[23Jan2025 20:56:37.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Those Were the Days]
+[23Jan2025 20:56:46.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Those Were the Days]
+[23Jan2025 20:56:56.565] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/targets_1
+[23Jan2025 20:56:56.565] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/tent2
+[23Jan2025 20:57:24.770] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 20:57:24.782] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 20:57:28.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [War Pigs]
+[23Jan2025 20:57:33.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Hidden in the Depths]
+[23Jan2025 21:02:24.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 21:02:24.623] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
