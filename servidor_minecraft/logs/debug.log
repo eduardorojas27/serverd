@@ -11165,3 +11165,22 @@ java.lang.NullPointerException: null
 [23Jan2025 19:46:16.371] [Server thread/DEBUG] [mixin/]: Mixing MixinEntityDensityManager from enhancedcelestials.mixins.json into net.minecraft.world.spawner.WorldEntitySpawner$EntityDensityManager
 [23Jan2025 19:46:39.452] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
 [23Jan2025 19:47:08.019] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Christian - Level: 9'/160, l='ServerLevel[world]', x=-2998.09, y=68.00, z=-2398.50] died, message: 'Christian - Level: 9 was shot by ☣ Special Skeleton - Level: 111'
+[23Jan2025 19:47:18.546] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.FlyNodeMixin from improvedmobs.mixins.json into net.minecraft.pathfinding.FlyingNodeProcessor
+[23Jan2025 19:47:18.547] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$breakableNodes$2(Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/pathfinding/PathPoint; to md33e094$lambda$breakableNodes$2$0 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[23Jan2025 19:47:18.547] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$breakableNodes$1(Lnet/minecraft/util/math/AxisAlignedBB;)Ljava/lang/Boolean; to md33e094$lambda$breakableNodes$1$1 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[23Jan2025 19:47:18.547] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$null$0(Lnet/minecraft/util/math/AxisAlignedBB;Lnet/minecraft/util/math/AxisAlignedBB;)Ljava/lang/Boolean; to md33e094$lambda$null$0$2 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[23Jan2025 19:47:18.547] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.performance.FlyNodeEvaluatorMixin from improvedmobs.mixins.json into net.minecraft.pathfinding.FlyingNodeProcessor
+[23Jan2025 19:48:00.478] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 19:48:00.495] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 19:48:25.872] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[23Jan2025 19:48:25.879] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[23Jan2025 19:50:04.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[23Jan2025 19:50:05.039] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.inventory.InventoryHelper
+[23Jan2025 19:52:27.242] [Server thread/DEBUG] [mixin/]: Mixing common.entity.MixinPiglinTasks from byg.mixins.json into net.minecraft.entity.monster.piglin.PiglinTasks
+[23Jan2025 19:52:27.243] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$static$0(Lit/unimi/dsi/fastutil/objects/Reference2ReferenceOpenHashMap;)V to md33e094$lambda$static$0$0 in byg.mixins.json:common.entity.MixinPiglinTasks
+[23Jan2025 19:53:00.414] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 19:53:00.432] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 19:53:47.265] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
+[23Jan2025 19:54:17.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] zZzK1TTY is gamemode creative
+[23Jan2025 19:54:55.014] [Server thread/DEBUG] [mixin/]: Mixing compat.sophisticatedbackpacks.InventorySorterMixin from biggerstacks.mixins.json into net.p3pp3rf1y.sophisticatedbackpacks.util.InventorySorter
+[23Jan2025 19:56:58.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unable to apply this effect (target is either immune to effects, or has something stronger)

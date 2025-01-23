@@ -1847,3 +1847,8 @@ java.lang.NullPointerException: null
 [23Jan2025 19:46:11.747] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top
 [23Jan2025 19:46:39.452] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
 [23Jan2025 19:47:08.019] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Christian - Level: 9'/160, l='ServerLevel[world]', x=-2998.09, y=68.00, z=-2398.50] died, message: 'Christian - Level: 9 was shot by ☣ Special Skeleton - Level: 111'
+[23Jan2025 19:48:25.872] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[23Jan2025 19:48:25.879] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[23Jan2025 19:50:04.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[23Jan2025 19:54:17.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] zZzK1TTY is gamemode creative
+[23Jan2025 19:56:58.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unable to apply this effect (target is either immune to effects, or has something stronger)
