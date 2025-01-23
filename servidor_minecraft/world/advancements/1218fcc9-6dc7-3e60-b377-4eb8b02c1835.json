@@ -3994,6 +3994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-23 21:19:13 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_redwood_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -5993,6 +5999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-23 21:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-01-19 22:20:09 +0000"
@@ -6020,6 +6032,12 @@
   "smallships:recipes/jungle_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/nether_wart_sourdough": {
+    "criteria": {
+      "has_wart": "2025-01-23 21:19:13 +0000"
     },
     "done": true
   },

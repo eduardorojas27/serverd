@@ -2005,3 +2005,18 @@ java.lang.NullPointerException: null
 [23Jan2025 21:11:30.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
 [23Jan2025 21:12:00.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
 [23Jan2025 21:12:30.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 21:16:08.622] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/warped/base_plate
+[23Jan2025 21:16:08.625] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/warped/cage1
+[23Jan2025 21:16:08.626] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/warped/cage2
+[23Jan2025 21:16:08.627] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/warped/logs
+[23Jan2025 21:16:08.628] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/warped/tent1
+[23Jan2025 21:16:08.629] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/warped/tent2
+[23Jan2025 21:16:08.630] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/warped/targets_1
+[23Jan2025 21:16:08.631] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/warped/targets_2
+[23Jan2025 21:16:33.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 21:18:30.662] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id infernalexp:voline
+[23Jan2025 21:18:30.663] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity twist:buckus but it was marked as removed already
+[23Jan2025 21:20:01.967] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/cage1
+[23Jan2025 21:20:01.967] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/targets_2
+[23Jan2025 21:20:17.231] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 21:22:46.672] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
