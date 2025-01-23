@@ -11495,3 +11495,95 @@ java.lang.NullPointerException: null
 [23Jan2025 20:19:56.188] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
 [23Jan2025 20:21:29.454] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@7c3fe71d
 [23Jan2025 20:21:29.454] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 4.0
+[23Jan2025 20:22:24.654] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 20:22:24.667] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 20:24:38.740] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/town_centers/fountain_01
+[23Jan2025 20:24:38.741] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_04
+[23Jan2025 20:24:38.743] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_01
+[23Jan2025 20:24:38.744] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_04
+[23Jan2025 20:24:38.745] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/corner_01
+[23Jan2025 20:24:38.747] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_farm_1
+[23Jan2025 20:24:38.747] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_05
+[23Jan2025 20:24:38.749] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_3
+[23Jan2025 20:24:38.750] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_05
+[23Jan2025 20:24:38.751] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_6
+[23Jan2025 20:24:38.752] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/terminators/terminator_02
+[23Jan2025 20:24:38.753] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/decor/lamp_1
+[23Jan2025 20:24:38.754] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_03
+[23Jan2025 20:24:38.756] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/tannery_1
+[23Jan2025 20:24:38.756] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/corner_03
+[23Jan2025 20:24:38.757] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_02
+[23Jan2025 20:24:38.758] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_2
+[23Jan2025 20:24:38.759] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_06
+[23Jan2025 20:24:38.760] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_7
+[23Jan2025 20:24:38.761] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_4
+[23Jan2025 20:24:38.762] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/terminators/terminator_04
+[23Jan2025 20:24:38.763] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/animal_pen_3
+[23Jan2025 20:24:38.764] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/armorer_house_1
+[23Jan2025 20:24:38.765] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/terminators/terminator_03
+[23Jan2025 20:24:38.766] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_03
+[23Jan2025 20:24:38.767] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_06
+[23Jan2025 20:24:38.769] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/accessory_1
+[23Jan2025 20:24:38.770] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_1
+[23Jan2025 20:24:38.771] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/masons_house_1
+[23Jan2025 20:24:38.775] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_5
+[23Jan2025 20:24:38.776] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_02
+[23Jan2025 20:24:38.777] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/turn_01
+[23Jan2025 20:24:38.778] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_01
+[23Jan2025 20:24:38.780] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/corner_02
+[23Jan2025 20:24:38.781] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/terminators/terminator_01
+[23Jan2025 20:25:11.243] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[23Jan2025 20:25:11.244] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_short
+[23Jan2025 20:25:11.246] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[23Jan2025 20:25:22.501] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/plus_plain
+[23Jan2025 20:25:22.504] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_base
+[23Jan2025 20:25:22.507] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_intersection
+[23Jan2025 20:25:22.508] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_plain
+[23Jan2025 20:25:22.509] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/misc/endpoint
+[23Jan2025 20:25:22.510] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_cobweb
+[23Jan2025 20:25:22.513] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_silverfish
+[23Jan2025 20:25:22.519] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_plain
+[23Jan2025 20:25:22.525] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_bridge
+[23Jan2025 20:26:34.361] [Worker-Main-3/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[23Jan2025 20:26:34.363] [Worker-Main-3/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[23Jan2025 20:26:34.407] [Worker-Main-3/DEBUG] [bettercaves/]: CAVE INFORMATION
+[23Jan2025 20:26:34.407] [Worker-Main-3/DEBUG] [bettercaves/]: --> MAX POSSIBLE THRESHOLD: 1.0
+[23Jan2025 20:26:34.408] [Worker-Main-3/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 15
+[23Jan2025 20:26:34.408] [Worker-Main-3/DEBUG] [bettercaves/]: --> TOTAL RANGE LENGTH: 2.0
+[23Jan2025 20:26:34.408] [Worker-Main-3/DEBUG] [bettercaves/]: --> CARVER
+[23Jan2025 20:26:34.409] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[23Jan2025 20:26:34.409] [Worker-Main-3/DEBUG] [bettercaves/]: --> CARVER
+[23Jan2025 20:26:34.409] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[23Jan2025 20:26:34.417] [Worker-Main-3/DEBUG] [bettercaves/]: CAVERN INFORMATION
+[23Jan2025 20:26:34.417] [Worker-Main-3/DEBUG] [bettercaves/]: --> SPAWN CHANCE SET TO: 0.25
+[23Jan2025 20:26:34.417] [Worker-Main-3/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 20
+[23Jan2025 20:26:34.417] [Worker-Main-3/DEBUG] [bettercaves/]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[23Jan2025 20:26:34.418] [Worker-Main-3/DEBUG] [bettercaves/]: --> CARVER
+[23Jan2025 20:26:34.418] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[23Jan2025 20:26:34.418] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[23Jan2025 20:26:34.418] [Worker-Main-3/DEBUG] [bettercaves/]: --> CARVER
+[23Jan2025 20:26:34.418] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[23Jan2025 20:26:34.418] [Worker-Main-3/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[23Jan2025 20:26:34.420] [Worker-Main-3/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[23Jan2025 20:26:34.421] [Worker-Main-3/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[23Jan2025 20:26:34.423] [Worker-Main-3/DEBUG] [bettercaves/]: BETTER CAVES WORLD CARVER INITIALIZED WITH SEED -4054188033401887316 IN minecraft:overworld
+[23Jan2025 20:26:34.666] [Worker-Main-2/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[23Jan2025 20:26:34.675] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_1
+[23Jan2025 20:26:34.679] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_2
+[23Jan2025 20:26:34.680] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_3
+[23Jan2025 20:26:37.500] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[23Jan2025 20:26:37.502] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[23Jan2025 20:26:37.578] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[23Jan2025 20:26:41.957] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[23Jan2025 20:26:41.958] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md058472$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[23Jan2025 20:26:41.958] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md058472$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[23Jan2025 20:26:41.958] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md058472$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[23Jan2025 20:26:44.282] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_2
+[23Jan2025 20:26:44.283] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_1
+[23Jan2025 20:26:50.807] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_3
+[23Jan2025 20:27:24.892] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 20:27:24.908] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 20:28:48.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[23Jan2025 20:30:28.072] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 208'/12486, l='ServerLevel[world]', x=-3845.52, y=61.00, z=-2270.76] to SunkenSkeletonEntity['Skeleton - Level: 208'/12898, l='ServerLevel[world]', x=-3845.52, y=61.00, z=-2270.76]
+[23Jan2025 20:30:48.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2950.5, 64.5, -2279.5]
+[23Jan2025 20:31:19.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
