@@ -6921,6 +6921,12 @@
     },
     "done": true
   },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-01-23 00:05:49 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/jungle_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
