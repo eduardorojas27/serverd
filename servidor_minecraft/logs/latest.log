@@ -1946,3 +1946,37 @@ java.lang.NullPointerException: null
 [23Jan2025 20:30:28.072] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 208'/12486, l='ServerLevel[world]', x=-3845.52, y=61.00, z=-2270.76] to SunkenSkeletonEntity['Skeleton - Level: 208'/12898, l='ServerLevel[world]', x=-3845.52, y=61.00, z=-2270.76]
 [23Jan2025 20:30:48.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2950.5, 64.5, -2279.5]
 [23Jan2025 20:31:19.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[23Jan2025 20:32:40.679] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Julio - Level: 9'/13833, l='ServerLevel[world]', x=-2931.59, y=63.00, z=-2271.89] died, message: 'Julio - Level: 9 was slain by Zombie - Level: 121'
+[23Jan2025 20:33:05.078] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Shakira - Level: 9'/13834, l='ServerLevel[world]', x=-2968.92, y=62.51, z=-2253.28] died, message: 'Shakira - Level: 9 was slain by ☠ Haunted Adamant Armor - Level: 534'
+[23Jan2025 20:33:10.193] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_crimson
+[23Jan2025 20:33:10.245] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/base_plate
+[23Jan2025 20:33:10.249] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/targets_1
+[23Jan2025 20:33:10.249] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/logs
+[23Jan2025 20:33:10.250] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent2
+[23Jan2025 20:33:10.250] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/cage1
+[23Jan2025 20:33:10.251] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent1
+[23Jan2025 20:34:59.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +8
+[23Jan2025 20:35:00.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Netherite Leggings at Guardian +8...
+[23Jan2025 20:36:18.218] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Ricarda - Level: 9'/14572, l='ServerLevel[world]', x=-2754.88, y=66.31, z=-2178.33] died, message: 'Ricarda - Level: 9 was slain by Crocodile - Level: 47'
+[23Jan2025 20:40:58.447] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@61036195 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 20:40:58.447] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1fb3ed9d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 20:40:58.944] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_1
+[23Jan2025 20:40:58.946] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_3
+[23Jan2025 20:40:58.948] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_2
+[23Jan2025 20:41:00.366] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_wasteland
+[23Jan2025 20:41:01.445] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@61036195 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 20:41:01.446] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1fb3ed9d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 20:41:02.036] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_3
+[23Jan2025 20:41:02.038] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_1
+[23Jan2025 20:41:02.039] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_2
+[23Jan2025 20:41:04.871] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[23Jan2025 20:41:04.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[23Jan2025 20:41:19.996] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f091f38
+[23Jan2025 20:41:20.005] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:39045] logged in with entity id 17869 at (-369.30000001192093, 56.0, -287.30000001192093)
+[23Jan2025 20:41:20.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[23Jan2025 20:41:20.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -------------------- Server Notice --------------------
+[23Jan2025 20:41:20.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: If playing on LAN or Essential servers, you may experience constant kicks on Owlkin and Void Wyvern. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.
+[23Jan2025 20:41:20.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
+[23Jan2025 20:41:20.141] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@61036195 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 20:41:20.141] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1fb3ed9d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 20:42:26.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fr4nnki> xaero-waypoint:A:A:-801:~:-297:14:false:0:Internal-the-nether-waypoints
