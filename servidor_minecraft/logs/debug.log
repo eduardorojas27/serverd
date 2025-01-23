@@ -11463,3 +11463,35 @@ java.lang.NullPointerException: null
 [23Jan2025 20:11:02.642] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
 [23Jan2025 20:11:40.016] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@563ac5ba
 [23Jan2025 20:11:40.016] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[23Jan2025 20:12:02.094] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@42a6fef5
+[23Jan2025 20:12:02.094] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[23Jan2025 20:12:11.758] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@42a6fef5
+[23Jan2025 20:12:11.758] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[23Jan2025 20:12:24.881] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 20:12:24.903] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 20:12:48.350] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@6538dfb0
+[23Jan2025 20:12:48.350] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[23Jan2025 20:13:13.447] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@2353ca75
+[23Jan2025 20:13:13.447] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[23Jan2025 20:13:17.729] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@7834c66f
+[23Jan2025 20:13:17.729] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[23Jan2025 20:13:27.293] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@2353ca75
+[23Jan2025 20:13:27.293] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[23Jan2025 20:14:14.681] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@7834c66f
+[23Jan2025 20:14:14.681] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[23Jan2025 20:14:47.108] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@6538dfb0
+[23Jan2025 20:14:47.108] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[23Jan2025 20:15:07.589] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@563ac5ba
+[23Jan2025 20:15:07.589] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[23Jan2025 20:15:50.450] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@6b501e7
+[23Jan2025 20:15:50.450] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[23Jan2025 20:17:06.141] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@42a6fef5
+[23Jan2025 20:17:06.141] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[23Jan2025 20:17:24.692] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 20:17:24.709] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 20:17:59.851] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@7c3fe71d
+[23Jan2025 20:17:59.851] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[23Jan2025 20:19:56.188] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@6b501e7
+[23Jan2025 20:19:56.188] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[23Jan2025 20:21:29.454] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@7c3fe71d
+[23Jan2025 20:21:29.454] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 4.0
