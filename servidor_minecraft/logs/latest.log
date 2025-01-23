@@ -1916,3 +1916,84 @@ java.lang.NullPointerException: null
 [23Jan2025 22:26:24.912] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/11394, l='ServerLevel[world]', x=-3278.70, y=14.00, z=-2880.70]
 [23Jan2025 22:27:22.014] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
 [23Jan2025 22:27:36.923] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 22:28:33.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/12355, l='ServerLevel[world]', x=-3289.58, y=23.52, z=-2858.92]
+[23Jan2025 22:28:33.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/12355, l='ServerLevel[world]', x=-3289.58, y=23.52, z=-2858.92]
+[23Jan2025 22:29:00.768] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/12517, l='ServerLevel[world]', x=-3286.11, y=23.97, z=-2854.94]
+[23Jan2025 22:29:00.768] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/12517, l='ServerLevel[world]', x=-3286.11, y=23.97, z=-2854.94]
+[23Jan2025 22:31:48.760] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 22:31:53.409] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 22:32:06.004] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 22:32:29.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Quite the Renovation]
+[23Jan2025 22:33:51.456] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/14474, l='ServerLevel[world]', x=-3305.85, y=23.38, z=-2852.03]
+[23Jan2025 22:33:51.457] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/14474, l='ServerLevel[world]', x=-3305.85, y=23.38, z=-2852.03]
+[23Jan2025 22:33:55.632] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/14554, l='ServerLevel[world]', x=-3312.13, y=23.00, z=-2845.03]
+[23Jan2025 22:33:55.633] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/14554, l='ServerLevel[world]', x=-3312.13, y=23.00, z=-2845.03]
+[23Jan2025 22:33:55.818] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/14565, l='ServerLevel[world]', x=-3311.45, y=23.00, z=-2844.77]
+[23Jan2025 22:33:55.818] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/14565, l='ServerLevel[world]', x=-3311.45, y=23.00, z=-2844.77]
+[23Jan2025 22:34:05.760] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/14698, l='ServerLevel[world]', x=-3314.65, y=24.09, z=-2834.15]
+[23Jan2025 22:34:05.760] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/14698, l='ServerLevel[world]', x=-3314.65, y=24.09, z=-2834.15]
+[23Jan2025 22:39:14.008] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[23Jan2025 22:41:42.763] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3240, y=31, z=-2869} BlockPos{x=-3239, y=31, z=-2872}
+[23Jan2025 22:42:24.785] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 22:43:44.609] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[23Jan2025 22:43:44.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[23Jan2025 22:44:07.924] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@60eb7e2e
+[23Jan2025 22:44:07.930] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:40295] logged in with entity id 18521 at (-3267.382718238693, 41.0, -2887.40540955226)
+[23Jan2025 22:44:07.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[23Jan2025 22:44:08.039] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6e50b371 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 22:44:08.039] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@620e7917 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Jan2025 22:46:03.252] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[23Jan2025 22:48:56.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[23Jan2025 22:48:59.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2950.5, 64.5, -2279.5]
+[23Jan2025 22:49:20.701] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[23Jan2025 22:52:07.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +2
+[23Jan2025 22:54:41.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +11
+[23Jan2025 22:54:43.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +12
+[23Jan2025 22:54:44.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +13
+[23Jan2025 22:54:45.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +13...
+[23Jan2025 22:54:51.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +0...
+[23Jan2025 22:54:53.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +1
+[23Jan2025 22:54:55.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +2
+[23Jan2025 22:54:56.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +3
+[23Jan2025 22:54:57.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +3...
+[23Jan2025 22:55:01.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +0...
+[23Jan2025 22:55:04.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +1
+[23Jan2025 22:55:05.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +2
+[23Jan2025 22:55:06.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +3
+[23Jan2025 22:55:07.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +3...
+[23Jan2025 22:55:52.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +1
+[23Jan2025 22:55:54.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +2
+[23Jan2025 22:55:55.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +3
+[23Jan2025 22:55:56.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +4
+[23Jan2025 22:55:57.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +5
+[23Jan2025 22:55:58.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +6
+[23Jan2025 22:55:59.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +7
+[23Jan2025 22:56:00.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +8
+[23Jan2025 22:56:01.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +8...
+[23Jan2025 22:56:53.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +0...
+[23Jan2025 22:57:37.284] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Kicked by an operator
+[23Jan2025 22:57:37.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[23Jan2025 22:57:37.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Kicked zZzK1TTY: Kicked by an operator]
+[23Jan2025 22:57:37.312] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Jan2025 22:58:12.617] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[23Jan2025 22:58:16.104] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[23Jan2025 22:58:16.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[23Jan2025 22:58:16.105] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
+[23Jan2025 22:58:43.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[23Jan2025 22:58:43.187] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[23Jan2025 22:58:43.188] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: Server is closing. No Time Shall Not Pass modules have been toggled off
+[23Jan2025 22:58:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Jan2025 22:58:43.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Jan2025 22:58:43.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Jan2025 22:58:43.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Jan2025 22:58:43.318] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jan2025 22:58:43.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Jan2025 22:58:43.319] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jan2025 22:58:43.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Jan2025 22:58:43.319] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jan2025 22:58:43.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[23Jan2025 22:58:43.320] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[23Jan2025 22:58:43.365] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jan2025 22:58:43.374] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jan2025 22:58:43.374] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jan2025 22:58:43.375] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
