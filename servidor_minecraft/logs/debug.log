@@ -17336,3 +17336,43 @@ java.lang.Exception: null
 [24Jan2025 17:30:24.428] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
 [24Jan2025 17:30:47.468] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Jan2025 17:30:47.482] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 17:32:22.455] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
+[24Jan2025 17:33:38.464] [Worker-Main-2/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -6000 -2880 5 4 true
+[24Jan2025 17:33:38.465] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-6000, y=67, z=-2880}
+[24Jan2025 17:33:38.465] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 67  Position = BlockPos{x=-6023, y=73, z=-2893}
+[24Jan2025 17:33:38.474] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-6003, y=84, z=-2883}
+[24Jan2025 17:33:38.474] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 67  Position = BlockPos{x=-6022, y=73, z=-2902}
+[24Jan2025 17:33:38.474] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 84  Position = BlockPos{x=-6020, y=88, z=-2890}
+[24Jan2025 17:33:38.475] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 84  Position = BlockPos{x=-6025, y=85, z=-2907}
+[24Jan2025 17:33:38.483] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-6003, y=95, z=-2883}
+[24Jan2025 17:33:38.484] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-6003, y=106, z=-2883}
+[24Jan2025 17:33:38.485] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 95  Position = BlockPos{x=-6023, y=101, z=-2891}
+[24Jan2025 17:33:38.485] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 95  Position = BlockPos{x=-6014, y=96, z=-2901}
+[24Jan2025 17:33:38.485] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-6003, y=117, z=-2883}
+[24Jan2025 17:33:38.486] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 106  Position = BlockPos{x=-6020, y=107, z=-2900}
+[24Jan2025 17:33:38.486] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 106  Position = BlockPos{x=-6023, y=107, z=-2893}
+[24Jan2025 17:33:38.486] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=-6021, y=118, z=-2904}
+[24Jan2025 17:33:38.486] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=-6014, y=121, z=-2904}
+[24Jan2025 17:33:38.487] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=-6009, y=118, z=-2887}
+[24Jan2025 17:33:38.494] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-6003, y=128, z=-2883}
+[24Jan2025 17:33:38.495] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=-6020, y=129, z=-2900}
+[24Jan2025 17:33:38.496] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=-6023, y=129, z=-2893}
+[24Jan2025 17:33:38.496] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-6003, y=139, z=-2883}
+[24Jan2025 17:33:38.497] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=-6018, y=132, z=-2890}
+[24Jan2025 17:33:38.497] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=-6017, y=140, z=-2904}
+[24Jan2025 17:33:38.497] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=-6016, y=140, z=-2887}
+[24Jan2025 17:33:38.498] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-6002, y=150, z=-2882}
+[24Jan2025 17:33:38.498] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=-6006, y=140, z=-2899}
+[24Jan2025 17:33:38.498] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=-6025, y=151, z=-2907}
+[24Jan2025 17:33:38.498] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=-6020, y=154, z=-2890}
+[24Jan2025 17:33:38.498] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=-6013, y=155, z=-2891}
+[24Jan2025 17:33:38.498] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=-6013, y=151, z=-2890}
+[24Jan2025 17:33:38.499] [Worker-Main-2/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -6034 61 -2914
+[24Jan2025 17:33:46.365] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[24Jan2025 17:33:46.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[24Jan2025 17:33:46.365] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
+[24Jan2025 17:33:46.816] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 2fcde2c6-1889-4bc8-8b3e-5d2385814a0b. Existing minecraft:pig#47766, new: minecraft:pig#51458
+[24Jan2025 17:35:46.714] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 17:35:46.726] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 17:40:46.715] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 17:40:46.743] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
