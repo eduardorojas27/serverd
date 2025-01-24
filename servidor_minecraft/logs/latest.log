@@ -2315,3 +2315,19 @@ java.lang.Exception: null
 [24Jan2025 17:51:45.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> My minions will protect me!
 [24Jan2025 17:51:45.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
 [24Jan2025 17:51:56.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Your efforts are meaningless!
+[24Jan2025 17:52:10.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[24Jan2025 17:52:10.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[24Jan2025 17:52:53.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Crystal Clear]
+[24Jan2025 17:53:42.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2950.5, 64.5, -2279.5]
+[24Jan2025 17:53:43.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[24Jan2025 17:57:17.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[24Jan2025 17:58:21.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2950.5, 64.5, -2279.5]
+[24Jan2025 17:58:24.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[24Jan2025 18:00:37.314] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Yoshie - Level: 9'/60779, l='ServerLevel[world]', x=-2769.17, y=70.00, z=-2256.75] died, message: 'Yoshie - Level: 9 was slain by Dread Beast - Level: 343'
+[24Jan2025 18:01:03.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[24Jan2025 18:01:17.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[24Jan2025 18:01:17.522] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[24Jan2025 18:01:17.822] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[24Jan2025 18:01:18.084] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[24Jan2025 18:01:18.369] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[24Jan2025 18:01:45.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]

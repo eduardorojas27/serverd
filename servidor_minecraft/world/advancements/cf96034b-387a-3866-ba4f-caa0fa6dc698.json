@@ -2988,6 +2988,12 @@
     },
     "done": true
   },
+  "endrem:main/end_crystal_eye": {
+    "criteria": {
+      "end_crystal_eye": "2025-01-24 17:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-13 21:12:05 +0000"
