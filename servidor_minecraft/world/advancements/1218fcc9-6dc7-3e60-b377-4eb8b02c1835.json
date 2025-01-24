@@ -605,6 +605,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/tools/lead_from_rope": {
+    "criteria": {
+      "has_rope": "2025-01-24 17:05:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-03 21:21:26 +0000"
@@ -2072,6 +2078,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-03 21:21:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-01-24 16:54:30 +0000"
     },
     "done": true
   },
@@ -4904,6 +4916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2025-01-24 16:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-04 03:59:25 +0000"
@@ -5142,6 +5160,7 @@
       "minecraft:lukewarm_ocean": "2025-01-02 21:15:34 +0000",
       "minecraft:wooded_mountains": "2025-01-03 20:08:52 +0000",
       "minecraft:wooded_hills": "2025-01-13 21:03:36 +0000",
+      "minecraft:stone_shore": "2025-01-24 17:04:18 +0000",
       "minecraft:swamp": "2025-01-09 22:29:02 +0000",
       "minecraft:savanna": "2025-01-02 22:05:09 +0000",
       "minecraft:plains": "2025-01-03 20:15:44 +0000"
@@ -5676,6 +5695,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2025-01-24 17:05:54 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_acacia_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 04:36:29 +0000"
@@ -5743,6 +5768,7 @@
       "rabbit": "2025-01-02 21:28:26 +0000",
       "bread": "2025-01-02 22:04:14 +0000",
       "golden_apple": "2025-01-06 19:28:49 +0000",
+      "salmon": "2025-01-24 17:04:42 +0000",
       "cooked_chicken": "2025-01-13 20:48:02 +0000",
       "enchanted_golden_apple": "2025-01-22 22:28:49 +0000"
     },

@@ -11466,3 +11466,501 @@ java.lang.NullPointerException: null
 [24Jan2025 16:37:53.671] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
 [24Jan2025 16:39:36.072] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@724c2265
 [24Jan2025 16:39:36.072] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 4.0
+[24Jan2025 16:40:42.464] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 16:40:42.487] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 16:41:29.674] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 32 messages to dispatch.
+[24Jan2025 16:41:29.726] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Origins registries' to 'origins:channel' sequence 0
+[24Jan2025 16:41:29.772] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[24Jan2025 16:41:29.820] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 2
+[24Jan2025 16:41:29.871] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 3
+[24Jan2025 16:41:29.922] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 4
+[24Jan2025 16:41:29.968] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry entity_enchantment:entity_enchantment' to 'fml:handshake' sequence 5
+[24Jan2025 16:41:30.024] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[24Jan2025 16:41:30.078] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[24Jan2025 16:41:30.125] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[24Jan2025 16:41:30.168] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[24Jan2025 16:41:30.220] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 10
+[24Jan2025 16:41:30.279] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 11
+[24Jan2025 16:41:30.328] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 12
+[24Jan2025 16:41:30.371] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[24Jan2025 16:41:30.425] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry structure_gel:biome_dictionary' to 'fml:handshake' sequence 14
+[24Jan2025 16:41:30.474] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 15
+[24Jan2025 16:41:30.528] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 16
+[24Jan2025 16:41:30.570] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 17
+[24Jan2025 16:41:30.621] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[24Jan2025 16:41:30.670] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[24Jan2025 16:41:30.733] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 20
+[24Jan2025 16:41:30.769] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config goprone-server.toml' to 'fml:handshake' sequence 21
+[24Jan2025 16:41:30.823] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config biggerstacks-server.toml' to 'fml:handshake' sequence 22
+[24Jan2025 16:41:30.872] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easy_villagers-server.toml' to 'fml:handshake' sequence 23
+[24Jan2025 16:41:30.928] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ensorcellation-server.toml' to 'fml:handshake' sequence 24
+[24Jan2025 16:41:30.970] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config /workspaces/serverd/servidor_minecraft/config/waystones-server.toml' to 'fml:handshake' sequence 25
+[24Jan2025 16:41:31.027] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config entity_enchantment-server.toml' to 'fml:handshake' sequence 26
+[24Jan2025 16:41:31.080] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config armorunlocked-server.toml' to 'fml:handshake' sequence 27
+[24Jan2025 16:41:31.127] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config TimeShallNotPass.toml' to 'fml:handshake' sequence 28
+[24Jan2025 16:41:31.168] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cofh_core-server.toml' to 'fml:handshake' sequence 29
+[24Jan2025 16:41:31.174] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel origins:channel with index 0
+[24Jan2025 16:41:31.174] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type io.github.apace100.origins.networking.packet.AcknowledgeMessage
+[24Jan2025 16:41:31.174] [Netty Epoll Server IO #7/DEBUG] [io.github.apace100.origins.Origins/]: Client successfully received a login packet.
+[24Jan2025 16:41:31.183] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[24Jan2025 16:41:31.183] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[24Jan2025 16:41:31.183] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, secondchanceforge, supermartijn642configlib, denseoresreborn, variablespawnerhardness, opotato, contenttweaker, stalwart_dungeons, rubidium, bettercaves, nodami, modernfix, farmersdelightintegrations, yungsapi, angrymobs, maxhealthfix, toolleveling, forgivingvoid, biggerstacks, huskspawn, autoleveling, durabilitytooltip, betterendforge, structure_gel, advancementplaques, tenshilib, repurposed_structures, fishingdangers, geode, propertymodifier, xaeroarrowfix, sf, questplaques, itemstitchingfix, curios, origins, rotten_piglins, mcwroofs, mutantmore, cloth-config, enhancedai, bigfish, strayspawn, disenchanting, cleanview, bettermineshafts, playerrevive, mowziesmobs, geckolib3, timeshallnotpass, jei, attributefix, caelus, shutupexperimentalsettings, mobhealthbar, additional_lights, jeitweaker, memoryleakfix, crafttweaker, forge, subwild, dsurround, sndctrl, environs, mobeffects, dungeons_arise, minecraft, cofh_core, mousetweaks, enchsort, glowbats, betterfpsdist, majrusz_library, shadowizardlib, autoreglib, globaldataandresourcepacks, entity_enchantment, not_enough_gamerules, fastfurnace, appleskin, puzzleslib, byg, friendlyfire, cosmeticarmorreworked, chunksending, armorunlocked, fast_projectile_fix, healthoverlay, forgivenessmod, incontrol, tomes, effishiency, wonderful_enchantments, insanelib, bowinfinityfix, villagernames, xaeroworldmap, prism, placebo, citadel, alexsmobs, iceandfire, player_mobs, bookshelf, union_upgrade_scrolls, sophisticatedbackpacks, progressivebosses, dragonfight, dummmmmmy, konkrete, equipmentcompare, mcwbridges, farmersdelight, fd_cookbook, farmersrespite, haunted_runescape_armor, musicdr, endrem, dungeons_enhanced, villagespawnpoint, goprone, cataclysm, patchouli, overworld_two, extra_keybinds, easypaxellite, naturallychargedcreepers, mobcrossing, collective, betterbiomeblend, dramaticdoors, firespreadtweaks, passiveshield, architectury, ftblibrary, aiimprovements, ageingspawners, firstjoinmessage, undergarden, smallships, bwncr, wings, infinitetrading, dreadsteel, configurable_conflicts, pirates_armoury, trashslot, kleiders_custom_renderer, giantspawn, dungeons_mobs, abnormals_core, irregularchef, ensorcellation, waystones, merchantmarkers, xaerominimap, fabledweaponry, infernalenchantments, artifacts, configured, infernal_origins_extras, dungeoncrawl, lazydfu, esendphantoms, customfov, travelerstitles, castle_dungeons, toofast, twist, selene, ba_bt, enchdesc, swingthroughgrass, enigmaticgraves, creativecore, difficultylock, weaponmaster, defaultworldtype, easy_villagers, iceberg, quark, fastbench, performant, inventoryhud, illagersweararmor, fogoverrides, fancymenu, drippyloadingscreen, slabgen, magma_monsters, ferritecore, nochatlagforge, enhancedcelestials, armorsoundtweak, allarrowsinfinityfix, improvedmobs, valhelsia_core, valhelsia_structures, overloadedarmorbar, loadmyresources]
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'pirates_armoury:pirates_armoury' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dreadsteel:main_channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'toolleveling:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'tomes:network' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cofh_core:general' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'shadowizardlib:network' : Version test of '0.1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'autoreglib:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fastbench:channel' : Version test of '1.1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_villagers:default' : Version test of '1.0.0' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'geode:geode' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'entity_enchantment:entity_enchantment' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'extra_keybinds:extra_keybinds' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'haunted_runescape_armor:haunted_runescape_armor' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'origins:channel' : Version test of '0.7.3.3' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'wonderful_enchantments:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'twist:twist' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'denseoresreborn:denseoresreborn' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:dummychannel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'infernal_origins_extras:infernal_origins_extras' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.184] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'armorunlocked:network' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'goprone:main_channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dungeons_mobs:network' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'crafttweaker:main' : Version test of '6.0.0' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'autoleveling:channel' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'valhelsia_core:channel' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'kleiders_custom_renderer:kleiders_custom_renderer' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'stalwart_dungeons:stalwart_dungeons' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'improvedmobs:packets' : Version test of 'v1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mutantmore:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'questplaques:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'rotten_piglins:rotten_piglins' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'union_upgrade_scrolls:union_upgrade_scrolls' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'abnormals_core:net' : Version test of 'AC1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fancymenu:play' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'wings:net' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'magma_monsters:magma_net' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'selene:network' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.185] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.186] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.186] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.186] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 16:41:31.186] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[24Jan2025 16:41:31.186] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[24Jan2025 16:41:31.186] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:default' : Version test of '1.0.0' from client : ACCEPTED
+[24Jan2025 16:41:31.186] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.186] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 16:41:31.186] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[24Jan2025 16:41:31.186] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[24Jan2025 16:41:31.193] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[24Jan2025 16:41:31.193] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.193] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.197] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[24Jan2025 16:41:31.197] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.197] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.202] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[24Jan2025 16:41:31.202] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.202] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.202] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[24Jan2025 16:41:31.202] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.202] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.202] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[24Jan2025 16:41:31.202] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.202] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.222] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 30
+[24Jan2025 16:41:31.270] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 31
+[24Jan2025 16:41:31.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[24Jan2025 16:41:31.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[24Jan2025 16:41:31.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[24Jan2025 16:41:31.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.510] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[24Jan2025 16:41:31.510] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.510] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.510] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[24Jan2025 16:41:31.510] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.510] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.511] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[24Jan2025 16:41:31.511] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.511] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.511] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[24Jan2025 16:41:31.511] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.511] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.513] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[24Jan2025 16:41:31.513] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.513] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.514] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[24Jan2025 16:41:31.514] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.514] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.516] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[24Jan2025 16:41:31.516] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.516] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.516] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[24Jan2025 16:41:31.516] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.516] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.517] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[24Jan2025 16:41:31.517] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.517] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[24Jan2025 16:41:31.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.845] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[24Jan2025 16:41:31.845] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.845] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.850] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[24Jan2025 16:41:31.850] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.850] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.851] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[24Jan2025 16:41:31.851] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.851] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.851] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[24Jan2025 16:41:31.851] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.851] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.855] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[24Jan2025 16:41:31.855] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.855] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.856] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[24Jan2025 16:41:31.856] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.856] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.856] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[24Jan2025 16:41:31.856] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.856] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.857] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[24Jan2025 16:41:31.857] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.857] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.857] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[24Jan2025 16:41:31.857] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.857] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.857] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[24Jan2025 16:41:31.857] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.857] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.858] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[24Jan2025 16:41:31.858] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.858] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.859] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[24Jan2025 16:41:31.859] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Jan2025 16:41:31.859] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 16:41:31.873] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[24Jan2025 16:41:31.959] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@332af1c3
+[24Jan2025 16:41:31.968] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:47511] logged in with entity id 12604 at (-2953.0474575135268, 66.5, -2302.699999988079)
+[24Jan2025 16:41:31.968] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@28173c62 into net.minecraft.network.NetworkManager@3cff6c3f
+[24Jan2025 16:41:31.969] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 199 classes
+[24Jan2025 16:41:31.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[24Jan2025 16:41:32.126] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 16:41:32.126] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 16:41:32.391] [Server thread/DEBUG] [Max Health Fix/]: Corrected health of fr4nnki from 1324.0 to 2383.2.
+[24Jan2025 16:42:52.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -3142.5, 160.5, -2245.5]
+[24Jan2025 16:43:07.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[24Jan2025 16:43:27.031] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/plains_compost_pile
+[24Jan2025 16:44:11.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Finally, a challenge!
+[24Jan2025 16:44:12.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> My minions will protect me!
+[24Jan2025 16:44:25.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> My minions will protect me!
+[24Jan2025 16:44:25.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[24Jan2025 16:44:45.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> This tower will not fall!
+[24Jan2025 16:45:02.977] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=-3151, y=161, z=-2255}
+[24Jan2025 16:45:02.977] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=-3151, y=160, z=-2267} - null
+[24Jan2025 16:45:02.977] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=-3139, y=160, z=-2255} - null
+[24Jan2025 16:45:02.977] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=-3151, y=160, z=-2243} - null
+[24Jan2025 16:45:02.977] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.GolemChestTileEntity@2ec06e
+[24Jan2025 16:45:02.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[24Jan2025 16:45:03.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[24Jan2025 16:45:42.540] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 16:45:42.553] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 16:49:32.227] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/17240, l='ServerLevel[world]', x=-3152.30, y=160.00, z=-2238.50]
+[24Jan2025 16:49:32.228] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/17240, l='ServerLevel[world]', x=-3152.30, y=160.00, z=-2238.50]
+[24Jan2025 16:50:42.528] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 16:50:42.544] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 16:53:04.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[24Jan2025 16:53:45.277] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[24Jan2025 16:53:45.279] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_medium
+[24Jan2025 16:53:45.280] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[24Jan2025 16:54:43.775] [Server thread/DEBUG] [ModernFix/]: Creating locate task for [net.aurelj.dungeons_arise.structures.fortified.ThornbornTowersStructure@5a6eccaf] in ServerLevel[world] around BlockPos{x=-2851, y=77, z=-1875} within 50 chunks
+[24Jan2025 16:54:43.778] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Trying to locate [dungeons_arise:thornborn_towers] in ServerLevel[world] around BlockPos{x=-2851, y=77, z=-1875} within 50 chunks
+[24Jan2025 16:54:43.836] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Found [dungeons_arise:thornborn_towers] at BlockPos{x=-3728, y=0, z=-2416}
+[24Jan2025 16:54:48.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4424ms or 88 ticks behind
+[24Jan2025 16:55:46.920] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 16:55:46.930] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 16:58:45.269] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Belva - Level: 9'/21923, l='ServerLevel[world]', x=-2783.30, y=64.08, z=-1487.58] died, message: 'Belva - Level: 9 died'
+[24Jan2025 17:00:02.604] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/3x3_tnt
+[24Jan2025 17:00:02.610] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_fountain
+[24Jan2025 17:00:02.616] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/4room_plain
+[24Jan2025 17:00:02.620] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_cobweb
+[24Jan2025 17:00:02.621] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_plain
+[24Jan2025 17:00:02.624] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/triple_plain
+[24Jan2025 17:00:02.631] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_plain
+[24Jan2025 17:00:02.638] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_plain
+[24Jan2025 17:00:02.642] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_parkour
+[24Jan2025 17:00:02.644] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/misc/endpoint
+[24Jan2025 17:00:27.832] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/23612, l='ServerLevel[world]', x=-3145.95, y=70.28, z=-1477.82]
+[24Jan2025 17:00:27.833] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/23612, l='ServerLevel[world]', x=-3145.95, y=70.28, z=-1477.82]
+[24Jan2025 17:00:47.010] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 17:00:47.027] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 17:00:49.590] [Worker-Main-1/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[24Jan2025 17:00:49.593] [Worker-Main-1/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[24Jan2025 17:00:49.631] [Worker-Main-1/DEBUG] [bettercaves/]: CAVE INFORMATION
+[24Jan2025 17:00:49.631] [Worker-Main-1/DEBUG] [bettercaves/]: --> MAX POSSIBLE THRESHOLD: 1.0
+[24Jan2025 17:00:49.631] [Worker-Main-1/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 15
+[24Jan2025 17:00:49.631] [Worker-Main-1/DEBUG] [bettercaves/]: --> TOTAL RANGE LENGTH: 2.0
+[24Jan2025 17:00:49.631] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[24Jan2025 17:00:49.632] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[24Jan2025 17:00:49.632] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[24Jan2025 17:00:49.632] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[24Jan2025 17:00:49.635] [Worker-Main-1/DEBUG] [bettercaves/]: CAVERN INFORMATION
+[24Jan2025 17:00:49.636] [Worker-Main-1/DEBUG] [bettercaves/]: --> SPAWN CHANCE SET TO: 0.25
+[24Jan2025 17:00:49.636] [Worker-Main-1/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 20
+[24Jan2025 17:00:49.636] [Worker-Main-1/DEBUG] [bettercaves/]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[24Jan2025 17:00:49.636] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[24Jan2025 17:00:49.636] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[24Jan2025 17:00:49.636] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[24Jan2025 17:00:49.636] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[24Jan2025 17:00:49.636] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[24Jan2025 17:00:49.636] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[24Jan2025 17:00:49.638] [Worker-Main-1/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[24Jan2025 17:00:49.638] [Worker-Main-1/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[24Jan2025 17:00:49.640] [Worker-Main-1/DEBUG] [bettercaves/]: BETTER CAVES WORLD CARVER INITIALIZED WITH SEED -4054188033401887316 IN minecraft:overworld
+[24Jan2025 17:00:49.691] [Worker-Main-3/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[24Jan2025 17:00:49.723] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[24Jan2025 17:00:49.744] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[24Jan2025 17:00:50.342] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[24Jan2025 17:01:03.404] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[24Jan2025 17:01:03.405] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md449404$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[24Jan2025 17:01:03.405] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md449404$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[24Jan2025 17:01:03.405] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md449404$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[24Jan2025 17:01:17.396] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[24Jan2025 17:01:31.602] [Server thread/DEBUG] [ModernFix/]: Creating locate task for [net.minecraft.world.gen.feature.structure.BuriedTreasureStructure@7ef7ea57] in ServerLevel[world] around BlockPos{x=-3341, y=51, z=-1384} within 50 chunks
+[24Jan2025 17:01:31.603] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Trying to locate [minecraft:buried_treasure] in ServerLevel[world] around BlockPos{x=-3341, y=51, z=-1384} within 50 chunks
+[24Jan2025 17:01:31.879] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Found [minecraft:buried_treasure] at BlockPos{x=-2951, y=0, z=-1303}
+[24Jan2025 17:02:35.229] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at -3827 13 -1235
+[24Jan2025 17:02:38.224] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -3841 37 -1385
+[24Jan2025 17:02:46.059] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-3964 | 49 | -1196).
+[24Jan2025 17:02:46.061] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[24Jan2025 17:02:46.063] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[24Jan2025 17:02:46.063] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[24Jan2025 17:02:46.063] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[24Jan2025 17:02:46.063] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[24Jan2025 17:02:46.064] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(5) Nodes and 4(0) Rooms
+[24Jan2025 17:02:46.064] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[24Jan2025 17:02:46.064] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(0) Nodes and 4(0) Rooms
+[24Jan2025 17:02:46.064] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[24Jan2025 17:02:46.064] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(4) Nodes and 6(0) Rooms
+[24Jan2025 17:02:46.071] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-243, -70] with a total of 281 pieces.
+[24Jan2025 17:02:49.861] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-3980 | 49 | -1644).
+[24Jan2025 17:02:49.861] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[24Jan2025 17:02:49.862] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 3(0) Rooms
+[24Jan2025 17:02:49.862] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[24Jan2025 17:02:49.862] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 5(0) Rooms
+[24Jan2025 17:02:49.862] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[24Jan2025 17:02:49.862] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 3(6) Nodes and 6(0) Rooms
+[24Jan2025 17:02:49.862] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[24Jan2025 17:02:49.863] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 6(6) Nodes and 4(0) Rooms
+[24Jan2025 17:02:49.863] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[24Jan2025 17:02:49.863] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 5(0) Rooms
+[24Jan2025 17:02:49.865] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-244, -98] with a total of 276 pieces.
+[24Jan2025 17:02:55.154] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -3807 18 -953
+[24Jan2025 17:03:55.873] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at -3625 25 -921
+[24Jan2025 17:04:01.811] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -3955 46 -947
+[24Jan2025 17:04:33.266] [Worker-Main-2/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -3984 -1120 7 2 true
+[24Jan2025 17:04:33.271] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-3984, y=62, z=-1120}
+[24Jan2025 17:04:33.272] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 62  Position = BlockPos{x=-4007, y=68, z=-1133}
+[24Jan2025 17:04:33.272] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 62  Position = BlockPos{x=-4006, y=68, z=-1142}
+[24Jan2025 17:04:33.280] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-3987, y=79, z=-1123}
+[24Jan2025 17:04:33.281] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 79  Position = BlockPos{x=-4004, y=83, z=-1130}
+[24Jan2025 17:04:33.281] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 79  Position = BlockPos{x=-4009, y=80, z=-1147}
+[24Jan2025 17:04:33.291] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-3987, y=90, z=-1123}
+[24Jan2025 17:04:33.292] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-3987, y=101, z=-1123}
+[24Jan2025 17:04:33.292] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 90  Position = BlockPos{x=-4001, y=91, z=-1144}
+[24Jan2025 17:04:33.292] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 90  Position = BlockPos{x=-4000, y=91, z=-1127}
+[24Jan2025 17:04:33.292] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 101  Position = BlockPos{x=-3995, y=107, z=-1143}
+[24Jan2025 17:04:33.293] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 101  Position = BlockPos{x=-4004, y=102, z=-1137}
+[24Jan2025 17:04:33.298] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-3987, y=112, z=-1123}
+[24Jan2025 17:04:33.298] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=-4005, y=113, z=-1144}
+[24Jan2025 17:04:33.298] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-3987, y=123, z=-1123}
+[24Jan2025 17:04:33.299] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=-3998, y=116, z=-1144}
+[24Jan2025 17:04:33.299] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=-3993, y=113, z=-1127}
+[24Jan2025 17:04:33.299] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=-4011, y=125, z=-1142}
+[24Jan2025 17:04:33.300] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=-3995, y=129, z=-1143}
+[24Jan2025 17:04:33.300] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=-4001, y=124, z=-1138}
+[24Jan2025 17:04:33.300] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-3987, y=134, z=-1123}
+[24Jan2025 17:04:33.300] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=-4000, y=135, z=-1127}
+[24Jan2025 17:04:33.300] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=-3990, y=135, z=-1139}
+[24Jan2025 17:04:33.306] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-3986, y=145, z=-1122}
+[24Jan2025 17:04:33.306] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=-4001, y=135, z=-1144}
+[24Jan2025 17:04:33.306] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=-3997, y=150, z=-1131}
+[24Jan2025 17:04:33.307] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=-4009, y=146, z=-1147}
+[24Jan2025 17:04:33.307] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=-4004, y=149, z=-1130}
+[24Jan2025 17:04:33.307] [Worker-Main-2/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=-3997, y=146, z=-1130}
+[24Jan2025 17:04:33.308] [Worker-Main-2/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -4018 56 -1154
+[24Jan2025 17:04:33.321] [Worker-Main-2/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -3984 -1648 2 7 true
+[24Jan2025 17:04:33.647] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-240,-98]
+[24Jan2025 17:04:33.647] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-240,-98]
+[24Jan2025 17:04:33.665] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-240,-97]
+[24Jan2025 17:04:33.667] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-3843 | 36 | -1543)
+[24Jan2025 17:04:33.674] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-3843 | 36 | -1543)
+[24Jan2025 17:04:33.675] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-3844 | 31 | -1548)
+[24Jan2025 17:04:33.675] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-3844 | 31 | -1548)
+[24Jan2025 17:04:33.679] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-3837 | 31 | -1544)
+[24Jan2025 17:04:33.680] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-3837 | 31 | -1544)
+[24Jan2025 17:04:33.680] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-3844 | 31 | -1537)
+[24Jan2025 17:04:33.680] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-3844 | 31 | -1537)
+[24Jan2025 17:04:33.682] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-3849 | 31 | -1549)
+[24Jan2025 17:04:33.683] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-3849 | 31 | -1549)
+[24Jan2025 17:04:33.683] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-240,-97]
+[24Jan2025 17:04:33.694] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-240,-96]
+[24Jan2025 17:04:33.694] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-3844 | 31 | -1537)
+[24Jan2025 17:04:33.695] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-3844 | 31 | -1537)
+[24Jan2025 17:04:33.697] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-3849 | 31 | -1549)
+[24Jan2025 17:04:33.697] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-3849 | 31 | -1549)
+[24Jan2025 17:04:33.697] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-240,-96]
+[24Jan2025 17:04:33.708] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-240,-95]
+[24Jan2025 17:04:33.708] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-240,-95]
+[24Jan2025 17:04:33.722] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-240,-94]
+[24Jan2025 17:04:33.722] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-240,-94]
+[24Jan2025 17:04:33.749] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-240,-93]
+[24Jan2025 17:04:33.750] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-240,-93]
+[24Jan2025 17:04:33.996] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -3983 28 -1081
+[24Jan2025 17:04:34.225] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-240,-101]
+[24Jan2025 17:04:34.225] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-240,-101]
+[24Jan2025 17:04:34.241] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-240,-100]
+[24Jan2025 17:04:34.241] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-240,-100]
+[24Jan2025 17:04:34.253] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-240,-99]
+[24Jan2025 17:04:34.253] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-240,-99]
+[24Jan2025 17:04:35.557] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -4001 47 -1425
+[24Jan2025 17:04:35.558] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -4003 22 -1265
+[24Jan2025 17:04:35.648] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-240,-102]
+[24Jan2025 17:04:35.648] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-240,-102]
+[24Jan2025 17:04:35.912] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at -3999 18 -1577
+[24Jan2025 17:04:36.070] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-241,-93]
+[24Jan2025 17:04:36.070] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-241,-93]
+[24Jan2025 17:04:36.225] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-241,-95]
+[24Jan2025 17:04:36.225] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-3867 | 12 | -1513)
+[24Jan2025 17:04:36.226] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-3867 | 12 | -1513)
+[24Jan2025 17:04:36.229] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-241,-95]
+[24Jan2025 17:04:36.238] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-241,-94]
+[24Jan2025 17:04:36.238] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-3867 | 12 | -1513)
+[24Jan2025 17:04:36.239] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-3867 | 12 | -1513)
+[24Jan2025 17:04:36.240] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-241,-94]
+[24Jan2025 17:04:36.278] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-241,-96]
+[24Jan2025 17:04:36.279] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-3848 | 31 | -1537)
+[24Jan2025 17:04:36.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-3848 | 31 | -1537)
+[24Jan2025 17:04:36.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-3844 | 31 | -1537)
+[24Jan2025 17:04:36.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-3844 | 31 | -1537)
+[24Jan2025 17:04:36.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-3849 | 31 | -1549)
+[24Jan2025 17:04:36.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-3849 | 31 | -1549)
+[24Jan2025 17:04:36.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-241,-96]
+[24Jan2025 17:04:36.412] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-241,-102]
+[24Jan2025 17:04:36.412] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-241,-102]
+[24Jan2025 17:04:36.437] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-241,-101]
+[24Jan2025 17:04:36.437] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-241,-101]
+[24Jan2025 17:04:36.476] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-241,-100]
+[24Jan2025 17:04:36.476] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-241,-100]
+[24Jan2025 17:04:36.492] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-241,-99]
+[24Jan2025 17:04:36.492] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-241,-99]
+[24Jan2025 17:04:36.510] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-241,-98]
+[24Jan2025 17:04:36.511] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-3863 | 31 | -1554)
+[24Jan2025 17:04:36.511] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-3863 | 31 | -1554)
+[24Jan2025 17:04:36.511] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-241,-98]
+[24Jan2025 17:04:36.522] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-241,-97]
+[24Jan2025 17:04:36.523] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-3863 | 31 | -1554)
+[24Jan2025 17:04:36.523] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-3863 | 31 | -1554)
+[24Jan2025 17:04:36.523] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-3863 | 31 | -1544)
+[24Jan2025 17:04:36.523] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-3863 | 31 | -1544)
+[24Jan2025 17:04:36.524] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-3843 | 36 | -1543)
+[24Jan2025 17:04:36.524] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-3843 | 36 | -1543)
+[24Jan2025 17:04:36.524] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-3848 | 31 | -1549)
+[24Jan2025 17:04:36.528] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-3848 | 31 | -1549)
+[24Jan2025 17:04:36.528] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-3848 | 31 | -1537)
+[24Jan2025 17:04:36.529] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-3848 | 31 | -1537)
+[24Jan2025 17:04:36.529] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-3844 | 31 | -1548)
+[24Jan2025 17:04:36.530] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-3844 | 31 | -1548)
+[24Jan2025 17:04:36.533] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-3844 | 31 | -1537)
+[24Jan2025 17:04:36.534] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-3844 | 31 | -1537)
+[24Jan2025 17:04:36.535] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-3854 | 31 | -1544)
+[24Jan2025 17:04:36.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-3854 | 31 | -1544)
+[24Jan2025 17:04:36.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-3849 | 31 | -1549)
+[24Jan2025 17:04:36.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-3849 | 31 | -1549)
+[24Jan2025 17:04:36.537] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-241,-97]
+[24Jan2025 17:05:47.065] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 17:05:47.078] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 17:05:55.864] [Server thread/DEBUG] [ModernFix/]: Creating locate task for [net.minecraft.world.gen.feature.structure.BuriedTreasureStructure@7ef7ea57] in ServerLevel[world] around BlockPos{x=-3577, y=51, z=-1714} within 50 chunks
+[24Jan2025 17:05:55.864] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Trying to locate [minecraft:buried_treasure] in ServerLevel[world] around BlockPos{x=-3577, y=51, z=-1714} within 50 chunks
+[24Jan2025 17:05:56.576] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Found [minecraft:buried_treasure] at BlockPos{x=-2951, y=0, z=-1303}
+[24Jan2025 17:06:27.144] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/town_centers/fountain_01
+[24Jan2025 17:06:27.147] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_04
+[24Jan2025 17:06:27.148] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_01
+[24Jan2025 17:06:27.150] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_04
+[24Jan2025 17:06:27.151] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/corner_01
+[24Jan2025 17:06:27.152] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_farm_1
+[24Jan2025 17:06:27.153] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_05
+[24Jan2025 17:06:27.155] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_3
+[24Jan2025 17:06:27.156] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_05
+[24Jan2025 17:06:27.157] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_6
+[24Jan2025 17:06:27.158] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/terminators/terminator_02
+[24Jan2025 17:06:27.159] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/decor/lamp_1
+[24Jan2025 17:06:27.160] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_03
+[24Jan2025 17:06:27.162] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/tannery_1
+[24Jan2025 17:06:27.162] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/corner_03
+[24Jan2025 17:06:27.163] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_02
+[24Jan2025 17:06:27.164] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_2
+[24Jan2025 17:06:27.165] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_06
+[24Jan2025 17:06:27.167] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_7
+[24Jan2025 17:06:27.168] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_4
+[24Jan2025 17:06:27.168] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/terminators/terminator_04
+[24Jan2025 17:06:27.169] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/animal_pen_3
+[24Jan2025 17:06:27.171] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/armorer_house_1
+[24Jan2025 17:06:27.172] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/terminators/terminator_03
+[24Jan2025 17:06:27.173] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_03
+[24Jan2025 17:06:27.174] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_06
+[24Jan2025 17:06:27.174] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/accessory_1
+[24Jan2025 17:06:27.176] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_1
+[24Jan2025 17:06:27.177] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/masons_house_1
+[24Jan2025 17:06:27.179] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/houses/small_house_5
+[24Jan2025 17:06:27.180] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/crossroad_02
+[24Jan2025 17:06:27.180] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/turn_01
+[24Jan2025 17:06:27.181] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/straight_01
+[24Jan2025 17:06:27.182] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/streets/corner_02
+[24Jan2025 17:06:27.183] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:village/oak/terminators/terminator_01
+[24Jan2025 17:07:09.875] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['☠ Skeleton - Level: 581'/29087, l='ServerLevel[world]', x=-3507.51, y=57.00, z=-1882.33] to SunkenSkeletonEntity['☠ Skeleton - Level: 581'/29721, l='ServerLevel[world]', x=-3507.51, y=57.00, z=-1882.33]
+[24Jan2025 17:07:09.877] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['☠ Skeleton - Level: 736'/29094, l='ServerLevel[world]', x=-3509.45, y=56.00, z=-1881.40] to SunkenSkeletonEntity['☠ Skeleton - Level: 736'/29722, l='ServerLevel[world]', x=-3509.45, y=56.00, z=-1881.40]
+[24Jan2025 17:07:11.870] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['☠ Skeleton - Level: 755'/29121, l='ServerLevel[world]', x=-3506.18, y=57.00, z=-1882.60] to SunkenSkeletonEntity['☠ Skeleton - Level: 755'/29750, l='ServerLevel[world]', x=-3506.18, y=57.00, z=-1882.60]
+[24Jan2025 17:07:11.969] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 329'/29092, l='ServerLevel[world]', x=-3508.56, y=57.00, z=-1883.32] to SunkenSkeletonEntity['Skeleton - Level: 329'/29751, l='ServerLevel[world]', x=-3508.56, y=57.00, z=-1883.32]
+[24Jan2025 17:07:13.970] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 370'/29123, l='ServerLevel[world]', x=-3508.54, y=57.00, z=-1885.87] to SunkenSkeletonEntity['Skeleton - Level: 370'/29776, l='ServerLevel[world]', x=-3508.54, y=57.00, z=-1885.87]
+[24Jan2025 17:07:39.619] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted StrayEntity['Stray - Level: 163'/29119, l='ServerLevel[world]', x=-3508.05, y=48.00, z=-1898.17] to SunkenSkeletonEntity['Stray - Level: 163'/30073, l='ServerLevel[world]', x=-3508.05, y=48.00, z=-1898.17]
+[24Jan2025 17:10:20.436] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_short
+[24Jan2025 17:10:26.987] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/plus_plain
+[24Jan2025 17:10:26.990] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_base
+[24Jan2025 17:10:26.992] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_intersection
+[24Jan2025 17:10:26.996] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_silverfish
+[24Jan2025 17:10:27.003] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_bridge
+[24Jan2025 17:10:46.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 17:10:46.972] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

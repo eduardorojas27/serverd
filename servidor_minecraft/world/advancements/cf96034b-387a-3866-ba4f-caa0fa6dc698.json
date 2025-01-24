@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-01-24 16:59:12 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/paper_wall": {
     "criteria": {
       "has_item": "2025-01-08 20:33:53 +0000"
@@ -260,6 +266,12 @@
   "smallships:recipes/lotr_mallorn_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:59:12 +0000"
     },
     "done": true
   },
@@ -1043,6 +1055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-24 17:03:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/jungle_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -1781,6 +1799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-24 17:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 21:50:05 +0000"
@@ -2135,9 +2159,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-01-24 16:54:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-01-02 21:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-01-24 16:45:06 +0000"
     },
     "done": true
   },
@@ -2597,6 +2633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 16:59:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_fir_brigg": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -2642,6 +2684,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-01-03 21:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-24 17:03:19 +0000"
     },
     "done": true
   },
@@ -3303,6 +3351,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-13 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-24 17:03:19 +0000"
     },
     "done": true
   },
@@ -4462,6 +4516,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:59:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-01-03 20:41:09 +0000"
@@ -4728,6 +4788,12 @@
   "smallships:recipes/bop_palm_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-24 17:03:10 +0000"
     },
     "done": true
   },
@@ -5043,6 +5109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2025-01-24 16:55:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-04 03:57:21 +0000"
@@ -5281,6 +5353,7 @@
       "minecraft:lukewarm_ocean": "2025-01-11 04:21:38 +0000",
       "minecraft:wooded_mountains": "2025-01-03 20:08:55 +0000",
       "minecraft:wooded_hills": "2025-01-13 20:58:14 +0000",
+      "minecraft:stone_shore": "2025-01-24 17:04:17 +0000",
       "minecraft:wooded_badlands_plateau": "2025-01-06 20:07:14 +0000",
       "minecraft:swamp": "2025-01-05 20:28:03 +0000",
       "minecraft:savanna": "2025-01-02 22:05:07 +0000",
@@ -5952,6 +6025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-24 17:03:10 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_brigg": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -6021,6 +6100,12 @@
   "undergarden:recipes/undergarden_group/shard_to_chunk": {
     "criteria": {
       "has_shard": "2025-01-03 20:57:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-24 17:03:19 +0000"
     },
     "done": true
   },
