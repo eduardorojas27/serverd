@@ -2456,3 +2456,68 @@ java.lang.Exception: null
 [24Jan2025 18:12:35.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
 [24Jan2025 18:12:38.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
 [24Jan2025 18:12:38.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:12:42.372] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[24Jan2025 18:12:42.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki died
+[24Jan2025 18:12:42.374] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-2763, y=3, z=-2299}
+[24Jan2025 18:12:42.374] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[24Jan2025 18:12:43.697] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:12:43.698] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:12:50.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Trapped in an eternal hell.
+[24Jan2025 18:12:53.773] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[24Jan2025 18:12:53.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY died
+[24Jan2025 18:12:53.775] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-2764, y=4, z=-2281}
+[24Jan2025 18:12:53.776] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[24Jan2025 18:12:55.407] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:12:55.407] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:13:00.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2763.5, 4.5, -2280.5]
+[24Jan2025 18:13:09.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[24Jan2025 18:13:09.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Pity.
+[24Jan2025 18:15:07.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> We've been waiting.
+[24Jan2025 18:15:09.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> An unmoving tortuous fate.
+[24Jan2025 18:15:14.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Pity.
+[24Jan2025 18:15:55.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[24Jan2025 18:15:56.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> We've been waiting.
+[24Jan2025 18:15:56.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Pity.
+[24Jan2025 18:16:00.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[24Jan2025 18:16:09.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[24Jan2025 18:18:08.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> We've been waiting.
+[24Jan2025 18:18:18.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> An unmoving tortuous fate.
+[24Jan2025 18:18:33.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:18:33.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:18:36.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[24Jan2025 18:18:36.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:18:48.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[24Jan2025 18:18:48.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Death is inevitable.
+[24Jan2025 18:19:00.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[24Jan2025 18:19:03.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> An unmoving tortuous fate.
+[24Jan2025 18:19:14.623] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/68519, l='ServerLevel[world]', x=-2765.54, y=1.62, z=-2288.44]
+[24Jan2025 18:19:18.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Trapped in an eternal hell.
+[24Jan2025 18:19:31.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[24Jan2025 18:19:33.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:19:33.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:19:36.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:19:44.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2930.5, 64.5, -2290.5]
+[24Jan2025 18:19:44.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Pity.
+[24Jan2025 18:19:46.621] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[24Jan2025 18:19:46.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki died
+[24Jan2025 18:19:46.623] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-2928, y=64, z=-2288}
+[24Jan2025 18:19:46.623] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[24Jan2025 18:19:48.053] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:19:48.054] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:19:49.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[24Jan2025 18:19:51.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2863.5, 73.5, -2305.5]
+[24Jan2025 18:19:55.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2927.5, 64.5, -2287.5]
+[24Jan2025 18:20:01.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[24Jan2025 18:20:04.967] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[24Jan2025 18:20:04.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki hit the ground too hard
+[24Jan2025 18:20:04.969] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-2930, y=64, z=-2291}
+[24Jan2025 18:20:04.969] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[24Jan2025 18:20:06.411] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:20:06.411] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:20:28.423] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[24Jan2025 18:20:28.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[24Jan2025 18:20:37.284] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@578191d4
+[24Jan2025 18:20:37.294] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:37889] logged in with entity id 69020 at (-2909.3287060497346, 65.0, -2277.6311959853865)
+[24Jan2025 18:20:37.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[24Jan2025 18:20:37.411] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:20:37.412] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
