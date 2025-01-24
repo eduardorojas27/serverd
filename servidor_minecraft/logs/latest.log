@@ -1988,3 +1988,128 @@ java.lang.NullPointerException: null
 [24Jan2025 17:10:26.992] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_intersection
 [24Jan2025 17:10:26.996] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_silverfish
 [24Jan2025 17:10:27.003] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_bridge
+[24Jan2025 17:10:58.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Best Friends Forever]
+[24Jan2025 17:12:04.095] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle_corridor3
+[24Jan2025 17:12:04.104] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle3_rich
+[24Jan2025 17:12:04.107] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle_corridor2
+[24Jan2025 17:12:04.114] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle2_rich
+[24Jan2025 17:12:04.119] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/stairs_up_start
+[24Jan2025 17:12:04.119] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/straight_corridor
+[24Jan2025 17:12:04.120] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/corner_corridor_left
+[24Jan2025 17:12:04.121] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/straight_corridor
+[24Jan2025 17:12:04.122] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_wooden_door
+[24Jan2025 17:12:04.123] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corner_corridor_left
+[24Jan2025 17:12:04.124] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/straight_corridor2
+[24Jan2025 17:12:04.124] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_iron_door
+[24Jan2025 17:12:04.125] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/chest_room
+[24Jan2025 17:12:04.127] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corner_corridor_quad
+[24Jan2025 17:12:04.128] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/cult_room
+[24Jan2025 17:15:33.683] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/taiga/watchtower_aged
+[24Jan2025 17:15:33.684] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/taiga/cage2
+[24Jan2025 17:15:33.685] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/taiga/targets
+[24Jan2025 17:15:33.685] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/taiga/logs
+[24Jan2025 17:15:33.686] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/taiga/cage1
+[24Jan2025 17:15:33.773] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[24Jan2025 17:15:59.116] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_2
+[24Jan2025 17:15:59.117] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_3
+[24Jan2025 17:15:59.119] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_1
+[24Jan2025 17:16:00.604] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/town_centers/meeting_point_1 is being run through DFU (hash 3f787785adaa39c1c3c19f7e523e6ab954fe55ec2d6c40fa55e04f1c815dac7f), this will cause launch time delays
+[24Jan2025 17:16:00.795] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/terminators/terminator_02 is being run through DFU (hash f2aa5c2587f85fe58df5fdcee534db175477c0a4fb07c2becb43722d31b9d248), this will cause launch time delays
+[24Jan2025 17:16:00.797] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/terminators/terminator_03 is being run through DFU (hash 00123834cda482f1a5faedfb00a4c5cfa989462c761add43293093d310ed983d), this will cause launch time delays
+[24Jan2025 17:16:00.798] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/terminators/terminator_01 is being run through DFU (hash d45a01df3c8cb243f6cc9832039be43f6de2593a8e3ce5cbaf0cc6bb08766d78), this will cause launch time delays
+[24Jan2025 17:16:00.799] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/terminators/terminator_04 is being run through DFU (hash c6b1075165dd224b4c4776646bed230dc96db145b86cbee40fceeebb6b4f52aa), this will cause launch time delays
+[24Jan2025 17:16:00.800] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/straight_06 is being run through DFU (hash 85f114f20ddda2718e047abf7d4cfb1df9d6079f31ac77ca2ed426b86f084736), this will cause launch time delays
+[24Jan2025 17:16:00.807] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/armorer_house_2 is being run through DFU (hash 88c2f557700693f84f5272054695dfa4dd42a6b83961c293912b005f73e1850c), this will cause launch time delays
+[24Jan2025 17:16:00.819] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/decor/lamp_post_1 is being run through DFU (hash 998b906a5f49f1e07199e8a26235f30cd51ae89e4f3d5dc1f5d7ec2937ca7eb6), this will cause launch time delays
+[24Jan2025 17:16:00.820] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/decor/decoration_1 is being run through DFU (hash 8ecaa45a0692ff138fcf07b3baeb29a11e37c01a98f564867c86399560b47416), this will cause launch time delays
+[24Jan2025 17:16:00.821] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/decor/decoration_2 is being run through DFU (hash ad6e6f67f35db966c6a98d1fc987ace9d6948613a84666e4056b3dce96d7619f), this will cause launch time delays
+[24Jan2025 17:16:00.823] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/decor/decoration_3 is being run through DFU (hash d8b2dcc450f55bf95c618f6986c9e51ee772b151ff1ba4d6c310d56a27e7e364), this will cause launch time delays
+[24Jan2025 17:16:00.823] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/decor/decoration_4 is being run through DFU (hash 32495afaaa262a15584d097a912504f402f5fe2b76ff1be99655959ba6792dd6), this will cause launch time delays
+[24Jan2025 17:16:00.824] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/decor/decoration_5 is being run through DFU (hash 94c79f8822e0df2c73a8ff86100cf1943bb878405458117b3be5382615f25703), this will cause launch time delays
+[24Jan2025 17:16:00.825] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/decor/decoration_6 is being run through DFU (hash ba7b104e459748241af2a3e634e27d95df2fa3dff817a3599cfd242af857705e), this will cause launch time delays
+[24Jan2025 17:16:00.829] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/medium_house_1 is being run through DFU (hash 669aa473eaeebcd0726b7dedd98247f2da5b9c63f9e1ffe177e84f42b7225006), this will cause launch time delays
+[24Jan2025 17:16:00.838] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/straight_01 is being run through DFU (hash 57248973a5853054b9aa9b510edf4e8787dacc01171f66273b0c795ee0e9184d), this will cause launch time delays
+[24Jan2025 17:16:00.842] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/straight_03 is being run through DFU (hash fde6de4d497ad5ff31f657b1e30c44dd8295c88f1d13de750d4af1ed4d66eada), this will cause launch time delays
+[24Jan2025 17:16:00.844] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/medium_house_2 is being run through DFU (hash 8cd4c45fec72bdecc6759752414c3039cc708b1eb10b625d32b9cbef4b467933), this will cause launch time delays
+[24Jan2025 17:16:00.849] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/shepherds_house_1 is being run through DFU (hash 53c9b87dc2cba2f4e4caad38d3d48d4ce2629f1167863fdf3d5aef45bbe2186c), this will cause launch time delays
+[24Jan2025 17:16:00.854] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/small_farm_1 is being run through DFU (hash af148520abea14a44097933b5cb11102d8789abe2102b795b294affc295bebd2), this will cause launch time delays
+[24Jan2025 17:16:00.857] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/tool_smith_1 is being run through DFU (hash fca6368e98350b46b4aa56b4c783348d6b66f5f59fb3785b6e7f694af252fc5f), this will cause launch time delays
+[24Jan2025 17:16:00.861] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/fletcher_house_1 is being run through DFU (hash e589fdc2444d9e93edd2966a684b32a69e70ef5b6c190aee2b2c36b9a0e54eea), this will cause launch time delays
+[24Jan2025 17:16:00.864] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/small_house_5 is being run through DFU (hash ff85b40739a36edab104c46f6fcb62f32be88d97b602c4696174833ba9ae16d7), this will cause launch time delays
+[24Jan2025 17:16:00.868] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/library_1 is being run through DFU (hash 754674174b45f9860ea1b152915c5268a2a2f1f3f826e10c2c5c628b6d9767d5), this will cause launch time delays
+[24Jan2025 17:16:00.876] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/small_house_4 is being run through DFU (hash 6bf5016dec224eb1f5b271efd78dd91835a310715c0d8434ab60348db33458da), this will cause launch time delays
+[24Jan2025 17:16:00.881] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/small_house_3 is being run through DFU (hash b5ae4cb16b7b2540e600057f0f807babbc8f55bbab672315ee6d15f663ae773d), this will cause launch time delays
+[24Jan2025 17:16:00.885] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/medium_house_4 is being run through DFU (hash 19e13f76aa4b6712d82d40a0118cbda03cb74875606de7fd57215b145f66ff3f), this will cause launch time delays
+[24Jan2025 17:16:00.889] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/armorer_house_1 is being run through DFU (hash 51002c05b60be3e31009c77eb5412f7b640272a4e0300c987f53ca042db6ce91), this will cause launch time delays
+[24Jan2025 17:16:00.893] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/small_house_2 is being run through DFU (hash 8619f628f1940ab7e22b2b6735955cb5048e79e106fee51ab839879d09e10224), this will cause launch time delays
+[24Jan2025 17:16:00.895] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/medium_house_3 is being run through DFU (hash daeed53c1c3af778277365b66a7932f066c5fcfee605f2d5e13ee9c48cdf0995), this will cause launch time delays
+[24Jan2025 17:16:00.900] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/butcher_shop_1 is being run through DFU (hash b64706ea8b4a5b66b63e4f96645fd23cdc67a38ead49f8e142dbf4289544b86a), this will cause launch time delays
+[24Jan2025 17:16:00.904] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/small_house_1 is being run through DFU (hash 654a974a7bfa4505b43a471383ca3048ff93284588933560a8acf9124e620a51), this will cause launch time delays
+[24Jan2025 17:16:00.909] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/masons_house_1 is being run through DFU (hash 42121407842c6e494032c67230eba8872e8ff42b60816ee5cc8db6655654e65f), this will cause launch time delays
+[24Jan2025 17:16:00.913] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/weaponsmith_1 is being run through DFU (hash fa8cf38386683a33186feb5fac8372190afbb7d438967e434bde4e7380c0ae80), this will cause launch time delays
+[24Jan2025 17:16:00.917] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/fisher_cottage_1 is being run through DFU (hash a269d5ea4af3bca361394e728cbf589478141bbfe83f3470639fe7933fec3130), this will cause launch time delays
+[24Jan2025 17:16:00.923] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/tannery_1 is being run through DFU (hash a833fea0f17a5d6a48c7a1c01af746bb824563963fbe11e5b710088d6fe71906), this will cause launch time delays
+[24Jan2025 17:16:00.929] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/temple_1 is being run through DFU (hash 91e0a6852160e19b04940aeaf8911b551529bfad4ceb0cb5cb962d74a5019597), this will cause launch time delays
+[24Jan2025 17:16:00.940] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/cartographer_house_1 is being run through DFU (hash bc78b6646553e386b52e1afd4a02a30ef3c9ed449fbbdc34f182b6d97397fac6), this will cause launch time delays
+[24Jan2025 17:16:00.944] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/large_farm_1 is being run through DFU (hash 263a458aeae1c821c43f03223bb77addc251e5dad4a2169356f002f58747e15d), this will cause launch time delays
+[24Jan2025 17:16:00.946] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/large_farm_2 is being run through DFU (hash 213607fff15947da3ee134b317fa3905d7308d73607fb2c940135ea83fc7a50c), this will cause launch time delays
+[24Jan2025 17:16:00.949] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/straight_05 is being run through DFU (hash ba71ba7934d268048f71f06626438133c996627bcc235a6e3ae51663b9c9a3fb), this will cause launch time delays
+[24Jan2025 17:16:00.951] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/crossroad_01 is being run through DFU (hash 02050490765959582993fb66434ff2b749fea2570a079c8842656052ac76e721), this will cause launch time delays
+[24Jan2025 17:16:00.954] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/crossroad_02 is being run through DFU (hash 713f54f433d97b9a592397747298eb9fa375c77ef4263c32da9cab33914001fa), this will cause launch time delays
+[24Jan2025 17:16:00.956] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/crossroad_03 is being run through DFU (hash a10faa017cb230b265857ef9fc3ab0d6121376d38348daec950a839bb6e1874a), this will cause launch time delays
+[24Jan2025 17:16:00.959] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/straight_02 is being run through DFU (hash 202c7fdaed1eaa485f227930ab2ef6c2afa8c4df75ee8c83d97062ef99821986), this will cause launch time delays
+[24Jan2025 17:16:00.960] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/crossroad_05 is being run through DFU (hash 09e2597be357cf2ac80e60ad470b964dbe5d6f048775ab44980863d8b61d4326), this will cause launch time delays
+[24Jan2025 17:16:00.961] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/straight_04 is being run through DFU (hash f34d8b53bf5cf6c790dba9b5caf17f3b78b0329c46b592d84b1d41bc00d8617d), this will cause launch time delays
+[24Jan2025 17:16:00.962] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/turn_01 is being run through DFU (hash 3221f5982c8a8e02ae40d82044dd1d1361fe183bc78addec1c8eb08cf19c6290), this will cause launch time delays
+[24Jan2025 17:16:00.964] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/corner_01 is being run through DFU (hash 3af361acaefeec7e7daa4559a36cab43278725627c30ae89f959e8ecac7f1f45), this will cause launch time delays
+[24Jan2025 17:16:00.965] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/corner_03 is being run through DFU (hash b11bf9cf76f9d3eca2bc0a4b5b2117807e967ea936fb62fd74df94bd79eb6f16), this will cause launch time delays
+[24Jan2025 17:16:00.966] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/crossroad_04 is being run through DFU (hash eac63d2e6649cdff9e6bc05b7c955ade38feaf16df23965d14e4de3d3d3136c3), this will cause launch time delays
+[24Jan2025 17:16:00.967] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/corner_02 is being run through DFU (hash 502bddbd299fc3cc21c09477fa3abb4a8a7735a9e9fbfb040bfc1fe4bfc4f2cd), this will cause launch time delays
+[24Jan2025 17:16:00.969] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/streets/crossroad_06 is being run through DFU (hash d70c131ebc81b926e1892f82f5b8ecbdf6c0e9d17f7a919612e65ec7f5c79b9b), this will cause launch time delays
+[24Jan2025 17:16:00.980] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/weaponsmith_2 is being run through DFU (hash 1c2abbd6d46adb6e2dce8cfcc3b020a2206615e41ca05eed62de976fd394d6f7), this will cause launch time delays
+[24Jan2025 17:16:00.996] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:village/mountains/houses/animal_pen_1 is being run through DFU (hash 4f789b53c0a573bae3b5a9215424319aabb019ec87a988dcfd67f6978b248052), this will cause launch time delays
+[24Jan2025 17:16:07.469] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/plus_barricade
+[24Jan2025 17:16:07.473] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_ruined
+[24Jan2025 17:16:07.475] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_melon
+[24Jan2025 17:16:07.477] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_redstone
+[24Jan2025 17:16:07.478] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/forward_cobweb
+[24Jan2025 17:16:07.480] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_room
+[24Jan2025 17:16:07.481] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/right_plain
+[24Jan2025 17:16:07.483] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_plain
+[24Jan2025 17:16:08.485] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_1
+[24Jan2025 17:16:08.487] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_3
+[24Jan2025 17:16:08.488] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_2
+[24Jan2025 17:17:17.135] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/37521, l='ServerLevel[world]', x=-4398.40, y=75.90, z=-2489.53]
+[24Jan2025 17:17:17.135] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/37521, l='ServerLevel[world]', x=-4398.40, y=75.90, z=-2489.53]
+[24Jan2025 17:17:37.440] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/snow_3
+[24Jan2025 17:17:37.441] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/snow_2
+[24Jan2025 17:19:01.986] [Worker-Main-2/WARN] [ModernFix/]: Structure endrem:end_castle/castle_bl is being run through DFU (hash 5ef8b4b7f991ad6b30e4a2e05c3d1f2a4acea53b67035658616e29772f06e44e), this will cause launch time delays
+[24Jan2025 17:19:02.426] [Worker-Main-2/WARN] [ModernFix/]: Structure endrem:end_castle/castle_tl is being run through DFU (hash 6cc00a909aabe7c6b31e228f2f9888617c5d3aed0920d78c1e3306701da72099), this will cause launch time delays
+[24Jan2025 17:19:02.618] [Worker-Main-2/WARN] [ModernFix/]: Structure endrem:end_castle/castle_ml is being run through DFU (hash 2d04666c4d5f260060b57326673dd2b50bb3cca8356769dbd3a577f5e132141c), this will cause launch time delays
+[24Jan2025 17:19:02.923] [Worker-Main-2/WARN] [ModernFix/]: Structure endrem:end_castle/castle_br is being run through DFU (hash b56d84a9c51714f70bb7283bf717c41a1e6e57ed050c45013b3a2fec89a37028), this will cause launch time delays
+[24Jan2025 17:19:03.214] [Worker-Main-2/WARN] [ModernFix/]: Structure endrem:end_castle/castle_tr is being run through DFU (hash c629deba6f5d570b1172571afe4aa0909f32f15163c0186f38a508e8db6aaee5), this will cause launch time delays
+[24Jan2025 17:19:03.382] [Worker-Main-2/WARN] [ModernFix/]: Structure endrem:end_castle/castle_mr is being run through DFU (hash 74cb8f3f9c3e4ba20eaa6930f3b3fe3c6c0d9706575b0349de7ec472e2e2a3c3), this will cause launch time delays
+[24Jan2025 17:19:03.665] [Worker-Main-2/WARN] [ModernFix/]: Structure endrem:end_castle/castle_bm is being run through DFU (hash 80131c16158ac501dd4eb945ffdefcd30b0b50c6726f2073fd78790d579f0b48), this will cause launch time delays
+[24Jan2025 17:19:03.735] [Worker-Main-2/WARN] [ModernFix/]: Structure endrem:end_castle/castle_tm is being run through DFU (hash b078c3280c21fb37f4aef52027c133bce76b0d4d4f96e10e88f58f53b1348cf6), this will cause launch time delays
+[24Jan2025 17:19:03.928] [Worker-Main-2/WARN] [ModernFix/]: Structure endrem:end_castle/castle_mm is being run through DFU (hash 997d83ab6995fb39a4f975dd61ad6cd6b248c6179167ab285779aaff27a273a3), this will cause launch time delays
+[24Jan2025 17:19:16.264] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/40010, l='ServerLevel[world]', x=-4522.82, y=95.13, z=-2781.43]
+[24Jan2025 17:19:25.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[24Jan2025 17:20:35.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -4753.5, 63.5, -2642.5]
+[24Jan2025 17:20:37.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[24Jan2025 17:21:15.967] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle2_nether
+[24Jan2025 17:21:15.978] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle3_black
+[24Jan2025 17:21:15.990] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle2_jungle
+[24Jan2025 17:21:15.991] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[24Jan2025 17:21:15.999] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/prison
+[24Jan2025 17:21:16.002] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/straight_stairs
+[24Jan2025 17:21:16.006] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/large_quad
+[24Jan2025 17:21:16.010] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/old_church
+[24Jan2025 17:21:16.013] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/enchanting_room
+[24Jan2025 17:21:16.020] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/library
+[24Jan2025 17:21:16.022] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_trapped
+[24Jan2025 17:21:16.023] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/stairs_up
+[24Jan2025 17:21:16.025] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/fountain
+[24Jan2025 17:21:16.059] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Jan2025 17:21:16.059] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Jan2025 17:21:16.151] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Jan2025 17:21:16.152] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
