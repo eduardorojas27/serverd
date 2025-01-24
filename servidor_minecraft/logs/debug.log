@@ -11407,3 +11407,34 @@ java.lang.NullPointerException: null
 [24Jan2025 16:13:27.673] [Server thread/DEBUG] [mixin/]: Mixing compat.sophisticatedbackpacks.InventoryHandlerMixin from biggerstacks.mixins.json into net.p3pp3rf1y.sophisticatedbackpacks.backpack.wrapper.BackpackInventoryHandler
 [24Jan2025 16:15:42.452] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Jan2025 16:15:42.464] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 16:20:42.485] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 16:20:42.499] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 16:21:12.135] [Server thread/DEBUG] [mixin/]: Mixing common.entity.MixinPiglinTasks from byg.mixins.json into net.minecraft.entity.monster.piglin.PiglinTasks
+[24Jan2025 16:21:12.135] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$static$0(Lit/unimi/dsi/fastutil/objects/Reference2ReferenceOpenHashMap;)V to md449404$lambda$static$0$0 in byg.mixins.json:common.entity.MixinPiglinTasks
+[24Jan2025 16:22:01.036] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[24Jan2025 16:22:01.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[24Jan2025 16:23:19.463] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.inventory.InventoryHelper
+[24Jan2025 16:24:34.096] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/savanna_compost_pile
+[24Jan2025 16:24:43.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Eye of The Storm]
+[24Jan2025 16:24:59.721] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Josef - Level: 9'/6362, l='ServerLevel[world]', x=-2407.53, y=63.00, z=-2148.74] died, message: 'Josef - Level: 9 was killed by magic'
+[24Jan2025 16:25:36.610] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Anisa - Level: 9'/6336, l='ServerLevel[world]', x=-2426.37, y=64.50, z=-2170.85] died, message: 'Anisa - Level: 9 was killed by magic'
+[24Jan2025 16:25:42.657] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 16:25:42.676] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 16:26:36.224] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@724c2265
+[24Jan2025 16:26:36.224] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[24Jan2025 16:26:51.404] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@724c2265
+[24Jan2025 16:26:51.404] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[24Jan2025 16:27:00.332] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@724c2265
+[24Jan2025 16:27:00.333] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[24Jan2025 16:27:58.529] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@3dad3531
+[24Jan2025 16:27:58.530] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[24Jan2025 16:28:21.127] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@3dad3531
+[24Jan2025 16:28:21.128] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[24Jan2025 16:28:48.225] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@3dad3531
+[24Jan2025 16:28:48.225] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[24Jan2025 16:29:23.574] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@7af33a69
+[24Jan2025 16:29:23.574] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[24Jan2025 16:29:42.074] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@7af33a69
+[24Jan2025 16:29:42.074] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[24Jan2025 16:29:48.252] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@7af33a69
+[24Jan2025 16:29:48.252] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0

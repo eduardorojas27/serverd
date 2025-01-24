@@ -1863,3 +1863,9 @@ java.lang.NullPointerException: null
 [24Jan2025 16:12:07.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
 [24Jan2025 16:12:07.306] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [24Jan2025 16:12:07.306] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 16:22:01.036] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[24Jan2025 16:22:01.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[24Jan2025 16:24:34.096] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/savanna_compost_pile
+[24Jan2025 16:24:43.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Eye of The Storm]
+[24Jan2025 16:24:59.721] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Josef - Level: 9'/6362, l='ServerLevel[world]', x=-2407.53, y=63.00, z=-2148.74] died, message: 'Josef - Level: 9 was killed by magic'
+[24Jan2025 16:25:36.610] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Anisa - Level: 9'/6336, l='ServerLevel[world]', x=-2426.37, y=64.50, z=-2170.85] died, message: 'Anisa - Level: 9 was killed by magic'
