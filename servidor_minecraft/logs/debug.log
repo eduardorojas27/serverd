@@ -19008,3 +19008,233 @@ java.lang.Exception: null
 [24Jan2025 18:32:45.433] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [24Jan2025 18:32:50.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
 [24Jan2025 18:32:59.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Join us.
+[24Jan2025 18:33:10.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> An unmoving tortuous fate.
+[24Jan2025 18:33:25.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Stopped by destiny.
+[24Jan2025 18:33:40.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:33:40.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:33:43.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:33:55.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Stopped by destiny.
+[24Jan2025 18:33:56.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2769.5, 2.5, -2265.5]
+[24Jan2025 18:33:57.520] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:33:57.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[24Jan2025 18:33:57.521] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[24Jan2025 18:34:10.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> An unmoving tortuous fate.
+[24Jan2025 18:34:12.470] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:34:12.471] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[24Jan2025 18:34:12.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY died
+[24Jan2025 18:34:12.471] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[24Jan2025 18:34:12.471] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[24Jan2025 18:34:12.472] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[24Jan2025 18:34:12.472] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[24Jan2025 18:34:12.472] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=-2771, y=2, z=-2264}
+[24Jan2025 18:34:12.472] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-2771, y=2, z=-2264}
+[24Jan2025 18:34:12.472] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24Jan2025 18:34:12.472] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[24Jan2025 18:34:12.472] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[24Jan2025 18:34:13.930] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:34:13.930] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:34:17.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2765.5, 3.5, -2269.5]
+[24Jan2025 18:34:19.219] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:34:19.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[24Jan2025 18:34:19.220] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[24Jan2025 18:34:26.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:34:26.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:34:28.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:34:34.169] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:34:34.170] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[24Jan2025 18:34:34.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was killed by magic
+[24Jan2025 18:34:34.170] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[24Jan2025 18:34:34.170] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[24Jan2025 18:34:34.170] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[24Jan2025 18:34:34.171] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[24Jan2025 18:34:34.171] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=-2777, y=1, z=-2269}
+[24Jan2025 18:34:34.171] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-2777, y=1, z=-2269}
+[24Jan2025 18:34:34.171] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24Jan2025 18:34:34.171] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[24Jan2025 18:34:34.171] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[24Jan2025 18:34:35.684] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:34:35.685] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:34:39.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2759.5, 4.5, -2275.5]
+[24Jan2025 18:34:41.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Death is inevitable.
+[24Jan2025 18:34:56.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Trapped in an eternal hell.
+[24Jan2025 18:35:11.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Stopped by destiny.
+[24Jan2025 18:35:26.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:35:26.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:35:29.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:35:35.678] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:35:35.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[24Jan2025 18:35:35.679] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[24Jan2025 18:35:41.074] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:35:41.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[24Jan2025 18:35:41.075] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[24Jan2025 18:35:41.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> An unmoving tortuous fate.
+[24Jan2025 18:35:46.882] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 18:35:46.895] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 18:35:50.624] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:35:50.625] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[24Jan2025 18:35:50.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki died
+[24Jan2025 18:35:50.625] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[24Jan2025 18:35:50.626] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[24Jan2025 18:35:50.626] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[24Jan2025 18:35:50.627] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[24Jan2025 18:35:50.627] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=-2799, y=3, z=-2271}
+[24Jan2025 18:35:50.627] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-2799, y=3, z=-2271}
+[24Jan2025 18:35:50.627] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='fr4nnki', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24Jan2025 18:35:50.627] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[24Jan2025 18:35:50.627] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[24Jan2025 18:35:52.948] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:35:52.949] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:35:56.079] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:35:56.079] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[24Jan2025 18:35:56.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY burned to death
+[24Jan2025 18:35:56.080] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[24Jan2025 18:35:56.080] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[24Jan2025 18:35:56.080] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[24Jan2025 18:35:56.081] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[24Jan2025 18:35:56.081] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=-2769, y=1, z=-2272}
+[24Jan2025 18:35:56.081] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-2769, y=1, z=-2272}
+[24Jan2025 18:35:56.081] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24Jan2025 18:35:56.081] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[24Jan2025 18:35:56.081] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[24Jan2025 18:35:56.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:35:56.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:35:58.705] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:35:58.706] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:35:59.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:36:02.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[24Jan2025 18:36:11.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Trapped in an eternal hell.
+[24Jan2025 18:36:12.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2759.5, 4.5, -2275.5]
+[24Jan2025 18:36:26.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:36:26.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:36:29.380] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:36:29.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[24Jan2025 18:36:29.380] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[24Jan2025 18:36:29.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:36:41.458] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:36:41.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[24Jan2025 18:36:41.458] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[24Jan2025 18:36:41.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Death is inevitable.
+[24Jan2025 18:36:44.371] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:36:44.371] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[24Jan2025 18:36:44.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY died because of ☠ Nargoyle - Level: 536
+[24Jan2025 18:36:44.372] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[24Jan2025 18:36:44.372] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[24Jan2025 18:36:44.372] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[24Jan2025 18:36:44.372] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[24Jan2025 18:36:44.372] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=-2771, y=1, z=-2267}
+[24Jan2025 18:36:44.373] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-2771, y=1, z=-2267}
+[24Jan2025 18:36:44.373] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24Jan2025 18:36:44.373] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[24Jan2025 18:36:44.373] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[24Jan2025 18:36:49.389] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:36:49.390] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:36:51.374] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:36:51.374] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[24Jan2025 18:36:51.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki died
+[24Jan2025 18:36:51.375] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[24Jan2025 18:36:51.375] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[24Jan2025 18:36:51.376] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[24Jan2025 18:36:51.376] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[24Jan2025 18:36:51.376] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=-2798, y=4, z=-2280}
+[24Jan2025 18:36:51.376] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-2798, y=4, z=-2280}
+[24Jan2025 18:36:51.376] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='fr4nnki', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24Jan2025 18:36:51.376] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[24Jan2025 18:36:51.376] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[24Jan2025 18:36:52.726] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:36:52.726] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:36:57.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Trapped in an eternal hell.
+[24Jan2025 18:37:12.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> I will be your unmaker.
+[24Jan2025 18:37:27.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Trapped in an eternal hell.
+[24Jan2025 18:37:42.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:37:42.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:37:45.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:37:57.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:37:57.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:38:00.391] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:38:00.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[24Jan2025 18:38:00.391] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[24Jan2025 18:38:00.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:38:12.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> An unmoving tortuous fate.
+[24Jan2025 18:38:15.372] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:38:15.372] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[24Jan2025 18:38:15.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was killed by magic
+[24Jan2025 18:38:15.373] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[24Jan2025 18:38:15.373] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[24Jan2025 18:38:15.374] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[24Jan2025 18:38:15.374] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[24Jan2025 18:38:15.374] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=-2792, y=4, z=-2291}
+[24Jan2025 18:38:15.375] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-2792, y=4, z=-2291}
+[24Jan2025 18:38:15.375] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='fr4nnki', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24Jan2025 18:38:15.375] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[24Jan2025 18:38:15.375] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[24Jan2025 18:38:16.635] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:38:16.635] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:38:23.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[24Jan2025 18:38:28.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:38:28.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:38:31.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:38:43.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Your corruption feeds me.
+[24Jan2025 18:38:56.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:38:58.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Our retribution follows.
+[24Jan2025 18:38:58.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Wither is charging up! Prepare to block!
+[24Jan2025 18:39:01.122] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:39:01.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[24Jan2025 18:39:01.122] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[24Jan2025 18:39:01.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Share our pain.
+[24Jan2025 18:39:13.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> An unmoving tortuous fate.
+[24Jan2025 18:39:16.131] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[24Jan2025 18:39:16.131] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[24Jan2025 18:39:16.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki died
+[24Jan2025 18:39:16.132] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[24Jan2025 18:39:16.132] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[24Jan2025 18:39:16.132] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[24Jan2025 18:39:16.132] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[24Jan2025 18:39:16.132] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=-2798, y=4, z=-2286}
+[24Jan2025 18:39:16.133] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-2798, y=4, z=-2286}
+[24Jan2025 18:39:16.133] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='fr4nnki', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24Jan2025 18:39:16.133] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[24Jan2025 18:39:16.133] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[24Jan2025 18:39:17.461] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:39:17.462] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 18:39:22.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Pity.
+[24Jan2025 18:39:34.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2797.5, 4.5, -2285.5]
+[24Jan2025 18:40:01.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> We've been waiting.
+[24Jan2025 18:40:01.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:04.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:05.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:06.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:07.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:07.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:08.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Death has arrived.
+[24Jan2025 18:40:08.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:09.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:10.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:10.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:11.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:12.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Your end is near.
+[24Jan2025 18:40:12.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:12.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> Stopped by destiny.
+[24Jan2025 18:40:13.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:14.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:14.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:15.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:16.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> We will not fall.
+[24Jan2025 18:40:16.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:17.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:18.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:19.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:27.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 5 Boss: ☠ Wither - Level: 100000 has been slain!
+[24Jan2025 18:40:27.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed ☠ Wither - Level: 100000 Boss]
+[24Jan2025 18:40:27.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wither> One with death... once again...
+[24Jan2025 18:40:46.926] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 18:40:46.940] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 18:40:59.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2763.5, 3.5, -2265.5]
+[24Jan2025 18:41:14.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[24Jan2025 18:42:09.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2762.5, 3.5, -2298.5]
+[24Jan2025 18:42:21.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2797.5, 3.5, -2270.5]
+[24Jan2025 18:42:27.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2797.5, 4.5, -2285.5]
+[24Jan2025 18:42:29.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[24Jan2025 18:42:34.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2797.5, 4.5, -2279.5]
+[24Jan2025 18:42:37.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2771.5, 3.5, -2268.5]
+[24Jan2025 18:42:41.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2763.5, 3.5, -2254.5]
+[24Jan2025 18:42:44.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2759.5, 4.5, -2269.5]
