@@ -19286,3 +19286,16 @@ java.lang.Exception: null
 [24Jan2025 18:50:19.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +4
 [24Jan2025 18:50:46.827] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Jan2025 18:50:46.840] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 18:54:36.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +5
+[24Jan2025 18:54:37.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Netherite Helmet at Guardian +5...
+[24Jan2025 18:54:41.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Netherite Helmet at Guardian +0...
+[24Jan2025 18:54:57.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +1
+[24Jan2025 18:54:58.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +2
+[24Jan2025 18:54:59.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +3
+[24Jan2025 18:55:01.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Netherite Helmet at Guardian +3...
+[24Jan2025 18:55:18.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Netherite Helmet at Guardian +0...
+[24Jan2025 18:55:29.424] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[24Jan2025 18:55:46.810] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 18:55:46.823] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 19:00:46.806] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 19:00:46.819] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
