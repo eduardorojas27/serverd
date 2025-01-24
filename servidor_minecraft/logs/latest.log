@@ -2297,3 +2297,21 @@ java.lang.Exception: null
 [24Jan2025 17:33:46.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
 [24Jan2025 17:33:46.365] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
 [24Jan2025 17:33:46.816] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 2fcde2c6-1889-4bc8-8b3e-5d2385814a0b. Existing minecraft:pig#47766, new: minecraft:pig#51458
+[24Jan2025 17:44:58.921] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f6f5b24
+[24Jan2025 17:44:58.927] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:38979] logged in with entity id 52566 at (-5673.762036418688, 76.0, -2529.1593658613206)
+[24Jan2025 17:44:58.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[24Jan2025 17:44:58.974] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: A non-excluded player has come online. No Time Shall Not Pass modules have been toggled off
+[24Jan2025 17:44:59.047] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 17:44:59.048] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 17:45:01.542] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@597f49b7
+[24Jan2025 17:45:01.549] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:40039] logged in with entity id 53126 at (-5366.728687416579, 163.0, -2588.5604262345887)
+[24Jan2025 17:45:01.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[24Jan2025 17:45:01.707] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 17:45:01.708] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 17:45:19.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[24Jan2025 17:49:44.391] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[24Jan2025 17:51:34.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> You dare challenge me!?
+[24Jan2025 17:51:35.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> My minions will protect me!
+[24Jan2025 17:51:45.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> My minions will protect me!
+[24Jan2025 17:51:45.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[24Jan2025 17:51:56.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Your efforts are meaningless!
