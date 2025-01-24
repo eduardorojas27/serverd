@@ -1981,6 +1981,7 @@
     "criteria": {
       "in_pyramid_nether": "2025-01-18 20:34:44 +0000",
       "in_pyramid_badlands": "2025-01-22 21:40:14 +0000",
+      "in_pyramid_snowy": "2025-01-24 17:29:31 +0000",
       "in_pyramid_flower_forest": "2025-01-08 20:32:07 +0000"
     },
     "done": false
@@ -3609,6 +3610,12 @@
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2025-01-02 21:22:19 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-01-24 17:30:23 +0000"
     },
     "done": true
   },
@@ -5347,6 +5354,7 @@
     "criteria": {
       "minecraft:jungle_edge": "2025-01-02 22:00:57 +0000",
       "minecraft:cold_ocean": "2025-01-09 22:49:54 +0000",
+      "minecraft:snowy_mountains": "2025-01-24 17:23:13 +0000",
       "minecraft:forest": "2025-01-03 20:02:44 +0000",
       "minecraft:mountains": "2025-01-03 20:08:39 +0000",
       "minecraft:taiga": "2025-01-02 21:17:38 +0000",
@@ -5355,6 +5363,7 @@
       "minecraft:snowy_tundra": "2025-01-24 17:20:44 +0000",
       "minecraft:taiga_hills": "2025-01-02 21:35:50 +0000",
       "minecraft:desert": "2025-01-02 21:09:53 +0000",
+      "minecraft:frozen_river": "2025-01-24 17:21:21 +0000",
       "minecraft:jungle": "2025-01-02 22:01:02 +0000",
       "minecraft:jungle_hills": "2025-01-03 20:58:42 +0000",
       "minecraft:snowy_beach": "2025-01-24 17:19:19 +0000",
@@ -5365,11 +5374,13 @@
       "minecraft:beach": "2025-01-02 21:08:33 +0000",
       "minecraft:river": "2025-01-02 21:09:41 +0000",
       "minecraft:lukewarm_ocean": "2025-01-11 04:21:38 +0000",
+      "minecraft:snowy_taiga": "2025-01-24 17:29:23 +0000",
       "minecraft:wooded_mountains": "2025-01-03 20:08:55 +0000",
       "minecraft:wooded_hills": "2025-01-13 20:58:14 +0000",
       "minecraft:stone_shore": "2025-01-24 17:04:17 +0000",
       "minecraft:wooded_badlands_plateau": "2025-01-06 20:07:14 +0000",
       "minecraft:swamp": "2025-01-05 20:28:03 +0000",
+      "minecraft:snowy_taiga_hills": "2025-01-24 17:30:03 +0000",
       "minecraft:savanna": "2025-01-02 22:05:07 +0000",
       "minecraft:plains": "2025-01-04 17:51:51 +0000"
     },

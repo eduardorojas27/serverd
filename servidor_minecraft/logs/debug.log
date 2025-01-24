@@ -17145,3 +17145,194 @@ java.lang.NullPointerException: null
 [24Jan2025 17:21:16.059] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
 [24Jan2025 17:21:16.151] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
 [24Jan2025 17:21:16.152] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Jan2025 17:21:16.268] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -5427 30 -2399
+[24Jan2025 17:21:21.387] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at -5407 18 -3017
+[24Jan2025 17:22:15.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[24Jan2025 17:22:43.683] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/43269, l='ServerLevel[world]', x=-4955.12, y=68.00, z=-2682.46]
+[24Jan2025 17:22:43.683] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/43269, l='ServerLevel[world]', x=-4955.12, y=68.00, z=-2682.46]
+[24Jan2025 17:22:47.837] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/43348, l='ServerLevel[world]', x=-4958.30, y=67.50, z=-2675.24]
+[24Jan2025 17:22:47.838] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/43348, l='ServerLevel[world]', x=-4958.30, y=67.50, z=-2675.24]
+[24Jan2025 17:22:58.565] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted ArmoredSkeletonEntity['Armored Skeleton - Level: 294'/42516, l='ServerLevel[world]', x=-5008.44, y=61.00, z=-2762.48] to ArmoredSunkenSkeletonEntity['Armored Skeleton - Level: 294'/43516, l='ServerLevel[world]', x=-5008.44, y=61.00, z=-2762.48]
+[24Jan2025 17:23:14.123] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted ArmoredSkeletonEntity['Armored Skeleton - Level: 245'/42515, l='ServerLevel[world]', x=-5011.33, y=57.00, z=-2762.47] to ArmoredSunkenSkeletonEntity['Armored Skeleton - Level: 245'/43741, l='ServerLevel[world]', x=-5011.33, y=57.00, z=-2762.47]
+[24Jan2025 17:23:58.692] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -5257 15 -2243
+[24Jan2025 17:24:44.975] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -5439 21 -2233
+[24Jan2025 17:25:11.920] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -5545 25 -2825
+[24Jan2025 17:25:11.926] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:outposts/snowy/watchtower is being run through DFU (hash 36f89adca414358576a3d18dc9c6f78472408ebd93000ec16560b3e4a4402999), this will cause launch time delays
+[24Jan2025 17:25:11.940] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:outposts/snowy/tent2 is being run through DFU (hash e1d8bddf2fe1f88310f6a9b6b7cd3e88dc87eca000eb92ad5d5c4ac6b0d83892), this will cause launch time delays
+[24Jan2025 17:25:11.950] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:outposts/snowy/cage2 is being run through DFU (hash f1ae5284879be556dd98fef52ca6a0b31ec2eea00259812ddae0f94db1aa5668), this will cause launch time delays
+[24Jan2025 17:25:11.952] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:outposts/snowy/cage1 is being run through DFU (hash 7f609e4d8d7ef283f5b4542958b5a37cf170260d2bafeac1175c6b2a6535ac49), this will cause launch time delays
+[24Jan2025 17:25:13.342] [Worker-Main-2/DEBUG] [betterdungeons/]: Spider Dungeon at -5563 42 -2651
+[24Jan2025 17:25:13.343] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -5571 42 -2547
+[24Jan2025 17:25:17.013] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -5593 40 -2355
+[24Jan2025 17:25:17.013] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -5593 20 -2721
+[24Jan2025 17:25:26.910] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at -5599 11 -2985
+[24Jan2025 17:25:32.786] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-5740 | 49 | -2940).
+[24Jan2025 17:25:32.787] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[24Jan2025 17:25:32.787] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 3(0) Rooms
+[24Jan2025 17:25:32.787] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[24Jan2025 17:25:32.787] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[24Jan2025 17:25:32.787] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[24Jan2025 17:25:32.787] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(2) Nodes and 5(0) Rooms
+[24Jan2025 17:25:32.787] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[24Jan2025 17:25:32.787] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(7) Nodes and 4(0) Rooms
+[24Jan2025 17:25:32.787] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[24Jan2025 17:25:32.788] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms
+[24Jan2025 17:25:32.790] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-354, -179] with a total of 265 pieces.
+[24Jan2025 17:25:47.752] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 17:25:47.765] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jan2025 17:25:54.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[24Jan2025 17:26:40.131] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted ArmoredSkeletonEntity['☣ Special Armored Skeleton - Level: 344'/45292, l='ServerLevel[world]', x=-4964.26, y=7.34, z=-2735.67] to ArmoredSunkenSkeletonEntity['☣ Special Armored Skeleton - Level: 344'/46061, l='ServerLevel[world]', x=-4964.26, y=7.34, z=-2735.67]
+[24Jan2025 17:26:40.133] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 249'/45297, l='ServerLevel[world]', x=-4964.70, y=3.00, z=-2740.86] to SunkenSkeletonEntity['Skeleton - Level: 249'/46063, l='ServerLevel[world]', x=-4964.70, y=3.00, z=-2740.86]
+[24Jan2025 17:27:23.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -5313.5, 166.5, -2725.5]
+[24Jan2025 17:27:25.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[24Jan2025 17:27:32.960] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[24Jan2025 17:27:44.753] [Worker-Main-1/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -5680 -2576 5 4 true
+[24Jan2025 17:27:44.753] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=-5680, y=71, z=-2576}
+[24Jan2025 17:27:44.753] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 71  Position = BlockPos{x=-5693, y=77, z=-2553}
+[24Jan2025 17:27:44.760] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=-5683, y=88, z=-2573}
+[24Jan2025 17:27:44.760] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 71  Position = BlockPos{x=-5702, y=77, z=-2554}
+[24Jan2025 17:27:44.767] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=-5683, y=99, z=-2573}
+[24Jan2025 17:27:44.768] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 88  Position = BlockPos{x=-5690, y=92, z=-2556}
+[24Jan2025 17:27:44.768] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 88  Position = BlockPos{x=-5707, y=89, z=-2551}
+[24Jan2025 17:27:44.768] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=-5683, y=110, z=-2573}
+[24Jan2025 17:27:44.768] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 99  Position = BlockPos{x=-5687, y=100, z=-2560}
+[24Jan2025 17:27:44.769] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 99  Position = BlockPos{x=-5704, y=100, z=-2559}
+[24Jan2025 17:27:44.769] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 110  Position = BlockPos{x=-5693, y=111, z=-2553}
+[24Jan2025 17:27:44.769] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 110  Position = BlockPos{x=-5700, y=111, z=-2556}
+[24Jan2025 17:27:44.769] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=-5683, y=121, z=-2573}
+[24Jan2025 17:27:44.769] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 121  Position = BlockPos{x=-5704, y=122, z=-2555}
+[24Jan2025 17:27:44.770] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 121  Position = BlockPos{x=-5687, y=122, z=-2567}
+[24Jan2025 17:27:44.770] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=-5683, y=132, z=-2573}
+[24Jan2025 17:27:44.770] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 121  Position = BlockPos{x=-5704, y=125, z=-2562}
+[24Jan2025 17:27:44.771] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=-5683, y=143, z=-2573}
+[24Jan2025 17:27:44.771] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 132  Position = BlockPos{x=-5702, y=134, z=-2549}
+[24Jan2025 17:27:44.771] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 132  Position = BlockPos{x=-5698, y=133, z=-2559}
+[24Jan2025 17:27:44.771] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 132  Position = BlockPos{x=-5703, y=138, z=-2565}
+[24Jan2025 17:27:44.772] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 143  Position = BlockPos{x=-5699, y=144, z=-2570}
+[24Jan2025 17:27:44.772] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 143  Position = BlockPos{x=-5704, y=144, z=-2559}
+[24Jan2025 17:27:44.772] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=-5682, y=154, z=-2574}
+[24Jan2025 17:27:44.772] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 143  Position = BlockPos{x=-5687, y=144, z=-2560}
+[24Jan2025 17:27:44.773] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 154  Position = BlockPos{x=-5690, y=158, z=-2556}
+[24Jan2025 17:27:44.773] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 154  Position = BlockPos{x=-5707, y=155, z=-2551}
+[24Jan2025 17:27:44.773] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 154  Position = BlockPos{x=-5691, y=159, z=-2563}
+[24Jan2025 17:27:44.773] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 154  Position = BlockPos{x=-5690, y=155, z=-2563}
+[24Jan2025 17:27:44.773] [Worker-Main-1/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -5714 65 -2576
+[24Jan2025 17:27:50.617] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at -5721 11 -2515
+[24Jan2025 17:27:50.710] [Worker-Main-3/DEBUG] [betterdungeons/]: Skeleton Dungeon at -5721 16 -2807
+[24Jan2025 17:27:50.710] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -5727 48 -2697
+[24Jan2025 17:27:54.215] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -5763 15 -2883
+[24Jan2025 17:27:58.015] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[24Jan2025 17:27:58.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[24Jan2025 17:28:07.066] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[24Jan2025 17:28:15.700] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -5865 41 -2209
+[24Jan2025 17:28:28.424] [Server thread/ERROR] [com.github.alexthe666.iceandfire.IceAndFire/]: Tried to set a bad speed:2.2 for entity:EntityIceDragon['☠ Ice Dragon - Level: 100000 Boss'/46463, l='ServerLevel[world]', x=-5543.10, y=74.00, z=-2611.10]
+java.lang.Exception: null
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.AdvancedPathNavigate.setPathJob(AdvancedPathNavigate.java:235) ~[iceandfire:2.1.12-1.16.5-patch-1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.AdvancedPathNavigate.moveToXYZ(AdvancedPathNavigate.java:392) ~[iceandfire:2.1.12-1.16.5-patch-1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.AdvancedPathNavigate.func_75492_a(AdvancedPathNavigate.java:490) ~[iceandfire:2.1.12-1.16.5-patch-1]
+	at net.minecraft.entity.ai.goal.PanicGoal.func_75249_e(SourceFile:65) ~[?:?]
+	at net.minecraft.entity.ai.goal.PrioritizedGoal.func_75249_e(SourceFile:41) ~[?:?]
+	at com.performant.coremod.entity.ai.CustomGoalSelector.func_75774_a(CustomGoalSelector.java:387) ~[performant:1.16.2-5-4.0m]
+	at net.minecraft.entity.MobEntity.func_70626_be(MobEntity.java:682) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70636_d(LivingEntity.java:2413) ~[?:?]
+	at net.minecraft.entity.MobEntity.func_70636_d(MobEntity.java:488) ~[?:?]
+	at net.minecraft.entity.AgeableEntity.func_70636_d(SourceFile:127) ~[?:?]
+	at net.minecraft.entity.passive.AnimalEntity.func_70636_d(AnimalEntity.java:51) ~[?:?]
+	at net.minecraft.entity.passive.FoxEntity.func_70636_d(FoxEntity.java:208) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2160) ~[?:?]
+	at net.minecraft.entity.MobEntity.func_70071_h_(MobEntity.java:300) ~[?:?]
+	at net.minecraft.entity.passive.FoxEntity.func_70071_h_(FoxEntity.java:479) ~[?:?]
+	at net.minecraft.entity.Entity.func_70098_U(Entity.java:1611) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70098_U(LivingEntity.java:2578) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217459_a(ServerWorld.java:639) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:619) ~[?:?]
+	at net.minecraft.world.World.func_217390_a(World.java:554) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:405) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[24Jan2025 17:28:28.607] [Server thread/ERROR] [com.github.alexthe666.iceandfire.IceAndFire/]: Tried to set a bad speed:2.2 for entity:EntityIceDragon['☠ Ice Dragon - Level: 100000 Boss'/46463, l='ServerLevel[world]', x=-5543.10, y=74.00, z=-2611.10]
+java.lang.Exception: null
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.AdvancedPathNavigate.setPathJob(AdvancedPathNavigate.java:235) ~[iceandfire:2.1.12-1.16.5-patch-1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.AdvancedPathNavigate.moveToXYZ(AdvancedPathNavigate.java:392) ~[iceandfire:2.1.12-1.16.5-patch-1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.AdvancedPathNavigate.func_75492_a(AdvancedPathNavigate.java:490) ~[iceandfire:2.1.12-1.16.5-patch-1]
+	at net.minecraft.entity.ai.goal.PanicGoal.func_75249_e(SourceFile:65) ~[?:?]
+	at net.minecraft.entity.ai.goal.PrioritizedGoal.func_75249_e(SourceFile:41) ~[?:?]
+	at com.performant.coremod.entity.ai.CustomGoalSelector.func_75774_a(CustomGoalSelector.java:387) ~[performant:1.16.2-5-4.0m]
+	at net.minecraft.entity.MobEntity.func_70626_be(MobEntity.java:682) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70636_d(LivingEntity.java:2413) ~[?:?]
+	at net.minecraft.entity.MobEntity.func_70636_d(MobEntity.java:488) ~[?:?]
+	at net.minecraft.entity.AgeableEntity.func_70636_d(SourceFile:127) ~[?:?]
+	at net.minecraft.entity.passive.AnimalEntity.func_70636_d(AnimalEntity.java:51) ~[?:?]
+	at net.minecraft.entity.passive.FoxEntity.func_70636_d(FoxEntity.java:208) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2160) ~[?:?]
+	at net.minecraft.entity.MobEntity.func_70071_h_(MobEntity.java:300) ~[?:?]
+	at net.minecraft.entity.passive.FoxEntity.func_70071_h_(FoxEntity.java:479) ~[?:?]
+	at net.minecraft.entity.Entity.func_70098_U(Entity.java:1611) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70098_U(LivingEntity.java:2578) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217459_a(ServerWorld.java:639) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:619) ~[?:?]
+	at net.minecraft.world.World.func_217390_a(World.java:554) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:405) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[24Jan2025 17:28:28.808] [Server thread/ERROR] [com.github.alexthe666.iceandfire.IceAndFire/]: Tried to set a bad speed:2.2 for entity:EntityIceDragon['☠ Ice Dragon - Level: 100000 Boss'/46463, l='ServerLevel[world]', x=-5543.10, y=74.00, z=-2611.10]
+java.lang.Exception: null
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.AdvancedPathNavigate.setPathJob(AdvancedPathNavigate.java:235) ~[iceandfire:2.1.12-1.16.5-patch-1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.AdvancedPathNavigate.moveToXYZ(AdvancedPathNavigate.java:392) ~[iceandfire:2.1.12-1.16.5-patch-1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.AdvancedPathNavigate.func_75492_a(AdvancedPathNavigate.java:490) ~[iceandfire:2.1.12-1.16.5-patch-1]
+	at net.minecraft.entity.ai.goal.PanicGoal.func_75249_e(SourceFile:65) ~[?:?]
+	at net.minecraft.entity.ai.goal.PrioritizedGoal.func_75249_e(SourceFile:41) ~[?:?]
+	at com.performant.coremod.entity.ai.CustomGoalSelector.func_75774_a(CustomGoalSelector.java:387) ~[performant:1.16.2-5-4.0m]
+	at net.minecraft.entity.MobEntity.func_70626_be(MobEntity.java:682) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70636_d(LivingEntity.java:2413) ~[?:?]
+	at net.minecraft.entity.MobEntity.func_70636_d(MobEntity.java:488) ~[?:?]
+	at net.minecraft.entity.AgeableEntity.func_70636_d(SourceFile:127) ~[?:?]
+	at net.minecraft.entity.passive.AnimalEntity.func_70636_d(AnimalEntity.java:51) ~[?:?]
+	at net.minecraft.entity.passive.FoxEntity.func_70636_d(FoxEntity.java:208) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2160) ~[?:?]
+	at net.minecraft.entity.MobEntity.func_70071_h_(MobEntity.java:300) ~[?:?]
+	at net.minecraft.entity.passive.FoxEntity.func_70071_h_(FoxEntity.java:479) ~[?:?]
+	at net.minecraft.entity.Entity.func_70098_U(Entity.java:1611) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70098_U(LivingEntity.java:2578) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217459_a(ServerWorld.java:639) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:619) ~[?:?]
+	at net.minecraft.world.World.func_217390_a(World.java:554) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:405) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[24Jan2025 17:28:34.247] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -5881 24 -2553
+[24Jan2025 17:28:34.263] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -5881 18 -2369
+[24Jan2025 17:28:34.265] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -5891 48 -2689
+[24Jan2025 17:28:35.032] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -5889 29 -2873
+[24Jan2025 17:29:23.293] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at -5571 25 -2191
+[24Jan2025 17:29:23.295] [Worker-Main-1/DEBUG] [betterdungeons/]: Skeleton Dungeon at -5575 23 -2185
+[24Jan2025 17:29:27.021] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/triplex_plain
+[24Jan2025 17:29:27.030] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_plain
+[24Jan2025 17:29:27.032] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/forward_plain
+[24Jan2025 17:29:27.034] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_bush
+[24Jan2025 17:29:27.040] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/4room_trapped
+[24Jan2025 17:29:27.048] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_tnt
+[24Jan2025 17:29:27.051] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_plain
+[24Jan2025 17:29:27.052] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_cobweb
+[24Jan2025 17:29:27.054] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/right_cobweb
+[24Jan2025 17:29:27.057] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/triple_library
+[24Jan2025 17:29:30.088] [Worker-Main-3/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -5968 -2288 2 7 true
+[24Jan2025 17:30:05.173] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[24Jan2025 17:30:09.126] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[24Jan2025 17:30:14.771] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[24Jan2025 17:30:23.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [A Nice-y Look]
+[24Jan2025 17:30:24.428] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[24Jan2025 17:30:47.468] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jan2025 17:30:47.482] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
