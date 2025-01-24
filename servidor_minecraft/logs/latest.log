@@ -1855,3 +1855,11 @@ java.lang.NullPointerException: null
 [24Jan2025 16:01:09.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
 [24Jan2025 16:01:15.476] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
 [24Jan2025 16:01:16.725] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[24Jan2025 16:12:07.160] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@21d0c287
+[24Jan2025 16:12:07.175] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:33923] logged in with entity id 2506 at (-2904.7478296413433, 64.0625, -2298.9000351972145)
+[24Jan2025 16:12:07.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[24Jan2025 16:12:07.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -------------------- Server Notice --------------------
+[24Jan2025 16:12:07.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: If playing on LAN or Essential servers, you may experience constant kicks on Owlkin and Void Wyvern. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.
+[24Jan2025 16:12:07.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
+[24Jan2025 16:12:07.306] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@8514b11 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Jan2025 16:12:07.306] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5a98929b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
