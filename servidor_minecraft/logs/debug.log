@@ -12798,3 +12798,46 @@ java.util.ConcurrentModificationException: null
 [25Jan2025 20:48:17.733] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [25Jan2025 20:53:17.527] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [25Jan2025 20:53:17.540] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jan2025 20:57:27.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has completed the challenge [Hero of the Village]
+[25Jan2025 20:57:27.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has completed the challenge [Hero of the Village]
+[25Jan2025 20:58:17.540] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jan2025 20:58:17.555] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jan2025 20:59:47.407] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-4291, y=51, z=-3759} BlockPos{x=-4291, y=50, z=-3759}
+[25Jan2025 20:59:49.106] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-4289, y=54, z=-3756} BlockPos{x=-4289, y=53, z=-3756}
+[25Jan2025 20:59:49.793] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-4284, y=52, z=-3749} BlockPos{x=-4284, y=51, z=-3749}
+[25Jan2025 21:03:17.510] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jan2025 21:03:17.527] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jan2025 21:03:44.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2946.5, 64.5, -2269.5]
+[25Jan2025 21:04:46.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[25Jan2025 21:06:25.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +4
+[25Jan2025 21:06:27.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +5
+[25Jan2025 21:06:28.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their End Crystal Boots at Guardian +5...
+[25Jan2025 21:06:31.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +1
+[25Jan2025 21:06:32.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +2
+[25Jan2025 21:06:34.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +3
+[25Jan2025 21:06:39.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +1
+[25Jan2025 21:06:42.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +2
+[25Jan2025 21:06:44.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +3
+[25Jan2025 21:06:52.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +8
+[25Jan2025 21:06:53.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +9
+[25Jan2025 21:06:54.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +10
+[25Jan2025 21:06:56.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +11
+[25Jan2025 21:06:57.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +12
+[25Jan2025 21:07:23.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +13
+[25Jan2025 21:07:24.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +14
+[25Jan2025 21:07:26.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +14...
+[25Jan2025 21:07:36.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +1
+[25Jan2025 21:07:38.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +1...
+[25Jan2025 21:07:40.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +1
+[25Jan2025 21:07:41.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +4
+[25Jan2025 21:07:42.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +1...
+[25Jan2025 21:07:43.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Netherite Chestplate at Guardian +4...
+[25Jan2025 21:07:47.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +1
+[25Jan2025 21:07:51.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +1
+[25Jan2025 21:07:52.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +1...
+[25Jan2025 21:08:08.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +1
+[25Jan2025 21:08:17.462] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jan2025 21:08:17.473] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jan2025 21:13:17.435] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jan2025 21:13:17.447] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jan2025 21:14:43.490] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
