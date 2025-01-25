@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-01-25 19:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-01-23 20:13:16 +0000"
@@ -428,6 +434,12 @@
   "smallships:recipes/birch_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-25 19:34:59 +0000"
     },
     "done": true
   },
@@ -3036,6 +3048,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-01-25 19:29:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_stone_slab": "2025-01-08 20:49:34 +0000"
@@ -4285,6 +4303,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_hay_storage": "2025-01-25 19:33:51 +0000",
       "entered_fishing_ship": "2025-01-06 20:13:23 +0000",
       "entered_dungeon_variant": "2025-01-13 22:19:15 +0000",
       "entered_watch_tower": "2025-01-24 17:31:21 +0000",
@@ -5069,6 +5088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-25 19:34:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-03 04:48:09 +0000"
@@ -5126,6 +5151,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-18 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-25 19:34:59 +0000"
     },
     "done": true
   },
