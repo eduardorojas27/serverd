@@ -3636,6 +3636,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "sword": "2025-01-25 20:13:13 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -4122,6 +4128,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-01-25 20:12:13 +0000",
       "entered_hay_storage": "2025-01-25 19:33:39 +0000",
       "entered_fishing_ship": "2025-01-09 21:23:31 +0000",
       "entered_dungeon_variant": "2025-01-13 22:18:42 +0000",
@@ -4139,6 +4146,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_red_sandstone": "2025-01-18 22:50:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-01-25 19:46:09 +0000"
     },
     "done": true
   },
@@ -4839,6 +4852,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-01-25 20:07:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-02 20:59:54 +0000"
@@ -5192,6 +5211,7 @@
       "minecraft:jungle_hills": "2025-01-03 21:02:49 +0000",
       "minecraft:snowy_beach": "2025-01-24 17:20:38 +0000",
       "minecraft:bamboo_jungle": "2025-01-03 20:34:05 +0000",
+      "minecraft:warm_ocean": "2025-01-25 19:41:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-11 04:26:32 +0000",
       "minecraft:badlands": "2025-01-18 22:50:16 +0000",
       "minecraft:savanna_plateau": "2025-01-03 21:45:00 +0000",

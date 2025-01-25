@@ -1965,3 +1965,328 @@ java.lang.NullPointerException: null
 [25Jan2025 19:40:01.312] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 146  Position = BlockPos{x=-1997, y=147, z=-3098}
 [25Jan2025 19:40:01.313] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 146  Position = BlockPos{x=-2009, y=147, z=-3115}
 [25Jan2025 19:40:01.313] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 146  Position = BlockPos{x=-1997, y=151, z=-3099}
+[25Jan2025 19:43:15.642] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1818, y=23, z=-2615} but found not block entity block Block{minecraft:cave_air} at location
+[25Jan2025 19:43:15.642] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-1818, y=23, z=-2615}
+[25Jan2025 19:43:52.237] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-2224, y=62, z=-3136}
+[25Jan2025 19:43:52.237] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-2221, y=79, z=-3139}
+[25Jan2025 19:43:52.237] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 62  Position = BlockPos{x=-2202, y=68, z=-3158}
+[25Jan2025 19:43:52.238] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 62  Position = BlockPos{x=-2211, y=68, z=-3159}
+[25Jan2025 19:43:52.238] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-2221, y=90, z=-3139}
+[25Jan2025 19:43:52.238] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 79  Position = BlockPos{x=-2197, y=80, z=-3161}
+[25Jan2025 19:43:52.238] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 79  Position = BlockPos{x=-2214, y=83, z=-3156}
+[25Jan2025 19:43:52.239] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 90  Position = BlockPos{x=-2210, y=91, z=-3150}
+[25Jan2025 19:43:52.239] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-2221, y=101, z=-3139}
+[25Jan2025 19:43:52.239] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 90  Position = BlockPos{x=-2203, y=91, z=-3147}
+[25Jan2025 19:43:52.240] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-2221, y=112, z=-3139}
+[25Jan2025 19:43:52.240] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 101  Position = BlockPos{x=-2201, y=107, z=-3147}
+[25Jan2025 19:43:52.240] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 101  Position = BlockPos{x=-2207, y=102, z=-3156}
+[25Jan2025 19:43:52.240] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=-2217, y=113, z=-3145}
+[25Jan2025 19:43:52.240] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-2221, y=123, z=-3139}
+[25Jan2025 19:43:52.240] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=-2200, y=113, z=-3157}
+[25Jan2025 19:43:52.241] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=-2200, y=116, z=-3150}
+[25Jan2025 19:43:52.241] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-2221, y=134, z=-3139}
+[25Jan2025 19:43:52.241] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=-2202, y=125, z=-3163}
+[25Jan2025 19:43:52.241] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=-2201, y=129, z=-3147}
+[25Jan2025 19:43:52.242] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=-2206, y=124, z=-3153}
+[25Jan2025 19:43:52.242] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-2222, y=145, z=-3138}
+[25Jan2025 19:43:52.242] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=-2198, y=138, z=-3154}
+[25Jan2025 19:43:52.242] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=-2210, y=135, z=-3150}
+[25Jan2025 19:43:52.243] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=-2203, y=135, z=-3147}
+[25Jan2025 19:43:52.243] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=-2214, y=149, z=-3156}
+[25Jan2025 19:43:52.243] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=-2214, y=146, z=-3149}
+[25Jan2025 19:43:52.243] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=-2197, y=146, z=-3161}
+[25Jan2025 19:43:52.243] [Worker-Main-9/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=-2213, y=150, z=-3149}
+[25Jan2025 19:44:00.850] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.25800343186938335
+[25Jan2025 19:44:01.032] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.4299528550964169
+[25Jan2025 19:44:01.130] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.6215782304043387
+[25Jan2025 19:44:01.130] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 1.0205631233930035
+[25Jan2025 19:44:01.181] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 1.345819598263006
+[25Jan2025 19:44:08.482] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.3447314724126045
+[25Jan2025 19:44:08.580] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.296612419203484
+[25Jan2025 19:44:08.600] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.42559956149307254
+[25Jan2025 19:44:08.652] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.38582652680634055
+[25Jan2025 19:44:13.159] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[25Jan2025 19:44:14.941] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.3756554396981095
+[25Jan2025 19:44:14.991] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.6860901651921375
+[25Jan2025 19:44:15.043] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 1.0540852827507479
+[25Jan2025 19:44:15.147] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 1.4255292460134115
+[25Jan2025 19:44:15.180] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 1.796803098547116
+[25Jan2025 19:44:21.978] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.3359740134026197
+[25Jan2025 19:44:22.032] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.5289227286905316
+[25Jan2025 19:44:22.077] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.7476690751868773
+[25Jan2025 19:44:22.134] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.9854799178883695
+[25Jan2025 19:44:22.176] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 1.2373484966901742
+[25Jan2025 19:44:39.531] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[25Jan2025 19:53:27.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Finally, a challenge!
+[25Jan2025 19:53:30.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[25Jan2025 19:53:44.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[25Jan2025 19:53:44.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[25Jan2025 19:53:58.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> This tower will not fall!
+[25Jan2025 19:54:11.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[25Jan2025 19:54:11.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[25Jan2025 19:58:19.299] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1727, y=14, z=-3199} but found not block entity block Block{quark:jasper} at location
+[25Jan2025 19:58:19.299] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:jasper} but failed at location BlockPos{x=-1727, y=14, z=-3199}
+[25Jan2025 19:58:19.300] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1724, y=17, z=-3201} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[25Jan2025 19:58:19.300] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=-1724, y=17, z=-3201}
+[25Jan2025 19:58:19.300] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1727, y=14, z=-3201} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[25Jan2025 19:58:19.301] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=-1727, y=14, z=-3201}
+[25Jan2025 19:58:19.301] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1727, y=14, z=-3212} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[25Jan2025 19:58:19.301] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=-1727, y=14, z=-3212}
+[25Jan2025 19:58:39.659] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1757, y=31, z=-2916} but found not block entity block Block{quark:jasper} at location
+[25Jan2025 19:58:39.660] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:jasper} but failed at location BlockPos{x=-1757, y=31, z=-2916}
+[25Jan2025 19:58:43.806] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1754, y=29, z=-2900} but found not block entity block Block{minecraft:cave_air} at location
+[25Jan2025 19:58:43.807] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-1754, y=29, z=-2900}
+[25Jan2025 19:58:43.807] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1753, y=29, z=-2911} but found not block entity block Block{minecraft:cave_air} at location
+[25Jan2025 19:58:43.808] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-1753, y=29, z=-2911}
+[25Jan2025 19:58:46.851] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:barako_throne
+[25Jan2025 19:58:46.852] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:barakoa_house
+[25Jan2025 19:58:46.853] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:barakoa_house_roof
+[25Jan2025 19:58:46.854] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:barakoa_house_side
+[25Jan2025 19:59:08.137] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[25Jan2025 19:59:08.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[25Jan2025 19:59:37.082] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[25Jan2025 19:59:40.061] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[25Jan2025 19:59:47.790] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[25Jan2025 20:00:00.699] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[25Jan2025 20:04:03.557] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[25Jan2025 20:04:03.559] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_short
+[25Jan2025 20:04:03.560] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[25Jan2025 20:05:52.971] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Bertha - Level: 74'/24481, l='ServerLevel[world]', x=-1693.00, y=72.00, z=-3202.48] died, message: 'Bertha - Level: 74 was incinerated by Skeleton - Level: 201'
+[25Jan2025 20:05:53.171] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Gisele - Level: 74'/24480, l='ServerLevel[world]', x=-1692.55, y=72.40, z=-3202.12] died, message: 'Gisele - Level: 74 was incinerated by ☠ Fire Dragon - Level: 100000 Boss'
+[25Jan2025 20:06:01.351] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@398ece6[id=<null>,name=zZzK1TTY,properties={},legacy=false] (/127.209.87.79:34757) lost connection: Disconnected
+[25Jan2025 20:06:04.694] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Michal - Level: 74'/24364, l='ServerLevel[world]', x=-1731.35, y=64.40, z=-3188.79] died, message: 'Michal - Level: 74 was turned into KFC by ☠ Fire Dragon - Level: 100000 Boss'
+[25Jan2025 20:06:06.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[25Jan2025 20:06:16.866] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@635a54e4
+[25Jan2025 20:06:16.874] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:57847] logged in with entity id 28980 at (-1796.2982227668265, 70.0, -3029.0802728894855)
+[25Jan2025 20:06:16.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[25Jan2025 20:06:16.980] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@359cd6e8 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Jan2025 20:06:16.981] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@65347044 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Jan2025 20:06:17.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[25Jan2025 20:06:51.470] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Debroah - Level: 74'/24377, l='ServerLevel[world]', x=-1759.94, y=64.00, z=-3203.43] died, message: 'Debroah - Level: 74 was turned into KFC by ☠ Fire Dragon - Level: 100000 Boss'
+[25Jan2025 20:06:51.472] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Jeffrey - Level: 74'/24207, l='ServerLevel[world]', x=-1758.28, y=65.00, z=-3205.34] died, message: 'Jeffrey - Level: 74 was incinerated by ☠ Fire Dragon - Level: 100000 Boss'
+[25Jan2025 20:09:23.979] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[25Jan2025 20:09:24.038] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[25Jan2025 20:09:24.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[25Jan2025 20:09:33.558] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5fba2c76
+[25Jan2025 20:09:33.568] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:39569] logged in with entity id 31220 at (-1487.0092490225786, 62.620563886379905, -3322.0143650254677)
+[25Jan2025 20:09:33.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[25Jan2025 20:09:33.662] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@359cd6e8 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Jan2025 20:09:33.663] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@65347044 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Jan2025 20:10:36.800] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.7837104914012798
+[25Jan2025 20:10:36.871] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.8018537155751346
+[25Jan2025 20:10:36.896] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.9632438161152095
+[25Jan2025 20:10:36.984] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 2.094411252320924
+[25Jan2025 20:10:36.985] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 2.2504588951342157
+[25Jan2025 20:10:37.348] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 0.5509633466947434
+[25Jan2025 20:10:37.433] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 0.8607075997954325
+[25Jan2025 20:10:37.434] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.185710440478033
+[25Jan2025 20:10:47.249] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-1964, y=22, z=-3346}
+[25Jan2025 20:10:53.598] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-1977, y=19, z=-3349}
+[25Jan2025 20:10:53.598] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-1978, y=20, z=-3350}
+[25Jan2025 20:10:53.599] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-1973, y=19, z=-3345}
+[25Jan2025 20:11:01.326] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Donnie - Level: 74'/24427, l='ServerLevel[world]', x=-1753.63, y=65.40, z=-3219.28] died, message: 'Donnie - Level: 74 was slain by ☠ Fire Dragon - Level: 100000 Boss'
+[25Jan2025 20:11:08.017] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Lee - Level: 74'/24379, l='ServerLevel[world]', x=-1718.50, y=67.91, z=-3215.92] died, message: 'Lee - Level: 74 was slain by ☠ Fire Dragon - Level: 100000 Boss'
+[25Jan2025 20:11:13.267] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mana - Level: 74'/24490, l='ServerLevel[world]', x=-1721.36, y=64.30, z=-3189.43] died, message: 'Mana - Level: 74 was incinerated by ☠ Fire Dragon - Level: 100000 Boss'
+[25Jan2025 20:11:13.669] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Telma - Level: 74'/24491, l='ServerLevel[world]', x=-1695.45, y=72.94, z=-3193.25] died, message: 'Telma - Level: 74 was turned into KFC by ☠ Fire Dragon - Level: 100000 Boss'
+[25Jan2025 20:11:17.766] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Emma - Level: 74'/24429, l='ServerLevel[world]', x=-1706.75, y=71.25, z=-3206.97] died, message: 'Emma - Level: 74 was incinerated by ☠ Fire Dragon - Level: 100000 Boss'
+[25Jan2025 20:12:11.328] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[25Jan2025 20:13:13.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Splintering II]
+[25Jan2025 20:15:00.870] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[25Jan2025 20:19:23.849] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2598, y=134, z=-3156} BlockPos{x=-2585, y=145, z=-3144}
+[25Jan2025 20:20:06.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Finally, a challenge!
+[25Jan2025 20:20:08.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Quit messing around, get them!
+[25Jan2025 20:20:15.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Quit messing around, get them!
+[25Jan2025 20:20:15.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[25Jan2025 20:20:16.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> This tower will not fall!
+[25Jan2025 20:20:33.115] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: null
+	Index: 81
+	Listeners:
+		0: HIGHEST
+		1: ASM: class cofh.ensorcellation.event.CommonEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		2: HIGH
+		3: ASM: class cofh.core.event.ShieldEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		4: ASM: class cofh.core.event.EffectEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		5: ASM: class cofh.core.event.ArmorEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		6: ASM: class me.shedaniel.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		7: NORMAL
+		8: net.minecraftforge.eventbus.EventBus$$Lambda$2765/0x0000000840b9dc40@7d626ab1
+		9: ASM: class net.reikeb.not_enough_gamerules.events.PlayerHurtEvent onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		10: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@743fa304 onLivingAttack(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		11: ASM: class com.wonderfulenchantments.enchantments.PufferfishVengeanceEnchantment onHit(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		12: ASM: class com.wonderfulenchantments.enchantments.LeechEnchantment onHit(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		13: ASM: class net.union.unionsupgradescrolls.procedures.StarsFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		14: ASM: class net.union.unionsupgradescrolls.procedures.StarsFunctionOffHandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		15: ASM: insane96mcp.progressivebosses.module.dragon.feature.MinionFeature@13200f0e onMinionHurt(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		16: ASM: insane96mcp.progressivebosses.module.dragon.feature.LarvaFeature@5d071016 onLarvaHurt(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		17: ASM: L_Ender.cataclysm.event.ServerEventHandler@358335d2 onLivingAttack(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		18: ASM: class net.mindoth.dreadsteel.item.weapon.DreadsteelShield onArrowHit(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		19: ASM: class net.mindoth.dreadsteel.item.armor.DreadsteelArmor dreadsteelSetDefence(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		20: ASM: class cofh.ensorcellation.event.ShieldEnchEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		21: ASM: class cofh.ensorcellation.event.HorseEnchEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		22: ASM: class net.mcreator.piratesarmoury.procedures.KrakensWardProcedureProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		23: ASM: net.mcreator.twist.procedures.PurgerproProcedure@7262022b onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		24: ASM: net.mcreator.twist.procedures.LankerproProcedure@2e148156 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		25: ASM: net.mcreator.twist.procedures.HosthatattackProcedure@41096498 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		26: ASM: net.mcreator.twist.procedures.ChargerproProcedure@22bcf615 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		27: ASM: net.mcreator.twist.procedures.ChargerproattackProcedure@75ee5ff1 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		28: ASM: class net.union.infernaloriginsextras.procedures.UpgradeEffectScaleNormalFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		29: ASM: class net.union.infernaloriginsextras.procedures.SpecialReflectionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		30: ASM: class net.union.infernaloriginsextras.procedures.SpecialFlankerProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		31: ASM: class net.union.infernaloriginsextras.procedures.SpecialBulkyProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		32: ASM: class net.union.infernaloriginsextras.procedures.SpecialBomberProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		33: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSmolderingProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		34: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSmolderingOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		35: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSlayerMasterProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		36: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSlayerMasterOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		37: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSkillfulProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		38: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSkillfulOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		39: ASM: class net.union.infernaloriginsextras.procedures.RandomPassPlagueBombProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		40: ASM: class net.union.infernaloriginsextras.procedures.RandomPassPlagueBombOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		41: ASM: class net.union.infernaloriginsextras.procedures.RandomPassMetalShellProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		42: ASM: class net.union.infernaloriginsextras.procedures.RandomPassMetalShellOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		43: ASM: class net.union.infernaloriginsextras.procedures.RandomPassInitiativeProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		44: ASM: class net.union.infernaloriginsextras.procedures.RandomPassInitiativeOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		45: ASM: class net.union.infernaloriginsextras.procedures.RandomPassGlassCannonProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		46: ASM: class net.union.infernaloriginsextras.procedures.RandomPassGlassCannonOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		47: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDeathTollProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		48: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDeathTollOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		49: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDarkPactProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		50: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDarkPactOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		51: ASM: class net.union.infernaloriginsextras.procedures.RandomPassCombatMedicProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		52: ASM: class net.union.infernaloriginsextras.procedures.RandomPassCombatMedicOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		53: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBossRipperProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		54: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBossRipperOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		55: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBerserkerProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		56: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBerserkerOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		57: ASM: class net.union.infernaloriginsextras.procedures.ItemFinalFractalFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		58: ASM: class net.union.infernaloriginsextras.procedures.ImpPassiveStunChanceProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		59: ASM: class net.union.infernaloriginsextras.procedures.EffectSymphonicFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		60: ASM: class net.union.infernaloriginsextras.procedures.EffectSoulFeedAttackApplyProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		61: ASM: class net.union.infernaloriginsextras.procedures.EffectScaleNormalFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		62: ASM: class net.union.infernaloriginsextras.procedures.EffectRuneInfusionFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		63: ASM: class net.union.infernaloriginsextras.procedures.EffectPassiveViewFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		64: ASM: class net.union.infernaloriginsextras.procedures.EffectHealingBalladFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		65: ASM: class net.union.infernaloriginsextras.procedures.EffectHardenedFurFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		66: ASM: class net.union.infernaloriginsextras.procedures.EffectDraconicAuraFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		67: ASM: class net.union.infernaloriginsextras.procedures.EffectDefianceFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		68: ASM: class net.union.infernaloriginsextras.procedures.EffectDamageSuppresionFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		69: ASM: class net.union.infernaloriginsextras.procedures.EffectCounterClawFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		70: ASM: class net.union.infernaloriginsextras.procedures.EffectCounterClawBuffedFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		71: ASM: class net.union.infernaloriginsextras.procedures.EffectChosenHealFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		72: ASM: class net.union.infernaloriginsextras.procedures.EffectCauterizeFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		73: ASM: class net.union.infernaloriginsextras.procedures.EffectBossRetaliateFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		74: ASM: class net.union.infernaloriginsextras.procedures.EffectBloomFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		75: ASM: class net.union.infernaloriginsextras.procedures.EffectArrowSliceFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		76: ASM: class net.union.infernaloriginsextras.procedures.BossPassiveNetheriteMonstrosityProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		77: ASM: class net.union.infernaloriginsextras.procedures.BossPassiveHoarFrostProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		78: ASM: class net.union.infernaloriginsextras.procedures.BossPassiveFrostmawProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		79: ASM: class net.union.infernaloriginsextras.procedures.BOOFrostmawFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		80: ASM: class net.union.infernaloriginsextras.procedures.AllSkillDodgeTickProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		81: ASM: class net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		82: ASM: class net.union.infernaloriginsextras.procedures.AllDeathCheckProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		83: ASM: class net.union.infernaloriginsextras.procedures.AllBossResetSpeedFailsafeProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		84: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsWitherProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		85: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsTheBigOneProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		86: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsNetheriteMonstrosityProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		87: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsLandGolemProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		88: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsIgnisProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		89: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsHoarFrostProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		90: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsFrostmawProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		91: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsFerrousWroughtnautProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		92: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsEnderGuardianProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		93: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsElderGuardianProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		94: ASM: class net.union.infernaloriginsextras.procedures.AllBossEnrageSerpentDragonAntiCheeseProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		95: ASM: class net.union.infernaloriginsextras.procedures.AllBossDamageTakenCapFailsafeProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		96: ASM: class net.union.infernaloriginsextras.procedures.AllBossDamageMinionsMinimumProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		97: ASM: class net.union.infernaloriginsextras.procedures.AllBossDamageMinimumProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		98: net.minecraftforge.eventbus.EventBus$$Lambda$2765/0x0000000840b9dc40@6135dca3
+		99: ASM: com.flemmli97.improvedmobs.events.EventHandler@292211f0 attackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		100: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6deb2f87 onLivingAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		101: ASM: com.flemmli97.improvedmobs.events.EventHandler@292211f0 pathDebug(Lnet/minecraftforge/event/entity/living/LivingEvent;)V
+java.util.ConcurrentModificationException
+	at java.base/java.util.HashMap$HashIterator.remove(HashMap.java:1525)
+	at net.minecraft.entity.LivingEntity.func_195061_cb(LivingEntity.java:793)
+	at net.minecraft.entity.LivingEntity.func_190628_d(LivingEntity.java:1117)
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:1053)
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73)
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure.executeProcedure(AllSkillCritProcProcedure.java:83)
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure$GlobalTrigger.onEntityAttacked(AllSkillCritProcProcedure.java:44)
+	at net.minecraftforge.eventbus.ASMEventHandler_1268_GlobalTrigger_onEntityAttacked_LivingAttackEvent.invoke(.dynamic)
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:331)
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:932)
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73)
+	at net.minecraft.entity.player.PlayerEntity.func_71059_n(PlayerEntity.java:1100)
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71059_n(ServerPlayerEntity.java:1292)
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147340_a(ServerPlayNetHandler.java:1205)
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:74)
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:13)
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[25Jan2025 20:20:33.117] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1525) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_195061_cb(LivingEntity.java:793) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_190628_d(LivingEntity.java:1117) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:1053) ~[?:?]
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73) ~[?:?]
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure.executeProcedure(AllSkillCritProcProcedure.java:83) ~[infernal_origins_extras:?]
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure$GlobalTrigger.onEntityAttacked(AllSkillCritProcProcedure.java:44) ~[infernal_origins_extras:?]
+	at net.minecraftforge.eventbus.ASMEventHandler_1268_GlobalTrigger_onEntityAttacked_LivingAttackEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:331) ~[forge:?]
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:932) ~[?:?]
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73) ~[?:?]
+	at net.minecraft.entity.player.PlayerEntity.func_71059_n(PlayerEntity.java:1100) ~[?:?]
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71059_n(ServerPlayerEntity.java:1292) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147340_a(ServerPlayNetHandler.java:1205) ~[?:?]
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:74) ~[?:?]
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:13) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[25Jan2025 20:20:34.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[25Jan2025 20:20:34.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[25Jan2025 20:22:47.353] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41455, l='ServerLevel[world]', x=-2595.26, y=65.00, z=-3182.51]
+[25Jan2025 20:22:47.353] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41455, l='ServerLevel[world]', x=-2595.26, y=65.00, z=-3182.51]
+[25Jan2025 20:22:49.747] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41485, l='ServerLevel[world]', x=-2582.70, y=67.30, z=-3176.73]
+[25Jan2025 20:22:49.748] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41485, l='ServerLevel[world]', x=-2582.70, y=67.30, z=-3176.73]
+[25Jan2025 20:22:52.366] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41535, l='ServerLevel[world]', x=-2592.22, y=65.00, z=-3171.23]
+[25Jan2025 20:22:52.366] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41535, l='ServerLevel[world]', x=-2592.22, y=65.00, z=-3171.23]
+[25Jan2025 20:22:53.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41557, l='ServerLevel[world]', x=-2592.48, y=65.00, z=-3182.86]
+[25Jan2025 20:22:53.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41557, l='ServerLevel[world]', x=-2592.48, y=65.00, z=-3182.86]
+[25Jan2025 20:22:55.045] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41571, l='ServerLevel[world]', x=-2593.51, y=65.00, z=-3175.80]
+[25Jan2025 20:22:55.046] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41571, l='ServerLevel[world]', x=-2593.51, y=65.00, z=-3175.80]
+[25Jan2025 20:23:01.953] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41717, l='ServerLevel[world]', x=-2597.00, y=64.00, z=-3181.50]
+[25Jan2025 20:23:01.953] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41717, l='ServerLevel[world]', x=-2597.00, y=64.00, z=-3181.50]
+[25Jan2025 20:23:03.449] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41745, l='ServerLevel[world]', x=-2588.08, y=65.00, z=-3172.89]
+[25Jan2025 20:23:03.450] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/41745, l='ServerLevel[world]', x=-2588.08, y=65.00, z=-3172.89]
+[25Jan2025 20:23:09.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has completed the challenge [Cover me with... scutes?]
