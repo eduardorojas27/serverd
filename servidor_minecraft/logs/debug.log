@@ -11382,3 +11382,211 @@ java.lang.NullPointerException: null
 [25Jan2025 19:13:03.668] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [25Jan2025 19:18:03.677] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [25Jan2025 19:18:03.697] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jan2025 19:23:03.712] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jan2025 19:23:03.732] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jan2025 19:26:31.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[25Jan2025 19:26:31.800] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.inventory.InventoryHelper
+[25Jan2025 19:27:27.351] [Worker-Main-47/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[25Jan2025 19:27:38.042] [Worker-Main-9/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[25Jan2025 19:27:38.044] [Worker-Main-9/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[25Jan2025 19:27:38.094] [Worker-Main-9/DEBUG] [bettercaves/]: CAVE INFORMATION
+[25Jan2025 19:27:38.094] [Worker-Main-9/DEBUG] [bettercaves/]: --> MAX POSSIBLE THRESHOLD: 1.0
+[25Jan2025 19:27:38.094] [Worker-Main-9/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 15
+[25Jan2025 19:27:38.094] [Worker-Main-9/DEBUG] [bettercaves/]: --> TOTAL RANGE LENGTH: 2.0
+[25Jan2025 19:27:38.095] [Worker-Main-9/DEBUG] [bettercaves/]: --> CARVER
+[25Jan2025 19:27:38.097] [Worker-Main-9/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[25Jan2025 19:27:38.097] [Worker-Main-9/DEBUG] [bettercaves/]: --> CARVER
+[25Jan2025 19:27:38.097] [Worker-Main-9/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[25Jan2025 19:27:38.102] [Worker-Main-9/DEBUG] [bettercaves/]: CAVERN INFORMATION
+[25Jan2025 19:27:38.102] [Worker-Main-9/DEBUG] [bettercaves/]: --> SPAWN CHANCE SET TO: 0.25
+[25Jan2025 19:27:38.103] [Worker-Main-9/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 20
+[25Jan2025 19:27:38.103] [Worker-Main-9/DEBUG] [bettercaves/]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[25Jan2025 19:27:38.103] [Worker-Main-9/DEBUG] [bettercaves/]: --> CARVER
+[25Jan2025 19:27:38.103] [Worker-Main-9/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[25Jan2025 19:27:38.104] [Worker-Main-9/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[25Jan2025 19:27:38.104] [Worker-Main-9/DEBUG] [bettercaves/]: --> CARVER
+[25Jan2025 19:27:38.104] [Worker-Main-9/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[25Jan2025 19:27:38.104] [Worker-Main-9/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[25Jan2025 19:27:38.106] [Worker-Main-9/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[25Jan2025 19:27:38.107] [Worker-Main-9/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[25Jan2025 19:27:38.109] [Worker-Main-9/DEBUG] [bettercaves/]: BETTER CAVES WORLD CARVER INITIALIZED WITH SEED -4054188033401887316 IN minecraft:overworld
+[25Jan2025 19:27:44.671] [Worker-Main-47/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[25Jan2025 19:27:44.672] [Worker-Main-47/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdc7c65e$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[25Jan2025 19:27:44.672] [Worker-Main-47/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdc7c65e$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[25Jan2025 19:27:44.672] [Worker-Main-47/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdc7c65e$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[25Jan2025 19:27:49.434] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/savanna_compost_pile
+[25Jan2025 19:27:49.495] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle_corridor3
+[25Jan2025 19:27:49.504] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle3_black
+[25Jan2025 19:27:49.506] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle_corridor2
+[25Jan2025 19:27:49.511] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle2_nether
+[25Jan2025 19:27:49.515] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/stairs_up_start
+[25Jan2025 19:27:49.516] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/corner_corridor_left
+[25Jan2025 19:27:49.517] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/straight_corridor2
+[25Jan2025 19:27:49.518] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_wooden_door
+[25Jan2025 19:27:49.519] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_trapped
+[25Jan2025 19:27:49.520] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/straight_corridor
+[25Jan2025 19:27:49.523] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/old_church
+[25Jan2025 19:27:49.524] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/straight_stairs
+[25Jan2025 19:27:49.525] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/straight_corridor
+[25Jan2025 19:27:49.525] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corner_corridor_left
+[25Jan2025 19:27:49.529] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/library
+[25Jan2025 19:27:49.531] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/stairs_up
+[25Jan2025 19:27:49.532] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/cult_room
+[25Jan2025 19:27:49.533] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_iron_door
+[25Jan2025 19:27:49.534] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corner_corridor_quad
+[25Jan2025 19:27:49.535] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/chest_room
+[25Jan2025 19:28:03.863] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jan2025 19:28:03.877] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jan2025 19:28:12.293] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at -2193 32 -2505
+[25Jan2025 19:28:12.298] [Worker-Main-47/DEBUG] [betterdungeons/]: Small Dungeon at -2193 14 -2665
+[25Jan2025 19:28:19.575] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-144,-141]
+[25Jan2025 19:28:19.576] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-144,-141]
+[25Jan2025 19:28:19.593] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-144,-140]
+[25Jan2025 19:28:19.593] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-144,-140]
+[25Jan2025 19:28:23.753] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-143,-141]
+[25Jan2025 19:28:23.753] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-143,-141]
+[25Jan2025 19:28:37.987] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-142,-141]
+[25Jan2025 19:28:37.987] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-142,-141]
+[25Jan2025 19:28:38.019] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-141,-141]
+[25Jan2025 19:28:38.021] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-2250 | 12 | -2256)
+[25Jan2025 19:28:38.043] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-2250 | 12 | -2256)
+[25Jan2025 19:28:38.043] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-141,-141]
+[25Jan2025 19:28:38.067] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-141]
+[25Jan2025 19:28:38.067] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-2250 | 12 | -2256)
+[25Jan2025 19:28:38.069] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-2250 | 12 | -2256)
+[25Jan2025 19:28:38.072] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-141]
+[25Jan2025 19:28:38.109] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-139,-141]
+[25Jan2025 19:28:38.109] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-2219 | 13 | -2252)
+[25Jan2025 19:28:38.114] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-2219 | 13 | -2252)
+[25Jan2025 19:28:38.115] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-2218 | 13 | -2243)
+[25Jan2025 19:28:38.115] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-2218 | 13 | -2243)
+[25Jan2025 19:28:38.116] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-139,-141]
+[25Jan2025 19:28:38.175] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-138,-141]
+[25Jan2025 19:28:38.176] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-138,-141]
+[25Jan2025 19:28:38.505] [Worker-Main-9/DEBUG] [betterdungeons/]: Small Dungeon at -2041 18 -2387
+[25Jan2025 19:28:40.514] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-137,-141]
+[25Jan2025 19:28:40.514] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-2178 | 21 | -2256)
+[25Jan2025 19:28:40.515] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-2178 | 21 | -2256)
+[25Jan2025 19:28:40.516] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/node/sewers_straight at (-2178 | 21 | -2256)
+[25Jan2025 19:28:40.516] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/node/sewers_straight at (-2178 | 21 | -2256)
+[25Jan2025 19:28:40.516] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2177 | 13 | -2246)
+[25Jan2025 19:28:40.516] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2177 | 13 | -2246)
+[25Jan2025 19:28:40.516] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-137,-141]
+[25Jan2025 19:28:41.677] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-136,-141]
+[25Jan2025 19:28:41.678] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (-2172 | 28 | -2250)
+[25Jan2025 19:28:41.678] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (-2172 | 28 | -2250)
+[25Jan2025 19:28:41.679] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-2172 | 28 | -2250)
+[25Jan2025 19:28:41.679] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-2172 | 28 | -2250)
+[25Jan2025 19:28:41.679] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-2178 | 21 | -2256)
+[25Jan2025 19:28:41.686] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-2178 | 21 | -2256)
+[25Jan2025 19:28:41.686] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/node/sewers_straight at (-2178 | 21 | -2256)
+[25Jan2025 19:28:41.690] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/node/sewers_straight at (-2178 | 21 | -2256)
+[25Jan2025 19:28:41.690] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2177 | 13 | -2246)
+[25Jan2025 19:28:41.693] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2177 | 13 | -2246)
+[25Jan2025 19:28:41.693] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-136,-141]
+[25Jan2025 19:28:44.061] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-135,-141]
+[25Jan2025 19:28:44.061] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-135,-141]
+[25Jan2025 19:28:44.235] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-143,-140]
+[25Jan2025 19:28:44.235] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-143,-140]
+[25Jan2025 19:28:44.446] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-142,-140]
+[25Jan2025 19:28:44.446] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-142,-140]
+[25Jan2025 19:28:44.475] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-141,-140]
+[25Jan2025 19:28:44.475] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-2245 | 13 | -2239)
+[25Jan2025 19:28:44.477] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-2245 | 13 | -2239)
+[25Jan2025 19:28:44.477] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-2250 | 12 | -2256)
+[25Jan2025 19:28:44.477] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-2250 | 12 | -2256)
+[25Jan2025 19:28:44.477] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (-2246 | 13 | -2234)
+[25Jan2025 19:28:44.478] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (-2246 | 13 | -2234)
+[25Jan2025 19:28:44.481] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-2245 | 13 | -2225)
+[25Jan2025 19:28:44.481] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-2245 | 13 | -2225)
+[25Jan2025 19:28:44.481] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-141,-140]
+[25Jan2025 19:28:44.501] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-140]
+[25Jan2025 19:28:44.501] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-2245 | 13 | -2239)
+[25Jan2025 19:28:44.501] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-2245 | 13 | -2239)
+[25Jan2025 19:28:44.501] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-2250 | 12 | -2256)
+[25Jan2025 19:28:44.501] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-2250 | 12 | -2256)
+[25Jan2025 19:28:44.501] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (-2246 | 13 | -2234)
+[25Jan2025 19:28:44.501] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (-2246 | 13 | -2234)
+[25Jan2025 19:28:44.502] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-2245 | 13 | -2225)
+[25Jan2025 19:28:44.502] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-2245 | 13 | -2225)
+[25Jan2025 19:28:44.502] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (-2237 | 13 | -2233)
+[25Jan2025 19:28:44.502] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (-2237 | 13 | -2233)
+[25Jan2025 19:28:44.502] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-2228 | 13 | -2233)
+[25Jan2025 19:28:44.503] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-2228 | 13 | -2233)
+[25Jan2025 19:28:44.503] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-140]
+[25Jan2025 19:28:44.663] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-139,-140]
+[25Jan2025 19:28:44.663] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-2223 | 13 | -2232)
+[25Jan2025 19:28:44.664] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-2223 | 13 | -2232)
+[25Jan2025 19:28:44.664] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-2217 | 13 | -2238)
+[25Jan2025 19:28:44.664] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-2217 | 13 | -2238)
+[25Jan2025 19:28:44.664] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-2218 | 13 | -2243)
+[25Jan2025 19:28:44.664] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-2218 | 13 | -2243)
+[25Jan2025 19:28:44.665] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-2228 | 13 | -2233)
+[25Jan2025 19:28:44.665] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-2228 | 13 | -2233)
+[25Jan2025 19:28:44.665] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2222 | 13 | -2237)
+[25Jan2025 19:28:44.671] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2222 | 13 | -2237)
+[25Jan2025 19:28:44.671] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-139,-140]
+[25Jan2025 19:28:44.693] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-138,-140]
+[25Jan2025 19:28:44.693] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-2207 | 13 | -2232)
+[25Jan2025 19:28:44.693] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-2207 | 13 | -2232)
+[25Jan2025 19:28:44.693] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-2206 | 13 | -2233)
+[25Jan2025 19:28:44.694] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-2206 | 13 | -2233)
+[25Jan2025 19:28:44.694] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2222 | 13 | -2237)
+[25Jan2025 19:28:44.694] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2222 | 13 | -2237)
+[25Jan2025 19:28:44.694] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (-2198 | 13 | -2233)
+[25Jan2025 19:28:44.694] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (-2198 | 13 | -2233)
+[25Jan2025 19:28:44.694] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (-2198 | 13 | -2228)
+[25Jan2025 19:28:44.698] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (-2198 | 13 | -2228)
+[25Jan2025 19:28:44.698] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-2201 | 13 | -2233)
+[25Jan2025 19:28:44.698] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-2201 | 13 | -2233)
+[25Jan2025 19:28:44.698] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-138,-140]
+[25Jan2025 19:28:45.197] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-137,-140]
+[25Jan2025 19:28:45.197] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-2178 | 21 | -2256)
+[25Jan2025 19:28:45.197] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-2178 | 21 | -2256)
+[25Jan2025 19:28:45.197] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/node/sewers_straight at (-2178 | 21 | -2256)
+[25Jan2025 19:28:45.198] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/node/sewers_straight at (-2178 | 21 | -2256)
+[25Jan2025 19:28:45.198] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-2192 | 13 | -2234)
+[25Jan2025 19:28:45.199] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-2192 | 13 | -2234)
+[25Jan2025 19:28:45.199] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2177 | 13 | -2246)
+[25Jan2025 19:28:45.199] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2177 | 13 | -2246)
+[25Jan2025 19:28:45.199] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-137,-140]
+[25Jan2025 19:28:45.243] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-136,-140]
+[25Jan2025 19:28:45.243] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-2173 | 22 | -2239)
+[25Jan2025 19:28:45.244] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-2173 | 22 | -2239)
+[25Jan2025 19:28:45.244] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:default/node/connector/connector_3 at (-2173 | 22 | -2239)
+[25Jan2025 19:28:45.244] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:default/node/connector/connector_3 at (-2173 | 22 | -2239)
+[25Jan2025 19:28:45.244] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-2178 | 21 | -2256)
+[25Jan2025 19:28:45.244] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-2178 | 21 | -2256)
+[25Jan2025 19:28:45.244] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/node/sewers_straight at (-2178 | 21 | -2256)
+[25Jan2025 19:28:45.245] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/node/sewers_straight at (-2178 | 21 | -2256)
+[25Jan2025 19:28:45.245] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (-2173 | 22 | -2234)
+[25Jan2025 19:28:45.245] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (-2173 | 22 | -2234)
+[25Jan2025 19:28:45.246] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:default/corridor/stone_corridor at (-2173 | 22 | -2234)
+[25Jan2025 19:28:45.246] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:default/corridor/stone_corridor at (-2173 | 22 | -2234)
+[25Jan2025 19:28:45.246] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-2174 | 22 | -2225)
+[25Jan2025 19:28:45.246] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-2174 | 22 | -2225)
+[25Jan2025 19:28:45.247] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/room/spawner_room at (-2174 | 22 | -2225)
+[25Jan2025 19:28:45.247] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@551a97e for dungeoncrawl:catacombs/room/spawner_room at (-2174 | 22 | -2225)
+[25Jan2025 19:28:45.247] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-2172 | 13 | -2231)
+[25Jan2025 19:28:45.247] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-2172 | 13 | -2231)
+[25Jan2025 19:28:45.247] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-2173 | 13 | -2230)
+[25Jan2025 19:28:45.247] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-2173 | 13 | -2230)
+[25Jan2025 19:28:45.248] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2177 | 13 | -2246)
+[25Jan2025 19:28:45.253] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-2177 | 13 | -2246)
+[25Jan2025 19:28:45.253] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (-2174 | 13 | -2225)
+[25Jan2025 19:28:45.253] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (-2174 | 13 | -2225)
+[25Jan2025 19:28:45.253] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-136,-140]
+[25Jan2025 19:28:45.341] [Worker-Main-47/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -2000 -2576 1 8 true
+[25Jan2025 19:28:45.344] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-135,-140]
+[25Jan2025 19:28:45.344] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-135,-140]
+[25Jan2025 19:28:48.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[25Jan2025 19:28:56.929] [Worker-Main-9/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[25Jan2025 19:28:56.932] [Worker-Main-9/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[25Jan2025 19:28:57.001] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[25Jan2025 19:28:57.036] [Worker-Main-47/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -1952 -2832 1 8 false
+[25Jan2025 19:29:40.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[25Jan2025 19:31:17.941] [Server thread/DEBUG] [ModernFix/]: Creating locate task for [net.aurelj.dungeons_arise.structures.haunted.PlagueAsylumStructure@482a3cf7] in ServerLevel[world] around BlockPos{x=-2279, y=146, z=-2507} within 50 chunks
+[25Jan2025 19:31:17.944] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Trying to locate [dungeons_arise:plague_asylum] in ServerLevel[world] around BlockPos{x=-2279, y=146, z=-2507} within 50 chunks
+[25Jan2025 19:31:17.945] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[25Jan2025 19:31:19.549] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Found [dungeons_arise:plague_asylum] at BlockPos{x=-3584, y=0, z=3984}
+[25Jan2025 19:31:27.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9651ms or 193 ticks behind
