@@ -1901,6 +1901,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_ocean": "2025-01-25 21:37:52 +0000",
       "in_pyramid_nether": "2025-01-18 20:49:45 +0000",
       "in_pyramid_badlands": "2025-01-22 21:40:12 +0000",
       "in_pyramid_flower_forest": "2025-01-08 20:32:10 +0000"

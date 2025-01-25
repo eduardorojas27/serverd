@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-25 21:38:02 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_barakoana": {
     "criteria": {
       "barakoana": "2025-01-09 22:40:00 +0000"
@@ -2015,6 +2021,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_ocean": "2025-01-25 21:37:49 +0000",
       "in_pyramid_nether": "2025-01-18 20:34:44 +0000",
       "in_pyramid_badlands": "2025-01-22 21:40:14 +0000",
       "in_pyramid_snowy": "2025-01-24 17:29:31 +0000",
@@ -3682,6 +3689,12 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-01-09 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-25 21:38:02 +0000"
     },
     "done": true
   },
@@ -5831,6 +5844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-25 21:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-04 04:14:12 +0000"
@@ -6696,6 +6715,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2025-01-18 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-25 21:38:02 +0000"
     },
     "done": true
   },
