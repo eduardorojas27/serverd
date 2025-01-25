@@ -7130,6 +7130,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-25 20:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-01-03 04:46:22 +0000"
