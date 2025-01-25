@@ -1769,6 +1769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-25 20:36:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-05 17:21:31 +0000"
@@ -4320,6 +4326,7 @@
       "entered_fishing_ship": "2025-01-06 20:13:23 +0000",
       "entered_dungeon_variant": "2025-01-13 22:19:15 +0000",
       "entered_watch_tower": "2025-01-24 17:31:21 +0000",
+      "entered_sunken_shrine": "2025-01-25 20:36:04 +0000",
       "entered_ruined_building": "2025-01-05 17:58:01 +0000",
       "entered_desert_tomb": "2025-01-08 20:26:05 +0000"
     },
@@ -5164,6 +5171,12 @@
   "smallships:recipes/lotr_beech_cog": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-25 20:36:20 +0000"
     },
     "done": true
   },
@@ -7025,6 +7038,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-01-25 20:36:09 +0000"
     },
     "done": true
   },

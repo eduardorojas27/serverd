@@ -12786,3 +12786,11 @@ java.util.ConcurrentModificationException: null
 [25Jan2025 20:32:36.739] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
 [25Jan2025 20:33:17.701] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [25Jan2025 20:33:17.714] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jan2025 20:35:43.830] [Server thread/DEBUG] [ModernFix/]: Creating locate task for [net.minecraft.world.gen.feature.structure.BuriedTreasureStructure@7ef7ea57] in ServerLevel[world] around BlockPos{x=-3835, y=43, z=-3347} within 50 chunks
+[25Jan2025 20:35:43.830] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Trying to locate [minecraft:buried_treasure] in ServerLevel[world] around BlockPos{x=-3835, y=43, z=-3347} within 50 chunks
+[25Jan2025 20:35:44.744] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Found [minecraft:buried_treasure] at BlockPos{x=-4455, y=0, z=-3383}
+[25Jan2025 20:38:17.509] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jan2025 20:38:17.522] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jan2025 20:39:07.203] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3921, y=61, z=-3383} BlockPos{x=-3921, y=60, z=-3383}
+[25Jan2025 20:43:17.592] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jan2025 20:43:17.605] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
