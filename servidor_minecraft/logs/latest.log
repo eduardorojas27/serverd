@@ -2573,3 +2573,23 @@ java.util.ConcurrentModificationException: null
 [25Jan2025 21:53:44.372] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=-7182, y=145, z=-4254}
 [25Jan2025 21:53:44.394] [Worker-Main-1/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 271  Position = BlockPos{x=-7184, y=150, z=-4256}
 [25Jan2025 21:54:39.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3900ms or 78 ticks behind
+[25Jan2025 21:56:40.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[25Jan2025 21:56:40.715] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[25Jan2025 21:56:40.716] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: Server is closing. No Time Shall Not Pass modules have been toggled off
+[25Jan2025 21:56:40.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jan2025 21:56:40.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jan2025 21:56:40.799] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Internal Exception: java.lang.StackOverflowError
+[25Jan2025 21:56:40.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[25Jan2025 21:56:40.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jan2025 21:56:40.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jan2025 21:56:45.763] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jan2025 21:56:45.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jan2025 21:56:45.764] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jan2025 21:56:45.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jan2025 21:56:45.765] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jan2025 21:56:45.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[25Jan2025 21:56:45.765] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[25Jan2025 21:56:45.887] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jan2025 21:56:46.281] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jan2025 21:56:46.281] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jan2025 21:56:46.281] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
