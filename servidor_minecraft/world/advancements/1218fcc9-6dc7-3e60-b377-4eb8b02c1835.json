@@ -4136,6 +4136,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-25 20:12:13 +0000",
       "entered_hay_storage": "2025-01-25 19:33:39 +0000",
+      "entered_pirate_ship": "2025-01-25 21:30:24 +0000",
       "entered_fishing_ship": "2025-01-09 21:23:31 +0000",
       "entered_dungeon_variant": "2025-01-13 22:18:42 +0000",
       "entered_sunken_shrine": "2025-01-25 20:35:50 +0000",
@@ -6122,6 +6123,12 @@
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-01-19 22:20:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-01-25 21:30:24 +0000"
     },
     "done": true
   },

@@ -2358,3 +2358,16 @@ java.util.ConcurrentModificationException: null
 [25Jan2025 21:08:08.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +1
 [25Jan2025 21:14:43.490] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
 [25Jan2025 21:24:43.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Alex's Mobs]
+[25Jan2025 21:27:39.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -4313.5, 64.5, -3747.5]
+[25Jan2025 21:27:43.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[25Jan2025 21:30:24.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Ahoy Captain]
+[25Jan2025 21:30:27.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Ahoy Captain]
+[25Jan2025 21:32:53.576] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[25Jan2025 21:32:53.630] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[25Jan2025 21:32:53.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[25Jan2025 21:33:04.868] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2c4fb542
+[25Jan2025 21:33:04.877] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:39359] logged in with entity id 75562 at (-4065.5379792179615, 66.36046399091853, -4172.619878514491)
+[25Jan2025 21:33:04.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[25Jan2025 21:33:04.993] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@359cd6e8 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Jan2025 21:33:04.994] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@65347044 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Jan2025 21:34:59.977] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
