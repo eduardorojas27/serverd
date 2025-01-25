@@ -2013,6 +2013,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-01-25 21:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-01-09 03:06:45 +0000"
@@ -3610,7 +3616,8 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
-      "in_outpost_crimson": "2025-01-09 04:28:56 +0000"
+      "in_outpost_crimson": "2025-01-09 04:28:56 +0000",
+      "in_outpost_oak": "2025-01-25 21:50:23 +0000"
     },
     "done": false
   },
